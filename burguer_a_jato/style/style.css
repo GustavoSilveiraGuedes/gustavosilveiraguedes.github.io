@@ -1,0 +1,141 @@
+@charset "UTF-8";
+
+@font-face {
+    font-family: burguer;
+    src: url('../fontes/Lemon\ Shake\ Shake.ttf') format('TrueType');
+}
+
+:root{
+    --font-burguer: burguer, cursive;
+    --font-padrao: arial, Verdana, Helvetica, sans-serif;
+}
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+header{
+    background-color: gray;
+    padding-top: 60px;
+    margin: auto;
+    height: 150px;
+}
+    header h1{
+        font-family: var(--font-burguer);
+        font-size: 3em;
+        text-align: center;
+        margin-bottom: 20px;
+    }
+    header p{
+        font-family: var(--font-burguer);
+        text-align: center;
+        font-size: 1em;
+    }
+
+
+nav{
+    background-color: lightgray;
+    padding: 5px;
+}
+    nav a{
+        text-decoration: none;
+        color: black;
+        border: 1px solid black;
+        border-radius: 5px;
+
+        margin-right: 3px;
+        padding: 3px;
+        transition-duration: .5s;
+    }
+        nav a:hover{
+            color: white;
+            background-color: black;
+        }
+
+
+
+main{
+    background-color: darkgray;
+    height: auto;
+    max-width: 1036px;
+    min-width: none;
+
+    margin: auto;
+    padding: 20px;
+}
+    main div.hamburguers{       
+        display: inline-block;
+        height: 500px;
+        width: 200px;
+        border: 2px solid black;
+        border-radius: 20px;
+    }
+        #hb1{
+        background-color: black;
+        background-image: url(../imagens/hb1.jpg);
+        background-position: center;
+        background-size: cover;
+        }
+        #hb2{
+        background-color: black;
+        background-image: url(../imagens/hb2.jpg);
+        background-position: center;
+        background-size: cover;
+        }
+        #hb3{
+            background-color: black;
+            background-image: url(../imagens/hb3.jpg);
+            background-position: center;
+            background-size: cover;
+        }
+        #hb4{
+            background-color: black;
+            background-image: url(../imagens/hb4.jpg);
+            background-position: center;
+            background-size: cover;
+        }
+        #hb5{
+            background-color: black;
+            background-image: url(../imagens/hb5.jpg);
+            background-position: center;
+            background-size: cover;
+        }
+        #hb6{
+            background-color: black;
+            background-image: url(../imagens/hb6.jpg);
+            background-position: center;
+            background-size: cover;
+        }
+        #hb7{
+            background-color: black;
+            background-image: url(../imagens/hb7.jpg);
+            background-position: center;
+            background-size: cover;
+        }
+        #hb8{
+            background-color: black;
+            background-image: url(../imagens/hb8.jpg);
+            background-position: center;
+            background-size: cover;
+        }
+        #hb9{
+            background-color: black;
+            background-image: url(../imagens/hb9.jpg);
+            background-position: center;
+            background-size: cover;
+        }
+        #hb10{
+            background-color: black;
+            background-image: url(../imagens/hb10.jpg);
+            background-position: center;
+            background-size: cover;
+        }
+
+
+
+
+
+footer{
+    background-color: lightgray;
+}
