@@ -66,22 +66,30 @@ main{
 }
     main div.hamburguers{       
         display: inline-block;
-        height: 500px;
+        height: 200px;
         width: 200px;
         border: 2px solid black;
         border-radius: 20px;
+        transition-duration: .5s;
     }
+        div.hamburguers > p{
+            display: ;
+        }
+        div.hamburguers:hover{
+            filter: blur(2px);
+
+        }
         #hb1{
-        background-color: black;
-        background-image: url(../imagens/hb1.jpg);
-        background-position: center;
-        background-size: cover;
+            background-color: black;
+            background-image: url(../imagens/hb1.jpg);
+            background-position: center;
+            background-size: cover;
         }
         #hb2{
-        background-color: black;
-        background-image: url(../imagens/hb2.jpg);
-        background-position: center;
-        background-size: cover;
+            background-color: black;
+            background-image: url(../imagens/hb2.jpg);
+            background-position: center;
+            background-size: cover;
         }
         #hb3{
             background-color: black;
