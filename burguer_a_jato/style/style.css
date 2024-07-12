@@ -1,12 +1,17 @@
 @charset "UTF-8";
 
 @font-face {
-    font-family: burguer;
+    font-family: 'logo';
     src: url('../fontes/Lemon\ Shake\ Shake.ttf') format('TrueType');
+}
+@font-face {
+    font-family:'burguer';
+    src: url('../fontes/Blue_Cashews.otf') format('OpenType'); 
 }
 
 :root{
-    --font-burguer: burguer, cursive;
+    --font-logo: 'logo', cursive;
+    --font-burguer: 'burguer', cursive;
     --font-padrao: arial, Verdana, Helvetica, sans-serif;
 }
 
@@ -23,13 +28,13 @@ header{
     height: 150px;
 }
     header h1{
-        font-family: var(--font-burguer);
+        font-family: var(--font-logo);
         font-size: 3em;
         text-align: center;
         margin-bottom: 20px;
     }
     header p{
-        font-family: var(--font-burguer);
+        font-family: var(--font-logo);
         text-align: center;
         font-size: 1em;
     }
@@ -59,7 +64,7 @@ nav{
 main{
     background-color: darkgray;
     height: auto;
-    max-width: 1200px;
+    max-width: 1000px;
     min-width: none;
 
     margin: auto;
@@ -69,43 +74,63 @@ main{
         max-width: 500px;
         min-width: auto;
         height: 300px;
-        box-shadow: 4px 5px 6px 1px rgba(0, 0, 0, 0.500);
         border-radius: 20px;
-        margin-bottom: 90px;
         transition-duration: .5s;
-    }
-        div.left{
 
-        }
-        div.right{
+        text-align: center;
+
+        padding-top: 60px;
+    }
+        div.hamburguers:hover{
             
         }
-        div.hamburguers:hover{
-            filter: blur();
+        div.left{
+            margin: 0px auto 90px 0px;
+            box-shadow: -4px 5px 6px 1px rgba(0, 0, 0, 0.500);
+        }
+        div.right{
+            margin: 0px 0px 90px auto;
+            box-shadow: 4px 5px 6px 1px rgba(0, 0, 0, 0.500);
         }
         
         div.hamburguers h1{
+            font-family: var(--font-burguer);
             font-size: 2em;
-            text-align: center;
             color: transparent;
             transition-duration: .45s;
-
-            margin-top: 40px;
         }
-        div.hamburguers:hover h1{
-            color: white;
-            display: block;
-        }
+            div.hamburguers:hover h1{
+                color: white;
+                display: block;
+            }
 
         div.hamburguers p{
+            font-family: var(--font-padrao);
             font-size: 1.6em;
             color: transparent;
             transition-duration: .45s;
+            margin-bottom: 100px;
         }
-        div.hamburguers:hover p{
-            color: white;
-            display: block;
+            div.hamburguers:hover p{
+                color: white;
+                display: block;
+            }
+
+        div.hamburguers a{
+            font-family: var(--font-padrao);
+            font-size: 1.1em;
+            color: transparent;
+            text-decoration: none;
+            transition-duration: .45s;
+
+            margin-top: 40px;
+            border-radius: 20px;
+            padding: 15px;
         }
+            div.hamburguers:hover a{
+                    background-color: red;
+                    color: white;
+                }
 
     #hb1{
         background-color: black;
