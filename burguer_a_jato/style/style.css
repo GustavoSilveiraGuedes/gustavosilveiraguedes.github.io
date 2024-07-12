@@ -59,26 +59,33 @@ nav{
 main{
     background-color: darkgray;
     height: auto;
-    max-width: 1036px;
+    max-width: 1200px;
     min-width: none;
 
     margin: auto;
     padding: 20px;
 }
-    main div.hamburguers{       
-        display: inline-block;
-        min-height: 200px;
-        min-width: 200px;
-        border: 2px solid black;
+    main div.hamburguers{
+        max-width: 500px;
+        min-width: auto;
+        height: 300px;
+        box-shadow: 4px 5px 6px 1px rgba(0, 0, 0, 0.500);
         border-radius: 20px;
+        margin-bottom: 90px;
         transition-duration: .5s;
     }
+        div.left{
+
+        }
+        div.right{
+            
+        }
         div.hamburguers:hover{
             filter: blur();
         }
         
         div.hamburguers h1{
-            font-size: 1.4em;
+            font-size: 2em;
             text-align: center;
             color: transparent;
             transition-duration: .45s;
@@ -91,7 +98,7 @@ main{
         }
 
         div.hamburguers p{
-            font-size: 2em;
+            font-size: 1.6em;
             color: transparent;
             transition-duration: .45s;
         }
@@ -99,6 +106,7 @@ main{
             color: white;
             display: block;
         }
+
     #hb1{
         background-color: black;
         background-image: url(../imagens/hb1.jpg);
