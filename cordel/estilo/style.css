@@ -20,6 +20,7 @@ html, body{
     font-family: var(--fonte-normal);
 }
 
+
 a{
     color: white;
     text-decoration: none;
@@ -74,8 +75,6 @@ section{
         section#img02{
             background-image: url('../imagens/background002.jpg');
         }
-
-
 
 
 footer{
