@@ -13,31 +13,85 @@
     padding: 0px;
 }
 
+a{
+    text-decoration: none;
+    color: white;
+    font-weight: bolder;
+}
+    a:hover{
+        text-decoration: underline;
+    }
+    
+body{
+    background-color: rgb(255, 210, 217);
+}
+
 header{
+    box-shadow: 0px 0px 14px 0px black;
     padding: 50px;
     color: white;
     text-align: center;
-    background-color: black;
+    background-image: linear-gradient(to right, purple, red);
 }
     header h1{
         font-size: 4em;
     }
+
 main{
+    min-width: auto;
+    max-width: 1500px;
+    background-color: white;
+    margin: auto;
+    padding: 50px 5px 1px 5px;
+    margin-bottom: 20px;
+    border-radius: 0px 0px 20px 20px;
 }
     section{
         font-family: var(--fonteCursiva);
-        margin: 60px 0px;
-        padding-left: 10px;
+        margin-bottom: 40px;
+        padding: 2dvh 0px 2dvw 10px;
     }
+        section.imagem{
+            box-shadow: inset 3px 4px 4px 1px black;
+            border-radius: 10px;
+        }
+        section#img1{
+            height: 30dvw;
+            background-image: url(../imagens/uninverso.jpg);
+            background-size: cover;
+            background-position: center;
+            background-attachment: fixed;
+        }
+        section#img2{
+            height: 30dvw;
+            background-image: url(../imagens/Flores.jpg);
+            background-size: cover;
+            background-position: center;
+            background-attachment: fixed;
+        }
+        section#img3{
+            height: 30dvw;
+            background-image: url(../imagens/maos.jpg);
+            background-size: cover;
+            background-position: bottom;
+            background-attachment: fixed;
+        }
+            section.imagem p{
+                background-color: rgba(255, 255, 255, 0.300);
+            }
+
         section p{
             display: inline-block;
-            background-color: rgba(128, 128, 128, 0.2);
             text-shadow: 0px 0px 1px black;
             line-height: 2em;
-            font-size: 3.2dvw;
-            padding: 5px;
-            border-radius: 20px;
+            font-size: 3dvw;
+            padding: 2dvw;
+            border-radius: 10px;
         }
-footer{
 
+footer{
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 5px;
 }
