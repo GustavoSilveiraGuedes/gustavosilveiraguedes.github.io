@@ -23,16 +23,20 @@ header{
         font-size: 4em;
     }
 main{
-    font-family: var(--fonteCursiva);
 }
     section{
-        margin: 50px 0px;
+        font-family: var(--fonteCursiva);
+        margin: 60px 0px;
         padding-left: 10px;
     }
         section p{
+            display: inline-block;
+            background-color: rgba(128, 128, 128, 0.2);
             text-shadow: 0px 0px 1px black;
-            line-height: 2.5em;
+            line-height: 2em;
             font-size: 3.2dvw;
+            padding: 5px;
+            border-radius: 20px;
         }
 footer{
 
