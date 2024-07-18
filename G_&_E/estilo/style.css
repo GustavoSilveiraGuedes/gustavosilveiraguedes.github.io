@@ -73,7 +73,7 @@ main{
             height: 30dvw;
             background-image: url(../imagens/maos.jpg);
             background-size: cover;
-            background-position: top;
+            background-position: center;
             background-attachment: fixed;
         }
             section.imagem p{
