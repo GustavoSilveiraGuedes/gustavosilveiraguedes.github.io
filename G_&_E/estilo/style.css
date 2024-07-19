@@ -52,25 +52,22 @@ main{
         padding: 2dvh 0px 2dvw 10px;
     }
         section.imagem{
-            box-shadow: inset 3px 4px 4px 1px black;
+            box-shadow: inset 3px 4px 4px 1px rgba(0, 0, 0, 0.411);
             border-radius: 10px;
         }
         section#img1{
-            height: 30dvw;
             background-image: url(../imagens/uninverso.jpg);
             background-size: cover;
             background-position: center;
             background-attachment: fixed;
         }
         section#img2{
-            height: 30dvw;
             background-image: url(../imagens/Flores.jpg);
             background-size: cover;
             background-position: center;
             background-attachment: fixed;
         }
         section#img3{
-            height: 30dvw;
             background-image: url(../imagens/maos.jpg);
             background-size: cover;
             background-position: center;
