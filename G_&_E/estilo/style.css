@@ -24,6 +24,7 @@ a{
     
 body{
     background-color: rgb(255, 210, 217);
+    background-image: url(../imagens/fundo.jpg);
 }
 
 header{
