@@ -51,7 +51,7 @@ main{
 }
     section{
         font-family: var(--fonteCursiva);
-        margin-bottom: 20vw;
+        margin-bottom: 25vw;
         padding: 2vh 0px 2vw 10px;
     }
         section.imagem{
@@ -75,6 +75,9 @@ main{
             background-size: cover;
             background-position: center;
             background-attachment: fixed;
+        }
+        section#fim{
+            margin-bottom: 15vw;
         }
             section.imagem p{
                 background-color: rgba(255, 255, 255, 0.300);
