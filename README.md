@@ -1,8 +1,10 @@
 # sites
-<a href="https://gustavosilveiraguedes.github.io/android/index.html">Android</a>
+<a href="android/index.html">Android</a>
 <br>
-<a href="https://gustavosilveiraguedes.github.io/cordel/index.html">Cordel</a>
+<a href="cordel/index.html">Cordel</a>
+<br>
+<a href="projeto_social/index.html">Projeto Social</a>
 
 <p>==========</p>
 
-<a href="https://gustavosilveiraguedes.github.io/burguer_a_jato/index.html">Burguer a Jato</a>
+<a href="burguer_a_jato/index.html">Burguer a Jato</a>
