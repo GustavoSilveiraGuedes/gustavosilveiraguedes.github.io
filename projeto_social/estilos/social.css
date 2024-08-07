@@ -28,7 +28,7 @@ a{
 
     background: darkred;
 
-    transition-duration: .3s;
+    transition-duration: .15s;
 }
     a:hover{
         background-color: red;
