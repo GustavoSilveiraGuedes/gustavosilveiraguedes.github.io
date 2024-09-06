@@ -9,7 +9,7 @@ Descktop: 1024px até 1200px
 Grandes telas: acima de 1200px
 */
 
-@media screen and (min-width: 640px) and (max-width: 1024px) {
+@media screen and (min-width: 590px) and (max-width: 1024px) {
 
     body {
         background-image: linear-gradient(to top, #49a09d, #5f2c82);
@@ -21,10 +21,10 @@ Grandes telas: acima de 1200px
             & div#img {
                 float: left;
                 height: 100%;
-                width: 30%;
+                width: 35%;
             }
             & div#formulario {
-                width: 70%;
+                width: 65%;
                 float: right;
             }
     }
