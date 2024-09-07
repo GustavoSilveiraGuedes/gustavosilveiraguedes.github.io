@@ -33,9 +33,9 @@ main {
         left: 50%;
         transform: translate(-50%, -50%);
 
-        height: 800px;
+        height: 750px;
         max-height: 90vh;
-        width: 350px;
+        width: 400px;
         max-width: 90vw;
 
         border-radius: 20px;
