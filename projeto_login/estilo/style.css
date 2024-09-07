@@ -34,9 +34,9 @@ main {
         transform: translate(-50%, -50%);
 
         height: 600px;
-        max-height: 90vh;
+        max-height: 90dvh;
         width: 300px;
-        max-width: 90vw;
+        max-width: 90dvw;
 
         border-radius: 20px;
         overflow: hidden;
