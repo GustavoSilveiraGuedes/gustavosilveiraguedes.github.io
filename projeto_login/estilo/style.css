@@ -33,9 +33,10 @@ main {
         left: 50%;
         transform: translate(-50%, -50%);
 
-        height: 500px;
+        height: 600px;
         max-height: 90vh;
-        width: 250px;
+        width: 300px;
+        max-width: 90vw;
 
         border-radius: 20px;
         overflow: hidden;
