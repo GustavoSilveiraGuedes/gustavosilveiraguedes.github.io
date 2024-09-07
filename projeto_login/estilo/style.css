@@ -33,7 +33,7 @@ main {
         left: 50%;
         transform: translate(-50%, -50%);
 
-        height: 600px;
+        height: 800px;
         max-height: 90dvh;
         width: 300px;
         max-width: 90dvw;
