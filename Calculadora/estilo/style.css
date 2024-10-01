@@ -1,0 +1,62 @@
+@charset "UTF-8";
+
+    /* Typical Device Breackpoints
+    ------------------------------
+    Pequenas telas: até 360px
+    Celular: 360px até 640px
+    Tablet: 768px até 1024px
+    Descktop: 1024px até 1200px
+    Grandes telas: acima de 1200px
+    */
+
+    
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+    main {
+        display: flex;
+        flex-flow: row nowrap;
+        justify-content: center;
+        align-items: center;
+
+        height: 100vh;
+        width: 100vw;
+
+        background: darkgray url(../imagens/fundo.jpg) top no-repeat;
+        background-size: cover;
+    }
+
+        div#calculadora {
+
+            height: 75vh;
+            width: 30vw;
+            padding: 15px;
+            border-radius: 20px;
+
+            background-color: black;
+        }
+            div#tela {
+                height: 15%;
+                border-radius: 20px;
+
+                background-color: white;
+            }
+
+            div#teclado {
+                height: 80%;
+                margin-top: 20px;
+
+
+                background-color: white;
+            }
+                table td {
+                    padding: 20px;
+
+                    border: 2px solid black;
+
+                    text-align: center;
+
+                    background-color: darkgray;
+                }
