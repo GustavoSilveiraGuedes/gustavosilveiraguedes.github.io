@@ -1,2 +1,2 @@
 # sites
-<a href="G&L Gaming/index.html">G&L Gaming</a>
+<a href="G&LGaming/index.html">G&L Gaming</a>
