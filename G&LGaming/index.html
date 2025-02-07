@@ -3,6 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="estilos/index.css">
     <title>G&L Gaming</title>
 </head>
 <body>
@@ -11,7 +12,29 @@
         
     </header>
     <body>
-        
+        <div>
+            <form action="" method="get">
+                <label for="inome">*Nome:</label>
+                <input type="text" name="nome" id="inome" placeholder="Nome" required>
+                <label for="isobrenome">Sobrenome:</label>
+                <input type="text" name="sobrenome" id="isobrenome" placeholder="Sobrenome">
+                <label for="irg">*RG:</label>
+                <input type="text" name="rg" id="irg" placeholder="RG" required>
+                <label for="icpf">*CPF:</label>
+                <input type="text" name="cpf" id="icpf" placeholder="CPF" required>
+                <label for="idataNasc">*Data De Nascimento:</label>
+                <input type="date" name="dataNasc" id="idataNasc" required>
+                <label for="itelefone">Telefone:</label>
+                <input type="tel" name="telefone" id="itelefone" placeholder="Telefone">
+                <label for="inomeUsu">*Nome de Usuario:</label>
+                <input type="text" name="nomeUsu" id="inomeUsu" placeholder="Nome de Usuário" required>
+                <label for="iemail">*E-mail:</label>
+                <input type="email" name="email" id="iemail" placeholder="E-mail" required>
+                <label for="isenha">*Senha:</label>
+                <input type="password" name="senha" id="isenha" minlength="8" placeholder="senha" required>
+                <input type="submit" value="Cadastrar">
+            </form>
+        </div>
     </body>
     <footer>
 
