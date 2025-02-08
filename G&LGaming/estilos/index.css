@@ -1,10 +1,92 @@
 @charset "UTF-8";
 
+/*
+CORES
+#1E3A8A azul 
+#9C27B0 roxo
+*/
+
 *{
     margin: 0px;
     padding: 0px;
-    border: 1px solid black;
+    font-family: Arial, Helvetica, sans-serif;
 }
-body {
-    background-color: gray;
+
+body{
+    background-image: url(../imagens/planoFundo.jfif);
+    background-repeat: repeat;
 }
+
+
+header{
+    padding: 3vw;
+    text-align: center;
+}
+    header > h1{
+        color: white;
+    }
+
+main > div {
+    padding: 15px;
+    margin: auto;
+    margin-bottom: 35px;
+
+    min-height: 70vh;
+    min-width: 400px;
+    max-width: 80vw;
+
+    border-radius: 20px;
+
+    color: white;
+    background-image: linear-gradient(#322e5f, #1b3478);
+}
+    main > div > h1{
+        text-align: center;
+    }
+    main > div fieldset {
+        margin-bottom: 60px;
+    }
+    main > div legend {
+        margin-left: 10px;
+    }
+    main > div div{
+        display: inline-block;
+        padding: 10px;
+    }
+    main > div a{
+        color: white;
+    }
+    #submit{
+        display: block;
+        margin: auto;
+        margin-bottom: 60px;
+
+        padding: 15px;
+
+        width: 150px;
+
+        border: none;
+        border-radius: 10px;
+
+        text-decoration: none;
+        text-align: center;
+        color: white;
+
+        background-color: #9C27B0;
+    }
+        #submit:hover{
+            background-color: #ae2ec5;
+        }
+        #submit:active{
+            background-color: #a428ba;
+        }
+
+    footer{
+        padding: 4px;
+        background-color: black;
+        color: white;
+    }
+        footer a{
+            text-decoration: none;
+            color: #9C27B0;
+        }

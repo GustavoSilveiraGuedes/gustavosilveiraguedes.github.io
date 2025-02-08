@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-br">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -8,36 +8,61 @@
 </head>
 <body>
     <header>
-        <h1>G&L Gamin</h1>
-        
+        <h1>G&L Gaming</h1>
     </header>
-    <body>
+    <main>
         <div>
-            <form action="" method="get">
-                <label for="inome">*Nome:</label>
-                <input type="text" name="nome" id="inome" placeholder="Nome" required>
-                <label for="isobrenome">Sobrenome:</label>
-                <input type="text" name="sobrenome" id="isobrenome" placeholder="Sobrenome">
-                <label for="irg">*RG:</label>
-                <input type="text" name="rg" id="irg" placeholder="RG" required>
-                <label for="icpf">*CPF:</label>
-                <input type="text" name="cpf" id="icpf" placeholder="CPF" required>
-                <label for="idataNasc">*Data De Nascimento:</label>
-                <input type="date" name="dataNasc" id="idataNasc" required>
-                <label for="itelefone">Telefone:</label>
-                <input type="tel" name="telefone" id="itelefone" placeholder="Telefone">
-                <label for="inomeUsu">*Nome de Usuario:</label>
-                <input type="text" name="nomeUsu" id="inomeUsu" placeholder="Nome de Usuário" required>
-                <label for="iemail">*E-mail:</label>
-                <input type="email" name="email" id="iemail" placeholder="E-mail" required>
-                <label for="isenha">*Senha:</label>
-                <input type="password" name="senha" id="isenha" minlength="8" placeholder="senha" required>
-                <input type="submit" value="Cadastrar">
+            <h1>Realize seu cadastro aqui</h1>
+            <form action="#" method="get">
+                <fieldset>
+                    <legend>Informações pessoais:</legend>
+                    <div>
+                        <label for="inome">*Nome:</label>
+                        <input type="text" name="nome" id="inome" placeholder="Nome" size="20" required>
+                    </div>
+                    <div>
+                        <label for="isobrenome">Sobrenome:</label>
+                        <input type="text" name="sobrenome" id="isobrenome" placeholder="Sobrenome">
+                    </div>
+                    <div>
+                        <label for="idataNasc">*Data De Nascimento:</label>
+                        <input type="date" name="dataNasc" id="idataNasc" required>
+                    </div>
+                    <div>
+                        <label for="itelefone">Telefone:</label>
+                        <input type="tel" name="telefone" id="itelefone" placeholder="Telefone">
+                    </div>
+                </fieldset>
+                <fieldset>
+                    <legend>Informações de segurança e monitoramento</legend>
+                    <div>
+                        <label for="irg">*RG:</label>
+                        <input type="text" name="rg" id="irg" placeholder="RG" required>
+                    </div>
+                    <div>
+                        <label for="icpf">*CPF:</label>
+                        <input type="text" name="cpf" id="icpf" placeholder="CPF" required>
+                    </div>
+                    <div>
+                        <label for="inomeUsu">*Nome de Usuario:</label>
+                        <input type="text" name="nomeUsu" id="inomeUsu" placeholder="Nome de Usuário" required>
+                    </div>
+                    <div>
+                        <label for="iemail">*E-mail:</label>
+                        <input type="email" name="email" id="iemail" placeholder="E-mail" required>
+                    </div>
+                    <div>
+                        <label for="isenha">*Senha:</label>
+                        <input type="password" name="senha" id="isenha" minlength="8" placeholder="Senha" required>
+                    </div>
+                </fieldset>
+                <input id="submit" type="submit" value="Cadastrar" >
             </form>
+            <a href="#">Já possui uma conta?</a>
         </div>
-    </body>
+    </main>
     <footer>
-
+        <P>Site criado por <a href="https://www.instagram.com/elbatatonn/">Gustavo Silveira Guedes</a> e <a href="">Luiz Antonio de S. S. Koike</a></P>
     </footer>
 </body>
 </html>
