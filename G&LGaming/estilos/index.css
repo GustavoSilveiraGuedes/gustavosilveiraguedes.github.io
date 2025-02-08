@@ -31,15 +31,13 @@ header{
     header > h1{
         color: white;
         text-shadow: 1px 1px 1px black;
-
     }
 
 main > div {
-    padding: 15px;
+    padding: 10px 15px;
     margin: auto;
-    margin-bottom: 35px;
 
-    min-height: 70vh;
+    min-height: auto;
     min-width: 400px;
     max-width: 70vw;
 
@@ -52,14 +50,14 @@ main > div {
 }
     main > div > h1{
         text-align: center;
-        margin-bottom: 5px;
+        margin-bottom: 1%;
         text-shadow: 1px 1px 1px black;
     }
     main > div fieldset {
         width: 80%;
-        text-align: center;
+        text-align: left;
         border-radius: 20px;
-        padding: 30px 10px;
+        padding: 20px 10px;
         margin: 0px auto 30px auto;    
     }
     main > div legend {
@@ -68,12 +66,13 @@ main > div {
     }
     main > div div{
         display: inline-block;
-        margin: 5px 15px ;
+        margin: 1.04%;
     }
     main > div div > input{
+        width: 150px;
         border-radius: 5px;
         border: none;
-        border-bottom: 1px solid rgba(255, 255, 255, 0.637);
+        border-bottom: 1px solid rgba(255, 255, 255, 0.259);
         background-color: rgba(0, 0, 0, 0);
         color: rgba(255, 255, 255, 0.715);
         transition: .2s;
@@ -100,7 +99,7 @@ main > div {
     #submit{
         display: block;
         margin: auto;
-        margin-bottom: 20px;
+        margin-bottom: 7vh;
         border: 1px solid #ffffff;
 
         padding: 15px;
