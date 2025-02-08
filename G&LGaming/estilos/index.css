@@ -12,6 +12,11 @@ CORES
     font-family: Arial, Helvetica, sans-serif;
 }
 
+html{
+    height: 100%;
+    width: 100%;
+}
+
 body{
     background-image: url(../imagens/planoFundoIndex.jfif);
     background-repeat: no-repeat;
@@ -25,6 +30,8 @@ header{
 }
     header > h1{
         color: white;
+        text-shadow: 1px 1px 1px black;
+
     }
 
 main > div {
@@ -36,19 +43,22 @@ main > div {
     min-width: 400px;
     max-width: 70vw;
 
-    border-radius: 20px;
+    border-radius: 30px;
+    border: 1px solid rgba(255, 255, 255, .2);
+    backdrop-filter: blur(7px);
+
 
     color: white;
-    background-image: linear-gradient(#7a00908b, #1b3478c5);
 }
     main > div > h1{
         text-align: center;
         margin-bottom: 5px;
+        text-shadow: 1px 1px 1px black;
     }
     main > div fieldset {
         width: 80%;
         text-align: center;
-        border-radius: 10px;
+        border-radius: 20px;
         padding: 30px 10px;
         margin: 0px auto 30px auto;    
     }
@@ -82,29 +92,31 @@ main > div {
 
     main > div a{
         color: white;
+        text-decoration: none;
     }
+        main > div a:hover{
+            text-decoration: underline;
+        }
     #submit{
         display: block;
         margin: auto;
-        margin-bottom: 60px;
+        margin-bottom: 20px;
+        border: 1px solid #ffffff;
 
         padding: 15px;
 
-        width: 150px;
-
-        border: none;
-        border-radius: 10px;
+        width: 200px;
+        border-radius: 20px;
 
         text-decoration: none;
         text-align: center;
-        color: white;
+        color: black;
 
-        background-color: #9C27B0;
-        transition: .2s;
+        background-color: white;
+        transition: .5s;
     }
         #submit:hover{
-            background-color: #ae2ec5;
-        }
-        #submit:active{
-            background-color: #a428ba;
+            background-color: #ae2ec500;
+            border: 1px solid #9C27B0;
+            color: white;
         }
