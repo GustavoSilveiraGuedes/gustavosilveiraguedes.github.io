@@ -59,6 +59,7 @@ main > section{
 
     text-align: center;
 
+
     background-position: center ;
     background-repeat: no-repeat;
     background-size: cover;
@@ -69,7 +70,13 @@ main > section{
     }
         #gta:hover{
             background-size: 120%;
-        }
+            }
+                #gta:hover > a{
+                    display: block;
+                }
+                    #gta > a{
+                        display: none;
+                    }
 
     #mine{
         background-image: url(../imagens/imgMine.jfif);
