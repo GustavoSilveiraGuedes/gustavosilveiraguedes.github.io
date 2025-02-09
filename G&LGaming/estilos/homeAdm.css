@@ -39,7 +39,7 @@ header{
 
         width: 500px;
     }
-        nav a{
+        header a{
             text-decoration: none;
             color: white;
         }
@@ -50,6 +50,7 @@ header{
 main{
     display: flex;
     justify-content: center;    
+    height: 100vh;
 }
 
 main > section{
@@ -58,11 +59,12 @@ main > section{
     justify-content: center;
 
     max-width: 80vw;
-    height: 87vh;
+    height: 97vh;
 
+    border-radius: 0px  0px 15px 15px;
     border-right: 1px solid black;
     border-left: 1px solid black;
-
+    border-bottom: 1px solid black;
     
 }
 
@@ -176,7 +178,12 @@ main > section{
         }
 
 footer{
-    text-align: center;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    align-items: center;
+
+
     color: black;
 
     border-top: 1px solid black;
