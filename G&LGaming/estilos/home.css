@@ -9,33 +9,47 @@ CORES
     padding: 0px;
     margin: 0px;
     box-sizing: border-box;
+    font-family: "Poppins", serif;
 }
+
 html, body{
-    height: 100vh;
-    width: 100vw;
+    height: 100%;
+    width: 100%;
 }
 
 header{
     display: flex;
-    flex-flow: row nowrap;
+    flex-flow: row wrap;
     justify-content: space-between;
     align-items: center;
 
-    padding: 10px 20px;
+    color: white;
+
+    box-shadow: 0px -2px 20px 1px rgba(0, 0, 0, 0.459);
+
+    padding: 8px 20px;
+
+    background-image: url(../imagens/imgHome.gif);
+    background-position: center ;
 }
     header > nav{
         display: flex;
         flex-flow: row nowrap;
         justify-content: space-between;
-        
-        padding: 10px;
 
         width: 300px;
     }
+        nav a{
+            text-decoration: none;
+            color: white;
+        }
+            nav a:hover{
+                text-decoration: underline;
+            }
 
 main{
     display: flex;
-    justify-content: center;
+    justify-content: center;    
 }
 
 main > section{
@@ -44,8 +58,12 @@ main > section{
     justify-content: center;
 
     max-width: 80vw;
+    height: 87vh;
 
-    border: 1px solid black;
+    border-right: 1px solid black;
+    border-left: 1px solid black;
+
+    
 }
 
 .produto{
@@ -53,17 +71,54 @@ main > section{
     height: 250px;
 
     margin: 25px 4vw;
-    padding: 10px;
-    border: 1px solid black;
     border-radius: 15px;
-
-    text-align: center;
-
 
     background-position: center ;
     background-repeat: no-repeat;
     background-size: cover;
+       
 }
+
+    .produto a{
+        border-radius: 15px;
+        padding: 2px;
+
+        text-align: center;
+        text-decoration: none;
+        color: white;
+        background-color: #9b28b0;
+
+        transition: .5s;
+    }
+        .produto a:hover{
+            color: white;
+            background-color: #c230dc;
+        }
+
+    .produto div {
+        display: flex;
+        flex-flow: column nowrap;
+        justify-content: space-between;
+
+        height: 100%;
+        padding: 15px;
+        border-radius: 15px;
+        border: 1px solid #000000;
+        transition: .8s;
+    }
+        .produto:hover div{
+            backdrop-filter: blur(2px); 
+        }
+
+
+        .produto a, .produto h1, .produto p{
+            color: white;
+            display: none;
+        }
+            .produto:hover a, .produto:hover h1, .produto:hover p{
+                display: block;
+            }
+
 
     #gta{
         background-image: url(../imagens/imgGTA.jfif);
@@ -71,13 +126,7 @@ main > section{
         #gta:hover{
             background-size: 120%;
             }
-                #gta:hover > a{
-                    display: block;
-                }
-                    #gta > a{
-                        display: none;
-                    }
-
+               
     #mine{
         background-image: url(../imagens/imgMine.jfif);
     }
@@ -124,4 +173,21 @@ main > section{
     }
         #rdr2:hover{
             background-size: 140%;
+        }
+
+footer{
+    text-align: center;
+    color: black;
+
+    border-top: 1px solid black;
+
+    background-image: url(../imagens/imgHome.gif);
+    background-position: center ;
+}
+    footer a{
+        text-decoration: none;
+        color: white;
+    }
+        footer a:hover{
+            text-decoration: underline;
         }
