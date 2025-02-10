@@ -16,6 +16,11 @@ html, body{
     height: 100%;
     width: 100%;
 }
+    body{
+        background-image: url(../imagens/imgIndex.jfif);
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
 
 header{
     display: flex;
@@ -23,12 +28,9 @@ header{
     justify-content: space-between;
     align-items: center;
 
+    height: 10vh;
+
     padding: 8px 20px;
-
-    box-shadow: 0px -2px 20px 1px rgba(0, 0, 0, 0.459);
-
-    background-image: url(../imagens/imgHome.gif);
-    background-position: center ;
 }
     header > h1 > a {
         color: white;
@@ -48,3 +50,83 @@ header{
                 nav a:hover{
                     text-decoration: underline;
                 }
+
+main{
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+}
+
+    section{
+        color: white;
+
+        min-width: none;
+        max-width: 700px;
+
+        border: 1px solid rgb(255, 255, 255);
+        border-radius: 15px;
+        padding: 10px;
+
+        backdrop-filter: blur(7px);
+    }
+        section h2{
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        section form{
+            display: inline-block;
+        }
+        section div{
+            display: inline-block;
+            margin: 10px;
+        }
+
+        form > input[type="submit"]{
+            display: block;
+            width: 150px;
+            height: 40px;
+
+            margin: 20px auto 0px auto;
+        
+            border-radius: 15px;
+            border: 1px solid white;
+        
+            color: black;
+            background-color: white;
+            transition: .5s;
+        }
+            form > input[type="submit"]:hover{
+                border-color: #9C27B0;
+        
+                color: white;
+                background-color: transparent;
+            }
+
+        form > div > input{
+            width: 150px;
+            padding: 3px 5px;
+            border-radius: 15px;
+            border: 1px solid rgba(255, 255, 255, 0.259);
+            background-color: rgba(0, 0, 0, 0);
+            color: rgba(255, 255, 255, 0.715);
+            transition: .2s;
+        }
+            form > div > input:hover{
+                border: 1px solid #ffffff;
+            }
+            form > div > input:active{
+                border: 1px solid #ffffff;
+            }
+        
+
+#idesc{
+    max-height: 150px;
+    min-height: 150px;
+    max-width: 600px;
+    min-width: 600px;
+
+    border-radius: 15px;
+    background-color: transparent;
+}

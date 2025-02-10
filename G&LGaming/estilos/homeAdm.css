@@ -29,8 +29,7 @@ header{
 
     padding: 8px 20px;
 
-    background-image: url(../imagens/imgHome.gif);
-    background-position: center ;
+    background-color: rgb(38, 36, 51);
 }
     header > nav{
         display: flex;
@@ -51,6 +50,10 @@ main{
     display: flex;
     justify-content: center;    
     height: 100vh;
+
+    background-image: url(../imagens/imgIndex2.png);
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 main > section{
@@ -66,11 +69,13 @@ main > section{
     border-left: 1px solid black;
     border-bottom: 1px solid black;
     
+    background-image: linear-gradient(rgb(57, 54, 76), rgb(35, 33, 46));
+    background-color: rgb(57, 54, 76);
 }
 
 .produto{
-    width: 150px;
-    height: 250px;
+    width: 180px;
+    height: 270px;
 
     margin: 25px 4vw;
     border-radius: 15px;
@@ -126,7 +131,7 @@ main > section{
         background-image: url(../imagens/imgGTA.jfif);
     }
         #gta:hover{
-            background-size: 120%;
+            background-size: 110%;
             }
                
     #mine{
@@ -140,7 +145,7 @@ main > section{
         background-image: url(../imagens/imgHalo);
     }
         #halo:hover{
-            background-size: 120%;
+            background-size: 110%;
         }
     #forza{
         background-image: url(../imagens/imgForza.jfif);
@@ -160,7 +165,7 @@ main > section{
         background-image: url(../imagens/imgTheLastOfUs);
     }
         #theLast:hover{
-            background-size: 120%;
+            background-size: 110%;
         }
 
     #theLast2{
@@ -184,16 +189,15 @@ footer{
     align-items: center;
 
 
-    color: black;
+    color: white;
 
     border-top: 1px solid black;
 
-    background-image: url(../imagens/imgHome.gif);
-    background-position: center ;
+    background-color: rgb(45, 43, 56);
 }
     footer a{
         text-decoration: none;
-        color: white;
+        color: #bb30d3 ;
     }
         footer a:hover{
             text-decoration: underline;

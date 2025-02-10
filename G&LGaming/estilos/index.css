@@ -66,18 +66,18 @@ main > div {
     }
     main > div div > input{
         width: 150px;
-        border-radius: 5px;
-        border: none;
-        border-bottom: 1px solid rgba(255, 255, 255, 0.259);
+        padding: 3px 5px;
+        border-radius: 15px;
+        border: 1px solid rgba(255, 255, 255, 0.259);
         background-color: rgba(0, 0, 0, 0);
         color: rgba(255, 255, 255, 0.715);
         transition: .2s;
     }
         main > div div > input:hover{
-            border-bottom: 1px solid #ffffff;
+            border: 1px solid #ffffff;
         }
         main > div div > input:focus{
-            border-bottom: 1px solid #ffffff;
+            border: 1px solid #ffffff;
             outline: none;
         }
         input[type="date"]::-webkit-calendar-picker-indicator {
