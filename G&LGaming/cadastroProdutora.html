@@ -3,9 +3,40 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="imagens/icone.jfif" type="image/x-icon">
+    <link rel="stylesheet" href="estilos/cadastroProdutora.css">
     <title>G&L Gaming</title>
 </head>
 <body>
-    
+    <header>
+        <h1><a href="homeAdm.html">G&L Gaming</a></h1>
+        <nav>
+            <a href="#">Editar</a>
+            <a href="homeAdm.html">Cancelar</a>
+        </nav>
+    </header>
+    <main>
+        <section>
+            <h2>Cadastro de Produtora</h2>
+            <form action="homeAdm.html" method="get" autocomplete="off">
+                <label for="">Nome</label>
+                <input type="text" name="nome" id="inome">
+
+                <label for="">CNPJ</label>
+                <input type="text" name="cnpj" id="icnpj">
+
+                <label for="">E-Mail</label>
+                <input type="email" name="email" id="iemal">
+
+                <label for="">Telefone</label>
+                <input type="tel" name="telefone" id="itelefone">
+
+                <label for="">Descrição</label>
+                <input type="text" name="descricao" id="idescricao">
+
+                <input type="submit" value="Cadastrar">
+            </form>
+        </section>
+    </main>
 </body>
 </html>
