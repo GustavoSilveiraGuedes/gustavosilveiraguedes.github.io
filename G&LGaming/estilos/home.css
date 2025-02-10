@@ -27,8 +27,7 @@ header{
 
     padding: 8px 20px;
 
-    background-image: url(../imagens/imgHome.gif);
-    background-position: center ;
+    background-color: rgb(41, 37, 61);
 }
     header > h1 > a{
         color: white;
@@ -53,6 +52,10 @@ main{
     display: flex;
     justify-content: center;    
     height: 100vh;
+
+    background-image: url(../imagens/imgIndex2.png);
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 main > section{
@@ -68,11 +71,13 @@ main > section{
     border-left: 1px solid black;
     border-bottom: 1px solid black;
     
+    background-image: linear-gradient(rgb(57, 54, 76), rgb(35, 33, 46));
+    background-color: rgb(57, 54, 76);
 }
 
 .produto{
-    width: 150px;
-    height: 250px;
+    width: 190px;
+    height: 290px;
 
     margin: 25px 4vw;
     border-radius: 15px;
@@ -95,7 +100,6 @@ main > section{
         transition: .5s;
     }
         .produto a:hover{
-            color: white;
             background-color: #c230dc;
         }
 
@@ -107,7 +111,9 @@ main > section{
         height: 100%;
         padding: 15px;
         border-radius: 15px;
-        border: 1px solid #000000;
+        border: 1px solid #ffffff;
+        box-shadow: 0px 2px 14px 4px black;
+
         transition: .8s;
     }
         .produto:hover div{
@@ -122,61 +128,70 @@ main > section{
             .produto:hover a, .produto:hover h1, .produto:hover p{
                 display: block;
             }
+        
+        .produto h1{
+            font-size: 2em;
+            text-shadow: 2px 2px 2px black;
+        }
+        .produto p{
+            font-size: 1.4em;
+            text-shadow: 2px 2px 2px black;
+        }
 
 
     #gta{
         background-image: url(../imagens/imgGTA.jfif);
     }
         #gta:hover{
-            background-size: 120%;
+            background-size: 110%;
             }
                
     #mine{
         background-image: url(../imagens/imgMine.jfif);
     }
         #mine:hover{
-            background-size: 180%;
+            background-size: 160%;
         }
     
     #halo{
         background-image: url(../imagens/imgHalo);
     }
         #halo:hover{
-            background-size: 120%;
+            background-size: 110%;
         }
     #forza{
         background-image: url(../imagens/imgForza.jfif);
     }
         #forza:hover{
-            background-size: 150%;
+            background-size: 140%;
         }
 
     #god{
         background-image: url(../imagens/imgGodOfWar.jfif);
     }
         #god:hover{
-            background-size: 110%;
+            background-size: 105%;
         }
 
     #theLast{
         background-image: url(../imagens/imgTheLastOfUs);
     }
         #theLast:hover{
-            background-size: 120%;
+            background-size: 110%;
         }
 
     #theLast2{
         background-image: url(../imagens/imgTheLastOfUs2.webp);
     }
         #theLast2:hover{
-            background-size: 130%;
+            background-size: 120%;
         }
     
     #rdr2{
         background-image: url(../imagens/imgRdr2);
     }
         #rdr2:hover{
-            background-size: 140%;
+            background-size: 130%;
         }
 
         footer{

@@ -10,10 +10,7 @@
 <body>
     <header>
         <h1><a href="homeAdm.html">G&L Gaming</a></h1>
-        <nav>
-            <a href="#">Editar</a>
             <a href="homeAdm.html">Cancelar</a>
-        </nav>
     </header>
     <main>
         <section>
@@ -21,28 +18,31 @@
             <form action="homeAdm.html" method="get" autocomplete="off">
                 <div>
                     <label for="">Nome:</label>
-                    <input type="text" name="nome" id="inome">
+                    <input type="text" name="nome" id="inome" required>
                 </div>
 
                 <div>
                     <label for="">CNPJ:</label>
-                    <input type="text" name="cnpj" id="icnpj">
+                    <input type="text" name="cnpj" id="icnpj" required>
                 </div>
 
                 <div>
                     <label for="">E-Mail:</label>
-                    <input type="email" name="email" id="iemal">
+                    <input type="email" name="email" id="iemal" required>
                 </div>
 
                 <div>
                     <label for="">Telefone:</label>
-                    <input type="tel" name="telefone" id="itelefone">
+                    <input type="tel" name="telefone" id="itelefone" required>
                 </div>
 
                 <div>
                     <label for="">Descrição:</label>
                     <textarea name="" id="idesc"></textarea>
                 </div>
+                <a href="#">Editar</a>
+                <a href="#">Excluir</a>
+                <a href="homeAdm.html">Salvar</a>
                 <input type="submit" value="Cadastrar">
             </form>
         </section>

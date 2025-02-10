@@ -54,7 +54,7 @@ form img{
     transform: translateY(30%);
 }
 
-form > input[type="text"]{
+form > input[type="password"]{
     background-color: transparent;
     color: white;
 

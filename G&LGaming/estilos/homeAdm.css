@@ -23,14 +23,16 @@ header{
     justify-content: space-between;
     align-items: center;
 
-    color: white;
-
     box-shadow: 0px -2px 20px 1px rgba(0, 0, 0, 0.459);
 
     padding: 8px 20px;
 
-    background-color: rgb(38, 36, 51);
+    background-color: rgb(41, 37, 61);
 }
+    header > h1 > a{
+        color: white;
+        text-decoration: none;
+    }
     header > nav{
         display: flex;
         flex-flow: row nowrap;
@@ -38,7 +40,7 @@ header{
 
         width: 500px;
     }
-        header a{
+        nav a{
             text-decoration: none;
             color: white;
         }
@@ -74,8 +76,8 @@ main > section{
 }
 
 .produto{
-    width: 180px;
-    height: 270px;
+    width: 190px;
+    height: 290px;
 
     margin: 25px 4vw;
     border-radius: 15px;
@@ -98,7 +100,6 @@ main > section{
         transition: .5s;
     }
         .produto a:hover{
-            color: white;
             background-color: #c230dc;
         }
 
@@ -110,7 +111,9 @@ main > section{
         height: 100%;
         padding: 15px;
         border-radius: 15px;
-        border: 1px solid #000000;
+        border: 1px solid #ffffff;
+        box-shadow: 0px 2px 14px 4px black;
+
         transition: .8s;
     }
         .produto:hover div{
@@ -125,6 +128,15 @@ main > section{
             .produto:hover a, .produto:hover h1, .produto:hover p{
                 display: block;
             }
+        
+        .produto h1{
+            font-size: 2em;
+            text-shadow: 2px 2px 2px black;
+        }
+        .produto p{
+            font-size: 1.4em;
+            text-shadow: 2px 2px 2px black;
+        }
 
 
     #gta{
@@ -138,7 +150,7 @@ main > section{
         background-image: url(../imagens/imgMine.jfif);
     }
         #mine:hover{
-            background-size: 180%;
+            background-size: 160%;
         }
     
     #halo{
@@ -151,14 +163,14 @@ main > section{
         background-image: url(../imagens/imgForza.jfif);
     }
         #forza:hover{
-            background-size: 150%;
+            background-size: 140%;
         }
 
     #god{
         background-image: url(../imagens/imgGodOfWar.jfif);
     }
         #god:hover{
-            background-size: 110%;
+            background-size: 105%;
         }
 
     #theLast{
@@ -172,33 +184,33 @@ main > section{
         background-image: url(../imagens/imgTheLastOfUs2.webp);
     }
         #theLast2:hover{
-            background-size: 130%;
+            background-size: 120%;
         }
     
     #rdr2{
         background-image: url(../imagens/imgRdr2);
     }
         #rdr2:hover{
-            background-size: 140%;
+            background-size: 130%;
         }
 
-footer{
-    display: flex;
-    flex-flow: row wrap;
-    justify-content: center;
-    align-items: center;
-
-
-    color: white;
-
-    border-top: 1px solid black;
-
-    background-color: rgb(45, 43, 56);
-}
-    footer a{
-        text-decoration: none;
-        color: #bb30d3 ;
-    }
-        footer a:hover{
-            text-decoration: underline;
+        footer{
+            display: flex;
+            flex-flow: row wrap;
+            justify-content: center;
+            align-items: center;
+        
+        
+            color: white;
+        
+            border-top: 1px solid black;
+        
+            background-color: rgb(45, 43, 56);
         }
+            footer a{
+                text-decoration: none;
+                color: #bb30d3 ;
+            }
+                footer a:hover{
+                    text-decoration: underline;
+                }

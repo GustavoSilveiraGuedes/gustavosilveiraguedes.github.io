@@ -31,6 +31,8 @@ header{
     height: 10vh;
 
     padding: 8px 20px;
+
+    background-color: rgb(41, 37, 61);
 }
     header > h1 > a {
         color: white;
@@ -104,6 +106,11 @@ main{
                 background-color: transparent;
             }
 
+            form a{
+                color: white;
+                margin: 0px 5px;
+            }
+
         form > div > input{
             width: 150px;
             padding: 3px 5px;
@@ -119,7 +126,10 @@ main{
             form > div > input:active{
                 border: 1px solid #ffffff;
             }
-        
+            textarea{
+                padding: 10px;
+                color: white;
+            }
 
 #idesc{
     max-height: 150px;
