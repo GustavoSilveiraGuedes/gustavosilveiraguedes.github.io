@@ -28,6 +28,7 @@ header{
     padding: 8px 20px;
 
     background-color: rgb(41, 37, 61);
+    height: 10vh;
 }
     header > h1 > a{
         color: white;
@@ -38,7 +39,7 @@ header{
         flex-flow: row nowrap;
         justify-content: space-between;
 
-        width: 500px;
+        width: 600px;
     }
         nav a{
             text-decoration: none;
@@ -76,8 +77,8 @@ main > section{
 }
 
 .produto{
-    width: 190px;
-    height: 290px;
+    width: 150px;
+    height: 250px;
 
     margin: 25px 4vw;
     border-radius: 15px;
@@ -103,7 +104,7 @@ main > section{
             background-color: #c230dc;
         }
 
-    .produto div {
+    .produto > div {
         display: flex;
         flex-flow: column nowrap;
         justify-content: space-between;
@@ -130,11 +131,11 @@ main > section{
             }
         
         .produto h1{
-            font-size: 2em;
+            font-size: 1.5em;
             text-shadow: 2px 2px 2px black;
         }
         .produto p{
-            font-size: 1.4em;
+            font-size: 1em;
             text-shadow: 2px 2px 2px black;
         }
 
@@ -143,27 +144,27 @@ main > section{
         background-image: url(../imagens/imgGTA.jfif);
     }
         #gta:hover{
-            background-size: 110%;
+            background-size: 120%;
             }
                
     #mine{
         background-image: url(../imagens/imgMine.jfif);
     }
         #mine:hover{
-            background-size: 160%;
+            background-size: 175%;
         }
     
     #halo{
         background-image: url(../imagens/imgHalo);
     }
         #halo:hover{
-            background-size: 110%;
+            background-size: 115%;
         }
     #forza{
         background-image: url(../imagens/imgForza.jfif);
     }
         #forza:hover{
-            background-size: 140%;
+            background-size: 150%;
         }
 
     #god{
@@ -177,21 +178,21 @@ main > section{
         background-image: url(../imagens/imgTheLastOfUs);
     }
         #theLast:hover{
-            background-size: 110%;
+            background-size: 120%;
         }
 
     #theLast2{
         background-image: url(../imagens/imgTheLastOfUs2.webp);
     }
         #theLast2:hover{
-            background-size: 120%;
+            background-size: 130%;
         }
     
     #rdr2{
         background-image: url(../imagens/imgRdr2);
     }
         #rdr2:hover{
-            background-size: 130%;
+            background-size: 140%;
         }
 
         footer{

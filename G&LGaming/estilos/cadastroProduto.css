@@ -33,7 +33,6 @@ header{
     padding: 8px 20px;
 
     background-color: rgb(41, 37, 61);
-    height: 10vh;
 }
     header > h1 > a {
         color: white;
@@ -100,12 +99,14 @@ main{
             background-color: white;
             transition: .5s;
         }
-            form > input[type="submit"]:hover{
-                border-color: #9C27B0;
-        
-                color: white;
-                background-color: transparent;
-            }
+
+            input[type="submit"]:hover{
+                    border-color: #9C27B0;
+            
+                    color: white;
+                    background-color: transparent;
+                }
+
 
             form a{
                 color: white;
@@ -114,7 +115,7 @@ main{
 
         form > div > input{
             width: 150px;
-            padding: 3px 5px;
+            padding: 3px 7px;
             border-radius: 15px;
             border: 1px solid rgba(255, 255, 255, 0.259);
             background-color: rgba(0, 0, 0, 0);

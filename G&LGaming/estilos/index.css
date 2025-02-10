@@ -15,7 +15,7 @@ html{
 body{
     background-image: url(../imagens/imgIndex.jfif);
     background-color: black;
-    background-repeat: no-repeat;
+    background-repeat: repeat-y;
     background-size: cover;
 }
 

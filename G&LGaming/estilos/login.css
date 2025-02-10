@@ -65,6 +65,9 @@ body {
     color: #fff;
 
 }
+label{
+    color: white;
+}
 
 .input-box i {
     position: absolute;
@@ -82,22 +85,14 @@ body {
 }
 
 .remember-forgot label input {
-   accent-color: #570052;
+   accent-color: #a00098;
    margin-right: 5px;
 
 }
 
 .remember-forgot a{
-    text-decoration: none;
-    color: #ffffff;
-
+    color: white;
 }
-
-.remember-forgot a:hover {
-    text-decoration: underline; 
-    
-}
-
 
 .login {
     width: 100%;
@@ -130,15 +125,9 @@ body {
 }
 
 .register-link a{
-    text-decoration: none;
     color: #fff;
     font-weight: 500;
-
 }
-
-.register-link a:hover {
-    text-decoration: underline;
-
-
-
+p{
+    color: white;
 }
