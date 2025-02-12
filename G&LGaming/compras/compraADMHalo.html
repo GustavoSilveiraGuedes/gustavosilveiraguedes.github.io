@@ -9,7 +9,7 @@
 </head>
 <body>
     <header>
-        <h1><a href="../home.html">G&L Gaming</a></h1>
+        <h1><a href="../homeAdm.html">G&L Gaming</a></h1>
         <nav>
             <a href="../login.html">Logout</a>
         </nav>
@@ -17,7 +17,7 @@
     <main>
         <section>
             <h2>Realize sua compra aqui</h2>
-            <form action="../home.html" method="get" autocomplete="off">
+            <form action="../homeAdm.html" method="get" autocomplete="off">
                 <div>
                     <label for="">Data Da Venda:</label>
                     <input type="date" name="data" id="idata" readonly required>
@@ -42,7 +42,7 @@
                         <option value="op3">Cartão</option>
                     </select>
                 </div>
-                <a href="../home.html">Cancelar</a>
+                <a href="../homeAdm.html">Cancelar</a>
                 <input type="submit" value="Resgatar">
             </form>
         </section>        
@@ -71,7 +71,7 @@
         document.addEventListener("DOMContentLoaded", function () {
         const quantidadeInput = document.getElementById("iqtdDesejada");
         const valorTotalInput = document.getElementById("ivalorTotal");
-        const precoUnitario = 156.99; 
+        const precoUnitario = 168.61; 
 
         function calcularTotal() {
             let quantidade = parseInt(quantidadeInput.value, 10) || 1;
