@@ -1,5 +1,5 @@
 # sites
-<a href="FormulaG/index.html">Fórmula G</a>
+<a href="FormulaG/paginas/index.html">Fórmula G</a>
 <hr>
 <a href="G&LGaming/index.html">G&L Gaming</a>
 <hr>
