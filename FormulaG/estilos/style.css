@@ -4,7 +4,7 @@
     font-family: "Nunito", sans-serif;
     margin: 0;
     padding: 0;
-    /* border: 1px solid black; */
+    border: 1px solid black;
 }
 
 :root{
@@ -32,15 +32,6 @@
 
         background-color: var(--corTercearea);
     }
-    .cartao{
-        
-    }
-    .carrossel{
-        display: flex;
-        align-items: center;
-        gap: 10px;
-    }
-    
     a{
         text-decoration: none;
         color: var(--corQuaternarea);
@@ -93,13 +84,7 @@
                 main input[type="search"]::-webkit-search-cancel-button{
                     display: none;      
                 }
-        
-        main section{
-            display: grid;
-            grid-template-rows: auto;
-            grid-template-columns: auto auto;
-            justify-content: space-evenly;
-        }        
+          
     #imgPerfil{
         width: 40px;
         height: 40px;
