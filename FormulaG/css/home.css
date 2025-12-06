@@ -1,0 +1,104 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+:root{
+    --color1: #F2F2F2;
+    --color2: #8C8C8C;
+    --color3: #404040;
+    --color4: #262626;
+    --color5: #0D0D0D;
+}
+
+.ridden{
+    display: none;
+}
+
+.selected{
+    border-bottom: 1px solid var(--color1);
+
+    transition: .3s;
+}
+
+@media (max-width: 480px) {
+
+    header{
+        background-color: var(--color5);
+    }
+
+        header > nav{
+            display: flex;
+            flex-flow: row nowrap;
+            justify-content: space-between;
+            align-items: center;
+    
+            padding: 10px;
+        }
+
+            header > nav h1{
+                color: var(--color1);
+            }
+    
+            header > nav input[type="search"]::-webkit-search-decoration,
+            header > nav input[type="search"]::-webkit-search-cancel-button,
+            header > nav input[type="search"]::-webkit-search-results-button,
+            header > nav input[type="search"]::-webkit-search-results-decoration {
+                display: none;
+            }
+
+            header > nav input[type="search"]{
+                padding: 0 6px;
+    
+                border: 0;
+                border-radius: 6px;
+                border-bottom: 1px solid var(--color2);
+    
+                color: var(--color2);
+                background-color: transparent;
+            }
+
+                header > nav input[type="search"]:focus {
+                    outline: none;
+                    box-shadow: none;
+                }
+    
+    
+            header > nav svg{
+                color: var(--color2);
+
+                transform: translateY(-1px);
+                transition: .3s;
+            }
+
+                header > nav svg:hover{
+                    color: var(--color1);
+
+                    cursor: pointer;
+
+                    transform: translateY(-3px);
+                }
+    
+        
+        header > section{
+            display: flex;
+            flex-flow: row wrap;
+            justify-content: space-evenly;
+            align-items: center;
+    
+            padding: 10px 0;
+        }
+
+            header > section button{
+                border: 0;
+                border-radius: 6px;
+
+                color: var(--color1);
+                background-color: transparent;
+            }
+                
+
+}
+            
+
+
