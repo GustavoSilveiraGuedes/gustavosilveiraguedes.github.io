@@ -102,10 +102,32 @@
                 }
             
             section#alGbra h1{
-                font-size: 5em;
+                overflow: hidden;
+                animation: typing 1.5s steps(7) forwards;
+
+                font-size: 4.6em;
 
                 color: var(--color3);
             }
+
+                @keyframes typing {
+
+                    0% {
+                        width: 0;
+                        border-right: 3px solid var(--color1);
+                    }
+
+                    80% {
+                        width: 7ch;
+                        border-right: 3px solid var(--color1);
+                    }
+
+                    100% {
+                        width: 7ch;
+                        border-right: transparent;
+                    }
+                    
+                }
 
             section#alGbra > p{
                 text-align: justify;
