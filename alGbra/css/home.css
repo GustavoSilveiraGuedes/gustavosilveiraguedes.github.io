@@ -1,11 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&display=swap');
 
+
 * {
     margin: 0;
     padding: 0;
-    /* border: 1px solid black;  */
+    /* border: 1px solid white;  */
 }
-
 
 :root {
     --color1: #61568C;
@@ -16,16 +16,70 @@
 }
 
 
-@media (max-width: 600px) {
-
-    h1, h2{
+h1, h2{
         font-family: "JetBrains Mono", monospace;
     }
 
-    p{
-        font-family: "Inter";
+p{
+    font-family: "Inter";
+}
+
+
+
+@keyframes typing {
+
+                    0% {
+                        width: 0;
+                        border-right: 3px solid var(--color1);
+                    }
+
+                    80% {
+                        width: 7ch;
+                        border-right: 3px solid var(--color1);
+                    }
+
+                    100% {
+                        width: 7ch;
+                        border-right: transparent;
+                    }
+                    
+                }
+
+@keyframes intro1 {
+
+    from{
+        color: transparent;
+        border-bottom: 2px solid transparent;
+
+        transform: translateY(-20px);
+    }
+    to{
+        color: var(--color5);
+        border-bottom: 2px solid var(--color1);
     }
 
+}
+
+@keyframes intro2 {
+
+    from{
+        color: transparent;
+        border: 2px solid transparent;
+        border-bottom: 0;
+        border-top: 0;
+
+        transform: translateY(-20px);
+    }
+    to{
+        color: var(--color5);
+        border: 2px solid var(--color1);
+        border-bottom: 0;
+        border-top: 0;
+    }
+
+}
+
+@media (max-width: 600px) {
 
     body{
         scrollbar-width: 0;
@@ -103,31 +157,13 @@
             
             section#alGbra h1{
                 overflow: hidden;
-                animation: typing 1.5s steps(7) forwards;
-
+                
                 font-size: 4.6em;
-
+                
                 color: var(--color5);
+
+                animation: typing 1.5s steps(7) forwards;
             }
-
-                @keyframes typing {
-
-                    0% {
-                        width: 0;
-                        border-right: 3px solid var(--color1);
-                    }
-
-                    80% {
-                        width: 7ch;
-                        border-right: 3px solid var(--color1);
-                    }
-
-                    100% {
-                        width: 7ch;
-                        border-right: transparent;
-                    }
-                    
-                }
 
             section#alGbra > p{
                 text-align: justify;
@@ -143,10 +179,10 @@
                 align-items: center;
             }
 
-                section#alGbra > div > h2{
+                section#alGbra > div > h2{                    
                     font-size: 1.7em;
 
-                    color: var(--color5);
+                    animation: intro1 2s forwards;
                 }
 
                 section#alGbra > div > p{
@@ -173,17 +209,18 @@
 
 
         section#math {
-            border: 1px solid var(--color5);
+            /* border: 1px solid var(--color5); */
         }
 
             section#math h1{
+                display: inline-block;
+
                 font-size: 2em;
 
                 margin-bottom: 30px;
                 
-                color: var(--color5);
+                animation: intro2 1s forwards;
+
             }
-
-
 
 }
