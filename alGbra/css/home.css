@@ -75,7 +75,7 @@
 
     
     main section{
-        margin: 150px 10px;
+        margin: 230px 10px;
     }
 
         section#alGbra{
@@ -107,7 +107,7 @@
 
                 font-size: 4.6em;
 
-                color: var(--color3);
+                color: var(--color5);
             }
 
                 @keyframes typing {
@@ -133,8 +133,8 @@
                 text-align: justify;
                 line-height: 25px;
 
-                margin-bottom: 130px;
-                color: var(--color2);
+                margin-bottom: 230px;
+                color: var(--color3);
             }
             
             section#alGbra > div{
@@ -144,11 +144,13 @@
             }
 
                 section#alGbra > div > h2{
-                    color: var(--color3);
+                    font-size: 1.7em;
+
+                    color: var(--color5);
                 }
 
                 section#alGbra > div > p{
-                    color: var(--color2);
+                    color: var(--color3);
                 }
 
                 section#alGbra > div > a{
@@ -167,7 +169,21 @@
                     section#alGbra > div > a > svg{
                         color: var(--color5);
                         width: 30px;
-
                     }
+
+
+        section#math {
+            border: 1px solid var(--color5);
+        }
+
+            section#math h1{
+                font-size: 2em;
+
+                margin-bottom: 30px;
+                
+                color: var(--color5);
+            }
+
+
 
 }
