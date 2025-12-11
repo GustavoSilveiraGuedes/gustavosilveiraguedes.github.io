@@ -25,6 +25,21 @@ p{
 }
 
 
+.typing{
+    animation: typing 1.5s steps(7) forwards;
+}
+
+.intro1{
+    animation: intro1 2s forwards;
+}
+
+.intro2{
+    animation: intro2 1s forwards;
+}
+
+.intro3{
+    animation: intro3 1s forwards;
+}
 
 @keyframes typing {
 
@@ -46,38 +61,21 @@ p{
                 }
 
 @keyframes intro1 {
-
     from{
         color: transparent;
-        border-bottom: 2px solid transparent;
-
-        transform: translateY(-20px);
     }
-    to{
-        color: var(--color5);
-        border-bottom: 2px solid var(--color1);
-    }
-
 }
-
+                
 @keyframes intro2 {
 
     from{
         color: transparent;
-        border: 2px solid transparent;
-        border-bottom: 0;
-        border-top: 0;
 
         transform: translateY(-20px);
     }
-    to{
-        color: var(--color5);
-        border: 2px solid var(--color1);
-        border-bottom: 0;
-        border-top: 0;
-    }
 
 }
+
 
 @media (max-width: 600px) {
 
@@ -129,15 +127,15 @@ p{
 
     
     main section{
+        display: flex;
+        flex-flow: column nowrap;
+        align-items: center;
+
+        padding: 10px;
         margin: 230px 10px;
     }
 
         section#alGbra{
-            display: flex;
-            flex-flow: column nowrap;
-            align-items: center;
-
-            padding: 10px;
         }
 
             section#alGbra a#linkalGbra{
@@ -161,8 +159,6 @@ p{
                 font-size: 4.6em;
                 
                 color: var(--color5);
-
-                animation: typing 1.5s steps(7) forwards;
             }
 
             section#alGbra > p{
@@ -182,7 +178,8 @@ p{
                 section#alGbra > div > h2{                    
                     font-size: 1.7em;
 
-                    animation: intro1 2s forwards;
+                    color: var(--color5);
+                    border-bottom: 1px solid var(--color1);
                 }
 
                 section#alGbra > div > p{
@@ -209,18 +206,33 @@ p{
 
 
         section#math {
-            /* border: 1px solid var(--color5); */
+            padding-top: 100px;
         }
 
             section#math h1{
-                display: inline-block;
-
                 font-size: 2em;
 
-                margin-bottom: 30px;
-                
-                animation: intro2 1s forwards;
 
+                color: var(--color5);
+
+                border: 1px solid var(--color1);
+                border-top: 0;
+                border-bottom: 0;
+
+                margin: auto;
+                margin-bottom: 30px;
+            }
+
+            section#math h2{
+                color: var(--color5);
+            }
+
+            section#math p{
+                color: var(--color3);
+                text-align: center;
+
+
+                margin-bottom: 1000px;
             }
 
 }
