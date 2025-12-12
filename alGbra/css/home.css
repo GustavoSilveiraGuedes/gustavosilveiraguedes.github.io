@@ -219,9 +219,7 @@ p{
                     }
 
                     @keyframes geoImgTransition {
-                        0%{
-                            background-image: url(../img/planeGeo/square.jpg);
-                        }
+                        
                     }
 
 }
