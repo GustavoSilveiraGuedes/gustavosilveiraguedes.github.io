@@ -2,9 +2,9 @@
 
 
 * {
-    margin: 0;
-    padding: 0;
-    /* border: 1px solid white;  */
+    margin: 0px;
+    padding: 0px;
+    /* border: 1px solid white; */
 }
 
 :root {
@@ -16,11 +16,16 @@
 }
 
 h1, h2{
-        font-family: "JetBrains Mono", monospace;
-    }
+    font-family: "JetBrains Mono", monospace;
+}
 
 p{
     font-family: "Inter";
+}
+
+
+.hiddenScroll {
+    opacity: 0; 
 }
 
 
@@ -36,9 +41,6 @@ p{
     animation: intro2 1s forwards;
 }
 
-.intro3{
-    animation: intro3 1s forwards;
-}
 
 @keyframes typing {
 
@@ -55,18 +57,21 @@ p{
     100% {
         border-right: transparent;
         width: 7ch;
-    }            
+    }              
 
 }
 
 @keyframes intro1 {
 
     from{
+        background-color: transparent;
+        border: 0 solid transparent;
+        box-shadow: 0;
         color: transparent;
     }
 
 }
-                    
+                        
 @keyframes intro2 {
 
     from{
@@ -85,7 +90,6 @@ p{
         background-size: contain;
     }
 
-
     header{
         display: flex;
         flex-flow: row nowrap;
@@ -93,28 +97,28 @@ p{
     }
 
         header a{
-                color: var(--color5);
-                margin: 3px 10px;
-                text-decoration: none;
-                transition: .3s;
+            color: var(--color5);
+            margin: 3px 10px;
+            text-decoration: none;
+            transition: .3s;
         }
 
         header svg{
-                height: 40px;
-                width: 40px;
+            height: 40px;
+            width: 40px;
         }
         
         header nav{
-                align-items: end;
-                backdrop-filter: blur(2px);
-                border-bottom: 1px solid var(--color1);
-                border-radius: 10px;
-                display: flex;
-                flex-flow: row nowrap;
-                justify-content: center;
-                margin: auto;
-                padding: 0px 15px; 
-                position: fixed;
+            align-items: end;
+            backdrop-filter: blur(2px);
+            border-bottom: 1px solid var(--color1);
+            border-radius: 10px;
+            display: flex;
+            flex-flow: row nowrap;
+            justify-content: center;
+            margin: auto;
+            padding: 0px 15px; 
+            position: fixed;
         }
 
 
@@ -129,65 +133,65 @@ p{
         section#alGbra{
         }
 
-                section#alGbra a#linkalGbra{
-                    color: var(--color1);
-                    display: flex;
-                    flex-flow: row nowrap;
-                    font-size: .7em;
-                    gap: 3px;
-                    text-decoration: none;
+            section#alGbra a#linkalGbra{
+                color: var(--color1);
+                display: flex;
+                flex-flow: row nowrap;
+                font-size: .7em;
+                gap: 3px;
+                text-decoration: none;
+            }
+
+                section#alGbra a#linkalGbra > svg{
+                    width: 10px;
                 }
 
-                    section#alGbra a#linkalGbra > svg{
-                        width: 10px;
-                    }
+            section#alGbra h1{
+                color: var(--color5);
+                font-size: 4.6em;
+                overflow: hidden;
+            }
 
-                section#alGbra h1{
+            section#alGbra > p{
+                color: var(--color3);
+                line-height: 25px;
+                margin-bottom: 230px;
+                text-align: justify;
+            }
+            
+            section#alGbra > div{
+                align-items: center;
+                display: flex;
+                flex-flow: column nowrap;
+            }
+
+                section#alGbra > div > h2{ 
+                    border-bottom: 1px solid var(--color1);
                     color: var(--color5);
-                    font-size: 4.6em;
-                    overflow: hidden;
+                    font-size: 1.7em;
                 }
 
-                section#alGbra > p{
+                section#alGbra > div > p{
                     color: var(--color3);
-                    line-height: 25px;
-                    margin-bottom: 230px;
-                    text-align: justify;
-                }
-                
-                section#alGbra > div{
-                    align-items: center;
-                    display: flex;
-                    flex-flow: column nowrap;
                 }
 
-                    section#alGbra > div > h2{                                   
-                        border-bottom: 1px solid var(--color1);
-                        color: var(--color5);
-                        font-size: 1.7em;
+                section#alGbra > div > a{
+                    background-color: var(--color1);
+                    border-radius: 10px;
+                    color: var(--color5);
+                    padding: 10px 50px;
+                    text-align: center;
+                    transition: .2s;
+                }
+
+                    section#alGbra > div > a > svg{
+                        width: 30px;
                     }
 
-                    section#alGbra > div > p{
-                        color: var(--color3);
-                    }
 
-                    section#alGbra > div > a{
-                        background-color: var(--color1);
-                        border-radius: 15px;
-                        padding: 10px 50px;
-                        text-align: center;
-                        transition: .2s;
-                    }
-
-                        section#alGbra > div > a > svg{
-                            color: var(--color5);
-                            width: 30px;
-                        }
-
-
-        section#math {
-            padding-top: 100px;
-        }
+            section#math {
+                padding-top: 100px;
+            }
 
                 section#math h1{
                     border: 1px solid var(--color1);
@@ -199,8 +203,9 @@ p{
                     margin-bottom: 30px;
                 }
 
-                section#math h2{
+                section#math > h2{
                     color: var(--color5);
+                    margin: 5px 0;
                 }
 
                 section#math p{
@@ -209,17 +214,60 @@ p{
                     text-align: center;
                 }
 
-                    section#math div#planeGeo{
-                        animation: geoImgTransition 10s infinite;
-                        background: transparent center no-repeat;
-                        background-size: cover;
-                        border: 1px solid yellow;
-                        border-radius: 0 10px;
-                        margin: 20px 0;
+                section#math > div.set{
+                    align-items: center;
+                    border-radius: 5px;
+                    cursor: pointer;
+                    display: flex;
+                    flex-flow: row nowrap;
+                    justify-content: space-between;
+                    padding: 2px;
+                    width: 80vw;
+                }
+                    section#math div > h2{
+                        margin: 7px;
+                    } 
+
+                    section#math div > svg{
+                        transition: transform .3s ease-in-out;
+                        width: 30px;
                     }
 
-                    @keyframes geoImgTransition {
-                        
+                        .active-geo svg{
+                            transform: rotate(90deg);
+                        }
+
+                    section#math div#planeGeo{
+                        border: 1px solid yellow;
+                        box-shadow: 0px 0px 10px -5px;
+                        color: yellow;
                     }
+
+                    section#math div#functions{
+                        border: 1px solid lightgreen;
+                        box-shadow: 0px 0px 10px -5px;
+                        color: lightgreen;
+                    }
+
+                    section#math div#spatialGeo{
+                        border: 1px solid orangered;
+                        box-shadow: 0px 0px 10px -5px;
+                        color: orangered;
+                    }
+
+                        section#math .content{
+                            display: flex;
+                            flex-flow: row wrap;
+                            margin-bottom: 20px;
+                            max-height: 0;
+                            overflow: hidden;
+                            padding: 0 15px; 
+                            transition: max-height 0.4s ease-out, padding 0.4s ease-out; 
+                            width: 80vw;
+                        }
+
+                            .content.active-content{
+                                padding: 15px; 
+                            }
 
 }
