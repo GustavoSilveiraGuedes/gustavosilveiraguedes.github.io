@@ -15,7 +15,6 @@
     --color5: #F2F2F2;
 }
 
-
 h1, h2{
         font-family: "JetBrains Mono", monospace;
     }
@@ -43,29 +42,31 @@ p{
 
 @keyframes typing {
 
-                    0% {
-                        width: 0;
-                        border-right: 3px solid var(--color1);
-                    }
+    0% {
+        border-right: 3px solid var(--color1);
+        width: 0;
+    }
 
-                    80% {
-                        width: 7ch;
-                        border-right: 3px solid var(--color1);
-                    }
+    80% {
+        border-right: 3px solid var(--color1);
+        width: 7ch;
+    }
 
-                    100% {
-                        width: 7ch;
-                        border-right: transparent;
-                    }
-                    
-                }
+    100% {
+        border-right: transparent;
+        width: 7ch;
+    }            
+
+}
 
 @keyframes intro1 {
+
     from{
         color: transparent;
     }
+
 }
-                
+                    
 @keyframes intro2 {
 
     from{
@@ -80,8 +81,6 @@ p{
 @media (max-width: 600px) {
 
     body{
-        scrollbar-width: 0;
-
         background: var(--color4) url(../img/mobile/homeBackgroundImg1.jpg) repeat top center;
         background-size: contain;
     }
@@ -94,145 +93,135 @@ p{
     }
 
         header a{
-            margin: 3px 10px;
-
-            color: var(--color5);
-            
-            text-decoration: none;
-            
-            transition: .3s;
+                color: var(--color5);
+                margin: 3px 10px;
+                text-decoration: none;
+                transition: .3s;
         }
 
         header svg{
-            width: 40px;
-            height: 40px;
+                height: 40px;
+                width: 40px;
         }
         
         header nav{
-            display: flex;
-            flex-flow: row nowrap;
-            justify-content: center;
-            align-items: end;
-            
-            position: fixed;
-
-            backdrop-filter: blur(2px);
-
-            margin: auto;
-            padding: 0px 15px; 
-            
-            border-bottom: 1px solid var(--color1);
-            border-radius: 10px;
+                align-items: end;
+                backdrop-filter: blur(2px);
+                border-bottom: 1px solid var(--color1);
+                border-radius: 10px;
+                display: flex;
+                flex-flow: row nowrap;
+                justify-content: center;
+                margin: auto;
+                padding: 0px 15px; 
+                position: fixed;
         }
 
-    
+
     main section{
+        align-items: center;
         display: flex;
         flex-flow: column nowrap;
-        align-items: center;
-
-        padding: 10px;
         margin: 230px 10px;
+        padding: 10px;
     }
 
         section#alGbra{
         }
 
-            section#alGbra a#linkalGbra{
-                display: flex;
-                flex-flow: row nowrap;
-                gap: 3px;
-
-                font-size: .7em;
-
-                text-decoration: none;
-                color: var(--color1);
-            }
-    
-                section#alGbra a#linkalGbra > svg{
-                    width: 10px;
-                }
-            
-            section#alGbra h1{
-                overflow: hidden;
-                
-                font-size: 4.6em;
-                
-                color: var(--color5);
-            }
-
-            section#alGbra > p{
-                text-align: justify;
-                line-height: 25px;
-
-                margin-bottom: 230px;
-                color: var(--color3);
-            }
-            
-            section#alGbra > div{
-                display: flex;
-                flex-flow: column nowrap;
-                align-items: center;
-            }
-
-                section#alGbra > div > h2{                    
-                    font-size: 1.7em;
-
-                    color: var(--color5);
-                    border-bottom: 1px solid var(--color1);
+                section#alGbra a#linkalGbra{
+                    color: var(--color1);
+                    display: flex;
+                    flex-flow: row nowrap;
+                    font-size: .7em;
+                    gap: 3px;
+                    text-decoration: none;
                 }
 
-                section#alGbra > div > p{
-                    color: var(--color3);
-                }
-
-                section#alGbra > div > a{
-                    padding: 10px 50px;
-
-                    background-color: var(--color1);
-
-                    border-radius: 15px;
-
-                    text-align: center;
-
-                    transition: .2s;
-
-                }
-
-                    section#alGbra > div > a > svg{
-                        color: var(--color5);
-                        width: 30px;
+                    section#alGbra a#linkalGbra > svg{
+                        width: 10px;
                     }
+
+                section#alGbra h1{
+                    color: var(--color5);
+                    font-size: 4.6em;
+                    overflow: hidden;
+                }
+
+                section#alGbra > p{
+                    color: var(--color3);
+                    line-height: 25px;
+                    margin-bottom: 230px;
+                    text-align: justify;
+                }
+                
+                section#alGbra > div{
+                    align-items: center;
+                    display: flex;
+                    flex-flow: column nowrap;
+                }
+
+                    section#alGbra > div > h2{                                   
+                        border-bottom: 1px solid var(--color1);
+                        color: var(--color5);
+                        font-size: 1.7em;
+                    }
+
+                    section#alGbra > div > p{
+                        color: var(--color3);
+                    }
+
+                    section#alGbra > div > a{
+                        background-color: var(--color1);
+                        border-radius: 15px;
+                        padding: 10px 50px;
+                        text-align: center;
+                        transition: .2s;
+                    }
+
+                        section#alGbra > div > a > svg{
+                            color: var(--color5);
+                            width: 30px;
+                        }
 
 
         section#math {
             padding-top: 100px;
         }
 
-            section#math h1{
-                font-size: 2em;
+                section#math h1{
+                    border: 1px solid var(--color1);
+                    border-bottom: 0;
+                    border-top: 0;
+                    color: var(--color5);
+                    font-size: 2em;
+                    margin: auto;
+                    margin-bottom: 30px;
+                }
 
+                section#math h2{
+                    color: var(--color5);
+                }
 
-                color: var(--color5);
+                section#math p{
+                    color: var(--color3);
+                    margin-bottom: 50px;
+                    text-align: center;
+                }
 
-                border: 1px solid var(--color1);
-                border-top: 0;
-                border-bottom: 0;
+                    section#math div#planeGeo{
+                        animation: geoImgTransition 10s infinite;
+                        background: transparent center no-repeat;
+                        background-size: cover;
+                        border: 1px solid yellow;
+                        border-radius: 0 10px;
+                        margin: 20px 0;
+                    }
 
-                margin: auto;
-                margin-bottom: 30px;
-            }
-
-            section#math h2{
-                color: var(--color5);
-            }
-
-            section#math p{
-                color: var(--color3);
-                text-align: center;
-
-
-                margin-bottom: 1000px;
-            }
+                    @keyframes geoImgTransition {
+                        0%{
+                            background-image: url(../img/planeGeo/square.jpg);
+                        }
+                    }
 
 }
