@@ -1,0 +1,15 @@
+{
+  "homeA": "Home",
+  "mathA": "Math",
+  "physA": "Phys",
+  "aboutA": "About",
+
+  "circleH1": "Circle",
+  "circleAreaH3": "Area of Circle",
+  "circleAreaOfCrownH3": "Area of Annulus",
+  "circleAreaOfSectorH3": "Area of Sector",
+  "circleAreaOfSegmentH3": "Area of Segment",
+
+  "contactEmailP": "Contact Email: gustavosilveiraguedes@gmail.com",
+  "contactNumberP": "Contact Number: +99 (99) 99999-9999"
+}
