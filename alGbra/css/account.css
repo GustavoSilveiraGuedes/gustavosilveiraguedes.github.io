@@ -58,8 +58,9 @@
         width: 100%;
     }
 
-    section#login div a{
+    section#login div button, section#login div a{
         border: 1px solid var(--color5);
+        background-color: transparent;
         width: 100px;
         padding: 5px;
         text-decoration: none;
@@ -67,7 +68,7 @@
         text-align: center;
     }
 
-    main a svg {
+    main button svg {
         width: 25px;
     }
 
@@ -141,8 +142,9 @@
         width: 100%;
     }
 
-    section#login div a{
+    section#login div button, section#login div a{
         border: 1px solid var(--color5);
+        background-color: transparent;
         width: 100px;
         font-size: 1.2em;
         padding: 5px;
@@ -152,11 +154,11 @@
         transition: .3s;  
     }
 
-    section#login div a:hover{
+    section#login div button:hover, section#login div a:hover{
         transform: translateY(-2px);
     }
 
-    main a svg {
+    main button svg {
         width: 30px;
         color: var(--color5);
     }
@@ -232,8 +234,9 @@
         width: 100%;
     }
 
-    section#login div a{
+    section#login div button, section#login div a{
         border: 1px solid var(--color5);
+        background-color: transparent;
         width: 120px;
         font-size: 1.5em;
         padding: 5px;
@@ -243,11 +246,11 @@
         transition: .3s;  
     }
 
-    section#login div a:hover{
+    section#login div button:hover, section#login div a:hover{
         transform: translateY(-2px);
     }
 
-    main a svg {
+    main button svg {
         width: 40px;
         color: var(--color5);
     }
