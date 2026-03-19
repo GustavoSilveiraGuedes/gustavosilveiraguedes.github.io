@@ -1,0 +1,47 @@
+@media (max-width: 1299px) {
+    h1{
+        font-size: 2.5em;
+        margin-bottom: 30px;
+    }
+
+    div.row{
+        display: flex;
+        flex-flow: row wrap-reverse;
+    }
+
+    div.col{
+        margin: 10px;
+    }
+
+    img, iframe{
+        width: 450px;
+        height: 200px;
+    }
+}
+
+@media (min-width: 1300px) and (max-width: 1799px) {
+
+    h1{
+        font-size: 3em;
+        margin-bottom: 30px;
+    }
+
+    div.row{
+        display: flex;
+        flex-flow: row wrap-reverse;
+    }
+
+    div.col{
+        margin: 10px;
+    }
+
+    img, iframe{
+        width: 450px;
+        height: 200px;
+    }
+
+}
+
+@media (min-width: 1800px) {
+
+}
