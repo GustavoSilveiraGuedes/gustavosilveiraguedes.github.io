@@ -4,18 +4,14 @@
         margin-bottom: 30px;
     }
 
-    div.row{
-        display: flex;
-        flex-flow: row wrap-reverse;
+    img{
+        margin-bottom: 20px;
+        width: 70vw;
+        max-width: 700px;
     }
-
-    div.col{
-        margin: 10px;
-    }
-
-    img, iframe{
-        width: 450px;
-        height: 200px;
+    iframe{
+        width: 500px;
+        height: 250px;
     }
 }
 
@@ -26,22 +22,33 @@
         margin-bottom: 30px;
     }
 
-    div.row{
-        display: flex;
-        flex-flow: row wrap-reverse;
+    img{
+        margin-bottom: 20px;
+        width: 70vw;
+        max-width: 700px;
     }
-
-    div.col{
-        margin: 10px;
-    }
-
-    img, iframe{
-        width: 450px;
-        height: 200px;
+    iframe{
+        width: 500px;
+        height: 250px;
     }
 
 }
 
 @media (min-width: 1800px) {
 
+    h1{
+        font-size: 3em;
+        margin-bottom: 30px;
+    }
+
+    img{
+        margin-bottom: 20px;
+        width: 70vw;
+        max-width: 800px;
+    }
+    iframe{
+        width: 1000px;
+        height: 500px;
+    }
+    
 }

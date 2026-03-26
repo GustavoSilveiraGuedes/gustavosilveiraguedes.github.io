@@ -1,0 +1,13 @@
+{
+    "homeA": "Home",
+    "mathA": "Math",
+    "physA": "Phys",
+    "aboutA": "About",
+
+    "quadraticFormulaH1": "Quadratic Formula",
+    "aboutP": "The Quadratic Formula is a fundamental concept in algebra used to solve second-degree equations in the form ax² + bx + c = 0. It is typically introduced to students during high school, although some foundational ideas may appear in the final years of middle school.<br><br>This formula involves four main variables: a, b, and c, which are the coefficients of the equation, and x, which represents the unknown value to be determined. By substituting these coefficients into the formula, it is possible to find the solutions (roots) of the equation.<br><br>The Quadratic Formula does not have a single creator. It was developed over time through contributions from different civilizations, including Babylonian, Greek, Indian, and Islamic mathematicians. The form most similar to the one used today was consolidated in the 17th century, alongside the advancement of symbolic algebra in Europe.<br><br>Because of its versatility and reliability, the Quadratic Formula remains one of the most important tools in mathematics, allowing the solution of any quadratic equation regardless of its complexity.",
+    "recommendedVideoH1": "Recommended Video",
+
+    "contactEmailP": "Contact Email: gustavosilveiraguedes@gmail.com",
+    "contactNumberP": "Contact Number: +99 (99) 99999-9999"
+}

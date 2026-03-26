@@ -1,0 +1,13 @@
+{
+    "homeA": "Inicio",
+    "mathA": "Mat",
+    "physA": "Fís",
+    "aboutA": "Sobre",
+
+    "quadraticFormulaH1": "Fórmula de Bhaskara",
+    "aboutP": "A Fórmula de Bhaskara é um conceito fundamental da álgebra utilizado para resolver equações do segundo grau na forma ax² + bx + c = 0. Ela é normalmente apresentada aos estudantes durante o Ensino Médio, embora alguns conceitos introdutórios possam aparecer nos anos finais do Ensino Fundamental.<br><br>Essa fórmula envolve quatro variáveis principais: a, b e c, que são os coeficientes da equação, e x, que representa o valor desconhecido a ser determinado. Ao substituir esses coeficientes na fórmula, é possível encontrar as soluções (raízes) da equação.<br><br>A Fórmula de Bhaskara não possui um único criador. Ela foi desenvolvida ao longo do tempo por diferentes civilizações, incluindo matemáticos babilônicos, gregos, indianos e islâmicos. A forma mais próxima da utilizada atualmente foi consolidada no século XVII, juntamente com o avanço da álgebra simbólica na Europa.<br><br>Devido à sua versatilidade e confiabilidade, a Fórmula de Bhaskara permanece como uma das ferramentas mais importantes da matemática, permitindo a resolução de qualquer equação do segundo grau, independentemente de sua complexidade.",
+    "recommendedVideoH1": "Vídeo Recomendado",
+
+    "contactEmailP": "Email Para Contato: gustavosilveiraguedes@gmail.com",
+    "contactNumberP": "Numero Para Contato: +99 (99) 99999-9999"
+}

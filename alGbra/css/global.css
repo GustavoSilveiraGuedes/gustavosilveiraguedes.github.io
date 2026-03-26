@@ -99,7 +99,7 @@ h1, h2, h3, option {
     p {
         color: var(--color3);
         line-height: 25px;
-        max-width: 500px;
+        max-width: 550px;
         padding: 0 10px;
         text-align: justify;
     }
