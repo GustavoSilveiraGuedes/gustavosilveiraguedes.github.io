@@ -1,0 +1,11 @@
+{
+    "homeA": "Início",
+    "mathA": "Mat",
+    "physA": "Fís",
+    "aboutA": "Sobre",
+    "VertexXCoordinateH1": "Coordenada X do Vértice",
+    "aboutP": "A Fórmula da Coordenada X do Vértice é um conceito importante da álgebra utilizado para determinar a posição horizontal do vértice de uma função quadrática. Ela é aplicada em funções escritas na forma f(x) = ax² + bx + c. Esse conteúdo é normalmente apresentado aos estudantes durante o Ensino Médio, quando começam a estudar funções quadráticas e análise de gráficos com mais profundidade.<br><br>Essa fórmula envolve três variáveis principais: a, b e x. As variáveis a e b são coeficientes da função quadrática, enquanto x representa a coordenada do vértice da parábola. A fórmula utilizada para calcular esse valor é x = -b / 2a.<br><br>Assim como muitos conceitos da álgebra, essa fórmula não possui um único criador. Ela foi desenvolvida ao longo do tempo com a evolução dos estudos sobre funções quadráticas por diferentes civilizações. A forma algébrica utilizada atualmente foi consolidada no século XVII, juntamente com o avanço da álgebra simbólica na Europa.<br><br>Devido à sua importância na interpretação de gráficos, a fórmula da coordenada X do vértice ajuda os estudantes a compreenderem onde a parábola atinge seu valor máximo ou mínimo, tornando-se um conceito fundamental no estudo das funções quadráticas.",
+    "recommendedVideoH1": "Vídeo Recomendado",
+    "contactEmailP": "Email de Contato: gustavosilveiraguedes@gmail.com",
+    "contactNumberP": "Número de Contato: +99 (99) 99999-9999"
+  }
