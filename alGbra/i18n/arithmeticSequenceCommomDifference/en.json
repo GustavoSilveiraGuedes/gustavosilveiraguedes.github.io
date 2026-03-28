@@ -1,0 +1,13 @@
+{
+    "homeA": "Home",
+    "mathA": "Math",
+    "physA": "Phys",
+    "aboutA": "About",
+
+    "commumDifferenceH1": "Common Difference",
+    "aboutP": "The Common Difference of an Arithmetic Progression is a fundamental concept in algebra used to identify the constant value added (or subtracted) between consecutive terms in a sequence. It is typically introduced to students during high school, when they begin studying sequences and numerical patterns in more depth.<br><br>This concept involves three main variables: r, an, and an-1. The variable r represents the common difference, an is a term in the sequence, and an-1 represents the term immediately before it. The formula can be simply understood as: the common difference is equal to the current term minus the previous term, or r = current term − previous term.<br><br>The study of arithmetic progressions dates back to ancient civilizations, including Babylonian and Greek mathematicians, who explored numerical patterns and sequences. However, the modern algebraic representation used today was consolidated in the 17th century, alongside the advancement of symbolic algebra in Europe.<br><br>Because of its simplicity and importance, the concept of common difference is essential for understanding how arithmetic sequences grow or decrease, making it a key tool in solving problems and analyzing patterns involving constant change.",
+    "recommendedVideoH1": "Recommended Video",
+
+    "contactEmailP": "Contact Email: gustavosilveiraguedes@gmail.com",
+    "contactNumberP": "Contact Number: +99 (99) 99999-9999"
+}

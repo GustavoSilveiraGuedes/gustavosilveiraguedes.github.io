@@ -1,0 +1,14 @@
+{
+    "homeA": "Home",
+    "mathA": "Math",
+    "physA": "Phys",
+    "aboutA": "About",
+
+    "numberOfTermsH1": "Number Of Terms",
+    "aboutP": "The Number of Terms of an Arithmetic Progression is a fundamental concept in algebra used to determine how many elements exist in a sequence based on its values. It is commonly expressed by the formula n = (an − a1) / r + 1 and is typically introduced to students during high school, when they begin studying sequences and numerical patterns in more depth.<br><br>This formula involves four main variables: n, an, a1, and r. The variable n represents the total number of terms in the progression, an is the last term, a1 is the first term, and r represents the common difference between consecutive terms. By substituting these values into the formula, it is possible to calculate how many terms are present in the sequence without listing all of them.<br><br>The study of arithmetic progressions dates back to ancient civilizations, including Babylonian and Greek mathematicians, who explored numerical patterns and sequences. However, the modern algebraic representation used today was consolidated in the 17th century, alongside the advancement of symbolic algebra in Europe.<br><br>Because of its practicality and efficiency, the formula for the number of terms in an arithmetic progression is an essential tool in mathematics, widely used to analyze sequences, solve problems involving patterns, and understand situations that involve constant rates of change.",
+
+    "recommendedVideoH1": "Recommended Video",
+
+    "contactEmailP": "Contact Email: gustavosilveiraguedes@gmail.com",
+    "contactNumberP": "Contact Number: +99 (99) 99999-9999"
+} 

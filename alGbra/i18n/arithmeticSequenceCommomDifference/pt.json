@@ -1,0 +1,13 @@
+{
+    "homeA": "Início",
+    "mathA": "Mat",
+    "physA": "Fís",
+    "aboutA": "Sobre",
+
+    "commumDifferenceH1": "Razão",
+    "aboutP": "A Razão de uma Progressão Aritmética é um conceito fundamental da álgebra utilizado para identificar o valor constante que é somado (ou subtraído) entre termos consecutivos de uma sequência. Ela é geralmente introduzida aos estudantes durante o ensino médio, quando começam a estudar sequências e padrões numéricos com mais profundidade.<br><br>Esse conceito envolve três variáveis principais: r, an e an-1. A variável r representa a razão, an é um termo da sequência, e an-1 representa o termo imediatamente anterior. A fórmula pode ser entendida de forma simples como: a razão é igual ao termo atual menos o termo anterior, ou seja, r = termo atual − termo anterior.<br><br>O estudo das progressões aritméticas remonta a civilizações antigas, incluindo matemáticos babilônicos e gregos, que exploravam padrões numéricos e sequências. No entanto, a representação algébrica moderna utilizada hoje foi consolidada no século XVII, juntamente com o avanço da álgebra simbólica na Europa.<br><br>Devido à sua simplicidade e importância, o conceito de razão é essencial para compreender como as sequências aritméticas crescem ou diminuem, sendo uma ferramenta fundamental na resolução de problemas e na análise de padrões que envolvem variações constantes.",
+    "recommendedVideoH1": "Vídeo Recomendado",
+
+    "contactEmailP": "Email de Contato: gustavosilveiraguedes@gmail.com",
+    "contactNumberP": "Número de Contato: +99 (99) 99999-9999"
+}

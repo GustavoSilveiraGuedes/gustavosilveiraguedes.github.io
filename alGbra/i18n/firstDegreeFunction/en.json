@@ -1,0 +1,13 @@
+{
+    "homeA": "Home",
+    "mathA": "Math",
+    "physA": "Phys",
+    "aboutA": "About",
+
+    "firstDegreeFunctionH1": "First Degree Function",
+    "aboutP": "The First Degree Function is a fundamental concept in algebra used to represent linear relationships between variables. It is typically written in the form f(x) = ax + b and is usually introduced to students during the final years of middle school and reinforced in high school.<br><br>This function involves three main variables: a, b, and x. The variable a represents the slope of the line, b represents the y-intercept, and x is the independent variable. By assigning values to x, it is possible to determine corresponding values of the function and analyze its behavior.<br><br>The study of linear relationships dates back to ancient civilizations, but the modern algebraic representation of first degree functions was developed over time with the evolution of algebra. The symbolic form used today became consolidated in the 17th century, alongside the advancement of symbolic algebra in Europe.<br><br>Because of its simplicity and wide range of applications, the First Degree Function is one of the most important concepts in mathematics, serving as a foundation for more advanced topics and helping describe real-world situations involving constant rates of change.",
+    "recommendedVideoH1": "Recommended Video",
+
+    "contactEmailP": "Contact Email: gustavosilveiraguedes@gmail.com",
+    "contactNumberP": "Contact Number: +99 (99) 99999-9999"
+}

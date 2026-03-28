@@ -1,0 +1,13 @@
+{
+    "homeA": "Home",
+    "mathA": "Math",
+    "physA": "Phys",
+    "aboutA": "About",
+
+    "firstDegreeFunctionH1": "Função de Primeiro Grau",
+    "aboutP": "A Função de Primeiro Grau é um conceito fundamental da álgebra utilizado para representar relações lineares entre variáveis. Ela é geralmente escrita na forma f(x) = ax + b e costuma ser introduzida aos estudantes nos anos finais do ensino fundamental e reforçada no ensino médio.<br><br>Essa função envolve três variáveis principais: a, b e x. A variável a representa a inclinação da reta, b representa o ponto onde a reta intercepta o eixo y, e x é a variável independente. Ao atribuir valores a x, é possível determinar os valores correspondentes da função e analisar seu comportamento.<br><br>O estudo das relações lineares remonta a civilizações antigas, mas a representação algébrica moderna das funções de primeiro grau foi desenvolvida ao longo do tempo com a evolução da álgebra. A forma simbólica utilizada atualmente foi consolidada no século XVII, juntamente com o avanço da álgebra simbólica na Europa.<br><br>Devido à sua simplicidade e ampla aplicação, a Função de Primeiro Grau é um dos conceitos mais importantes da matemática, servindo como base para conteúdos mais avançados e auxiliando na descrição de situações do mundo real que envolvem taxas de variação constantes.",
+    "recommendedVideoH1": "Vídeo Recomendado",
+
+    "contactEmailP": "Email de Contato: gustavosilveiraguedes@gmail.com",
+    "contactNumberP": "Número de Contato: +99 (99) 99999-9999"
+}

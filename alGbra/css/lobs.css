@@ -7,6 +7,7 @@
 
     main section > img{
         border-radius: 5px;
+        border-radius: 20px;
         width: 80vw;
         min-width: 400px;
         max-width: 600px;
@@ -69,6 +70,7 @@
 
     main section > img{
         border-radius: 5px;
+        border-radius: 20px;
         width: 80vw;
         max-width: 700px;
     }
@@ -130,6 +132,7 @@
 
     main section > img{
         border-radius: 5px;
+        border-radius: 20px;
         width: 80vw;
         max-width: 1000px;
     }

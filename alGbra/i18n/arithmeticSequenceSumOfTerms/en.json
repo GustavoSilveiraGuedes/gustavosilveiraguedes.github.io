@@ -1,0 +1,14 @@
+{
+    "homeA": "Home",
+    "mathA": "Math",
+    "physA": "Phys",
+    "aboutA": "About",
+
+    "sumOfTermsH1": "Sum Of Terms",
+    "aboutP": "The Sum of Terms of an Arithmetic Progression is a fundamental concept in algebra used to calculate the total value of a sequence of numbers that follow a constant pattern. It is commonly expressed by the formula S = n/2 (a1 + an) and is typically introduced to students during high school, when they begin studying sequences and series in more depth.<br><br>This formula involves four main variables: S, n, a1, and an. The variable S represents the sum of the terms, n indicates the number of terms in the sequence, a1 is the first term, and an is the last term. By substituting these values into the formula, it is possible to quickly calculate the sum without adding each term individually.<br><br>The study of arithmetic progressions and their sums dates back to ancient civilizations, including Greek mathematicians who explored numerical patterns and sequences. One of the most famous stories involves the mathematician Carl Friedrich Gauss, who as a child discovered a fast way to sum consecutive numbers. However, the modern algebraic representation used today was consolidated in the 17th century, alongside the advancement of symbolic algebra in Europe.<br><br>Because of its efficiency and practical applications, the Sum Formula of an Arithmetic Progression is an essential tool in mathematics, widely used to solve problems involving sequences, analyze patterns, and model real-world situations that involve cumulative values.",
+
+    "recommendedVideoH1": "Recommended Video",
+
+    "contactEmailP": "Contact Email: gustavosilveiraguedes@gmail.com",
+    "contactNumberP": "Contact Number: +99 (99) 99999-9999"
+}

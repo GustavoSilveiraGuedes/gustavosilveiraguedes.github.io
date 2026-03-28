@@ -1,0 +1,13 @@
+{
+    "homeA": "Home",
+    "mathA": "Math",
+    "physA": "Phys",
+    "aboutA": "About",
+
+    "generalTermH1": "Termo Geral",
+    "aboutP": "O Termo Geral de uma Progressão Aritmética é um conceito fundamental da álgebra utilizado para determinar qualquer termo de uma sequência com base em sua posição. Ele é comumente escrito na forma an = a1 + (n - 1)r e geralmente é introduzido aos estudantes durante o ensino médio, quando começam a estudar sequências e padrões numéricos com mais profundidade.<br><br>Essa fórmula envolve quatro variáveis principais: an, a1, n e r. A variável a1 representa o primeiro termo da progressão, n indica a posição do termo, r representa a razão (diferença constante entre os termos consecutivos), e an é o valor do termo que está sendo calculado. Ao substituir esses valores na fórmula, é possível encontrar qualquer termo da sequência sem precisar listar todos os anteriores.<br><br>O estudo das progressões aritméticas remonta a civilizações antigas, incluindo matemáticos babilônicos e gregos, que exploravam padrões numéricos e sequências. No entanto, a representação algébrica moderna utilizada hoje foi consolidada no século XVII, juntamente com o avanço da álgebra simbólica na Europa.<br><br>Devido à sua eficiência e aplicações práticas, a fórmula do Termo Geral de uma Progressão Aritmética é uma ferramenta essencial na matemática, sendo amplamente utilizada para analisar sequências, resolver problemas envolvendo padrões e modelar situações do mundo real que envolvem variações constantes.",
+    "recommendedVideoH1": "Vídeo Recomendado",
+
+    "contactEmailP": "Email de Contato: gustavosilveiraguedes@gmail.com",
+    "contactNumberP": "Número de Contato: +99 (99) 99999-9999"
+}

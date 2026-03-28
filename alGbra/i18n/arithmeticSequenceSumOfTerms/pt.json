@@ -1,0 +1,14 @@
+{
+    "homeA": "Início",
+    "mathA": "Mat",
+    "physA": "Fís",
+    "aboutA": "Sobre",
+
+    "sumOfTermsH1": "Soma dos Termos",
+    "aboutP": "A Soma dos Termos de uma Progressão Aritmética é um conceito fundamental da álgebra utilizado para calcular o valor total de uma sequência numérica que segue um padrão constante. Ela é comumente expressa pela fórmula S = n/2 (a1 + an) e geralmente é apresentada aos estudantes durante o ensino médio, quando começam a estudar sequências e séries com mais profundidade.<br><br>Essa fórmula envolve quatro variáveis principais: S, n, a1 e an. A variável S representa a soma dos termos, n indica a quantidade de termos da sequência, a1 é o primeiro termo e an é o último termo. Substituindo esses valores na fórmula, é possível calcular rapidamente a soma sem precisar somar todos os termos manualmente.<br><br>O estudo das progressões aritméticas e de suas somas remonta a civilizações antigas, incluindo matemáticos gregos que exploravam padrões numéricos e sequências. Uma das histórias mais conhecidas envolve o matemático Carl Friedrich Gauss, que ainda criança descobriu uma forma rápida de somar números consecutivos. No entanto, a representação algébrica moderna utilizada hoje foi consolidada no século XVII, juntamente com o avanço da álgebra simbólica na Europa.<br><br>Devido à sua eficiência e aplicações práticas, a fórmula da soma de uma progressão aritmética é uma ferramenta essencial na matemática, sendo amplamente utilizada para resolver problemas envolvendo sequências, analisar padrões e modelar situações do mundo real que envolvem valores acumulados.",
+
+    "recommendedVideoH1": "Vídeo Recomendado",
+
+    "contactEmailP": "Email de Contato: gustavosilveiraguedes@gmail.com",
+    "contactNumberP": "Número de Contato: +99 (99) 99999-9999"
+}
