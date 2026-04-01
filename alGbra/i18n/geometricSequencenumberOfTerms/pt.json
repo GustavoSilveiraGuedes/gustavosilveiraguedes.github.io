@@ -1,0 +1,15 @@
+{
+    "homeA": "Início",
+    "mathA": "Mat",
+    "physA": "Fís",
+    "aboutA": "Sobre",
+
+    "numberOfTermsH1": "Número de Termos",
+
+    "aboutP": "O Número de Termos de uma Progressão Geométrica é um conceito fundamental da álgebra utilizado para determinar quantos elementos existem em uma sequência com base em seus valores. Ele é comumente derivado da fórmula do termo geral e pode ser expresso a partir de an = a1 × q^(n − 1), sendo geralmente apresentado aos alunos durante o ensino médio, quando começam a estudar sequências e padrões exponenciais com mais profundidade.<br><br>Esse conceito envolve quatro variáveis principais: n, an, a1 e q. A variável n representa a quantidade total de termos da progressão, an é o valor de um termo específico (geralmente o último), a1 é o primeiro termo, e q representa a razão entre termos consecutivos. Manipulando a fórmula do termo geral, é possível isolar n e determinar quantos termos existem na sequência sem precisar listar todos eles.<br><br>O estudo das progressões geométricas remonta a civilizações antigas, incluindo matemáticos babilônicos e gregos, que exploravam padrões numéricos e sequências multiplicativas. No entanto, a representação algébrica moderna utilizada hoje foi consolidada no século XVII, juntamente com o avanço da álgebra simbólica na Europa.<br><br>Devido à sua utilidade e aplicações práticas, o conceito de determinar o número de termos de uma progressão geométrica é uma ferramenta essencial na matemática, sendo amplamente utilizado para analisar sequências, resolver problemas envolvendo padrões exponenciais e modelar situações do mundo real que envolvem multiplicação contínua.",
+
+    "recommendedVideoH1": "Vídeo Recomendado",
+
+    "contactEmailP": "Email de Contato: gustavosilveiraguedes@gmail.com",
+    "contactNumberP": "Número de Contato: +99 (99) 99999-9999"
+}

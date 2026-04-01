@@ -1,0 +1,15 @@
+{
+    "homeA": "Início",
+    "mathA": "Mat",
+    "physA": "Fís",
+    "aboutA": "Sobre",
+
+    "generalTermH1": "Termo Geral",
+
+    "aboutP": "O Termo Geral de uma Progressão Geométrica é um conceito fundamental da álgebra utilizado para determinar qualquer termo de uma sequência com base em sua posição. Ele é comumente escrito na forma an = a1 × q^(n − 1) e geralmente é apresentado aos alunos durante o ensino médio, quando começam a estudar sequências e padrões exponenciais com mais profundidade.<br><br>Essa fórmula envolve quatro variáveis principais: an, a1, n e q. A variável a1 representa o primeiro termo da progressão, n indica a posição do termo, q representa a razão entre termos consecutivos, e an é o valor do termo que está sendo calculado. Substituindo esses valores na fórmula, é possível encontrar qualquer termo da sequência sem precisar listar todos os anteriores.<br><br>O estudo das progressões geométricas remonta a civilizações antigas, incluindo matemáticos babilônicos e gregos, que exploravam padrões numéricos e sequências multiplicativas. No entanto, a representação algébrica moderna utilizada hoje foi consolidada no século XVII, juntamente com o avanço da álgebra simbólica na Europa.<br><br>Devido à sua eficiência e ampla aplicação, a fórmula do termo geral da progressão geométrica é uma ferramenta essencial na matemática, sendo amplamente utilizada para analisar crescimento ou decaimento exponencial, resolver problemas envolvendo padrões e modelar situações do mundo real, como crescimento populacional, investimentos financeiros e fenômenos científicos.",
+
+    "recommendedVideoH1": "Vídeo Recomendado",
+
+    "contactEmailP": "Email de Contato: gustavosilveiraguedes@gmail.com",
+    "contactNumberP": "Número de Contato: +99 (99) 99999-9999"
+}

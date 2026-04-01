@@ -1,0 +1,15 @@
+{
+    "homeA": "Início",
+    "mathA": "Mat",
+    "physA": "Fís",
+    "aboutA": "Sobre",
+
+    "commomRatioH1": "Razão",
+
+    "aboutP": "A Razão de uma Progressão Geométrica é um conceito fundamental da álgebra utilizado para identificar o valor constante pelo qual cada termo de uma sequência é multiplicado para obter o próximo. Esse conceito é geralmente apresentado aos alunos durante o ensino médio, quando começam a estudar sequências e padrões exponenciais com mais profundidade.<br><br>Esse conceito envolve três variáveis principais: q, an e a(n−1). A variável q representa a razão da progressão, an é um termo da sequência, e a(n−1) representa o termo imediatamente anterior. A fórmula pode ser entendida de forma simples como: a razão é igual ao termo atual dividido pelo termo anterior, ou seja, q = termo atual ÷ termo anterior.<br><br>O estudo das progressões geométricas remonta a civilizações antigas, incluindo matemáticos babilônicos e gregos, que exploravam padrões numéricos e sequências multiplicativas. No entanto, a representação algébrica moderna utilizada hoje foi consolidada no século XVII, juntamente com o avanço da álgebra simbólica na Europa.<br><br>Devido à sua simplicidade e importância, o conceito de razão é essencial para compreender como as sequências geométricas crescem ou decrescem, sendo uma ferramenta fundamental para resolver problemas e analisar padrões que envolvem crescimento exponencial.",
+
+    "recommendedVideoH1": "Vídeo Recomendado",
+
+    "contactEmailP": "Email de Contato: gustavosilveiraguedes@gmail.com",
+    "contactNumberP": "Número de Contato: +99 (99) 99999-9999"
+}

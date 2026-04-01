@@ -1,0 +1,15 @@
+{
+    "homeA": "Home",
+    "mathA": "Math",
+    "physA": "Phys",
+    "aboutA": "About",
+
+    "generalTermH1": "General Term",
+
+    "aboutP": "The General Term of a Geometric Progression is a fundamental concept in algebra used to determine any term of a sequence based on its position. It is commonly written in the form an = a1 × q^(n − 1) and is typically introduced to students during high school, when they begin studying sequences and exponential patterns in more depth.<br><br>This formula involves four main variables: an, a1, n, and q. The variable a1 represents the first term of the progression, n indicates the position of the term, q represents the common ratio between consecutive terms, and an is the value of the term being calculated. By substituting these values into the formula, it is possible to find any term in the sequence without listing all previous elements.<br><br>The study of geometric progressions dates back to ancient civilizations, including Babylonian and Greek mathematicians, who explored numerical patterns and multiplicative sequences. However, the modern algebraic representation used today was consolidated in the 17th century, alongside the advancement of symbolic algebra in Europe.<br><br>Because of its efficiency and wide range of applications, the General Term Formula of a Geometric Progression is an essential tool in mathematics, widely used to analyze exponential growth or decay, solve problems involving patterns, and model real-world situations such as population growth, financial investments, and scientific phenomena.",
+
+    "recommendedVideoH1": "Recommended Video",
+
+    "contactEmailP": "Contact Email: gustavosilveiraguedes@gmail.com",
+    "contactNumberP": "Contact Number: +99 (99) 99999-9999"
+}

@@ -1,0 +1,15 @@
+{
+    "homeA": "Home",
+    "mathA": "Math",
+    "physA": "Phys",
+    "aboutA": "About",
+
+    "sumOfTermsH1": "Sum Of Terms",
+
+    "aboutP": "The Sum of a Geometric Progression is a fundamental concept in algebra used to calculate the total value of a sequence in which each term is obtained by multiplying the previous one by a constant ratio. It is commonly expressed by the formula S = a1 × (qⁿ − 1) / (q − 1) and is typically introduced to students during high school, when they begin studying sequences and exponential patterns in more depth.<br><br>This formula involves four main variables: S, a1, q, and n. The variable S represents the sum of the terms, a1 is the first term of the progression, q represents the common ratio between consecutive terms, and n indicates the number of terms in the sequence. By substituting these values into the formula, it is possible to calculate the total sum efficiently without adding each term individually.<br><br>The study of geometric progressions dates back to ancient civilizations, including Babylonian and Greek mathematicians, who explored numerical patterns and multiplicative sequences. However, the modern algebraic representation used today was consolidated in the 17th century, alongside the advancement of symbolic algebra in Europe.<br><br>Because of its efficiency and wide range of applications, the Sum Formula of a Geometric Progression is an essential tool in mathematics, widely used to analyze exponential growth, solve problems involving sequences, and model real-world situations such as financial investments, population growth, and scientific phenomena involving repeated multiplication.",
+
+    "recommendedVideoH1": "Recommended Video",
+
+    "contactEmailP": "Contact Email: gustavosilveiraguedes@gmail.com",
+    "contactNumberP": "Contact Number: +99 (99) 99999-9999"
+}

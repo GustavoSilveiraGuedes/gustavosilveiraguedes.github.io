@@ -1,0 +1,15 @@
+{
+    "homeA": "Home",
+    "mathA": "Math",
+    "physA": "Phys",
+    "aboutA": "About",
+
+    "commomRatioH1": "Commom Ratio",
+
+    "aboutP": "The Common Ratio of a Geometric Progression is a fundamental concept in algebra used to identify the constant value by which each term in a sequence is multiplied to obtain the next one. It is typically introduced to students during high school, when they begin studying sequences and exponential patterns in more depth.<br><br>This concept involves three main variables: q, an, and a(n−1). The variable q represents the common ratio, an is a term in the sequence, and a(n−1) represents the term immediately before it. The formula can be simply understood as: the common ratio is equal to the current term divided by the previous term, or q = current term ÷ previous term.<br><br>The study of geometric progressions dates back to ancient civilizations, including Babylonian and Greek mathematicians, who explored numerical patterns and multiplicative sequences. However, the modern algebraic representation used today was consolidated in the 17th century, alongside the advancement of symbolic algebra in Europe.<br><br>Because of its simplicity and importance, the concept of common ratio is essential for understanding how geometric sequences grow or decrease, making it a key tool in solving problems and analyzing patterns involving exponential change.",
+
+    "recommendedVideoH1": "Recommended Video",
+
+    "contactEmailP": "Contact Email: gustavosilveiraguedes@gmail.com",
+    "contactNumberP": "Contact Number: +99 (99) 99999-9999"
+}

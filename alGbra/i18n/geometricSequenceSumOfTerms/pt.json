@@ -1,0 +1,15 @@
+{
+    "homeA": "Início",
+    "mathA": "Mat",
+    "physA": "Fís",
+    "aboutA": "Sobre",
+
+    "sumOfTermsH1": "Soma dos Termos",
+
+    "aboutP": "A Soma de uma Progressão Geométrica é um conceito fundamental da álgebra utilizado para calcular o valor total de uma sequência em que cada termo é obtido multiplicando o anterior por uma razão constante. Ela é comumente expressa pela fórmula S = a1 × (qⁿ − 1) / (q − 1) e geralmente é apresentada aos alunos durante o ensino médio, quando começam a estudar sequências e padrões exponenciais com mais profundidade.<br><br>Essa fórmula envolve quatro variáveis principais: S, a1, q e n. A variável S representa a soma dos termos, a1 é o primeiro termo da progressão, q representa a razão entre termos consecutivos, e n indica a quantidade de termos da sequência. Substituindo esses valores na fórmula, é possível calcular a soma total de forma eficiente sem precisar somar termo por termo.<br><br>O estudo das progressões geométricas remonta a civilizações antigas, incluindo matemáticos babilônicos e gregos, que exploravam padrões numéricos e sequências multiplicativas. No entanto, a representação algébrica moderna utilizada hoje foi consolidada no século XVII, juntamente com o avanço da álgebra simbólica na Europa.<br><br>Devido à sua eficiência e ampla aplicação, a fórmula da soma de uma progressão geométrica é uma ferramenta essencial na matemática, sendo amplamente utilizada para analisar crescimento exponencial, resolver problemas envolvendo sequências e modelar situações do mundo real, como investimentos financeiros, crescimento populacional e fenômenos científicos que envolvem multiplicação contínua.",
+
+    "recommendedVideoH1": "Vídeo Recomendado",
+
+    "contactEmailP": "Email de Contato: gustavosilveiraguedes@gmail.com",
+    "contactNumberP": "Número de Contato: +99 (99) 99999-9999"
+}
