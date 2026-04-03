@@ -1,0 +1,15 @@
+{
+    "homeA": "Início",
+    "mathA": "Mat",
+    "physA": "Fís",
+    "aboutA": "Sobre",
+
+    "numberOfDiagonalsH1": "Número de Diagonais",
+
+    "aboutP": "O Número de Diagonais de um Polígono é um conceito fundamental da geometria utilizado para determinar quantos segmentos de reta podem ser traçados ligando vértices não consecutivos de um polígono. Ele é comumente expresso pela fórmula D = n(n − 3) / 2 e geralmente é apresentado aos alunos durante o ensino fundamental, quando começam a estudar polígonos e suas propriedades geométricas.<br><br>Essa fórmula envolve duas variáveis principais: D e n. A variável D representa o número total de diagonais, enquanto n indica a quantidade de lados (ou vértices) do polígono. Substituindo o número de lados na fórmula, é possível calcular rapidamente a quantidade de diagonais sem precisar desenhar cada uma delas.<br><br>O estudo dos polígonos e de suas propriedades estruturais remonta a civilizações antigas, especialmente aos matemáticos gregos que contribuíram significativamente para o desenvolvimento da geometria. A compreensão das relações entre vértices, lados e diagonais está ligada aos estudos clássicos, particularmente aos trabalhos de Euclides por volta do século III a.C.<br><br>Devido à sua praticidade e importância, a fórmula do número de diagonais é uma ferramenta essencial na geometria, sendo amplamente utilizada para analisar a estrutura dos polígonos, resolver problemas e compreender melhor as relações presentes nas formas geométricas tanto em estudos matemáticos quanto em aplicações do mundo real.",
+
+    "recommendedVideoH1": "Vídeo Recomendado",
+
+    "contactEmailP": "Email de Contato: gustavosilveiraguedes@gmail.com",
+    "contactNumberP": "Número de Contato: +99 (99) 99999-9999"
+}

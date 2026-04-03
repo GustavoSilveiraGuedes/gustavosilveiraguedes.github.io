@@ -1,0 +1,15 @@
+{
+    "homeA": "Início",
+    "mathA": "Mat",
+    "physA": "Fís",
+    "aboutA": "Sobre",
+
+    "internalAnglesSumH1": "Soma dos Ângulos Internos",
+
+    "aboutP": "A Soma dos Ângulos Internos de um Polígono é um conceito fundamental da geometria utilizado para calcular a medida total de todos os ângulos internos de um polígono com base no número de lados. Ela é comumente expressa pela fórmula Si = 180° × (n − 2) e geralmente é apresentada aos alunos durante o ensino fundamental, quando começam a estudar polígonos e propriedades geométricas básicas.<br><br>Essa fórmula envolve duas variáveis principais: Si e n. A variável Si representa a soma dos ângulos internos do polígono, enquanto n indica o número de lados. Substituindo o número de lados na fórmula, é possível determinar rapidamente a medida total de todos os ângulos internos sem precisar calcular cada um individualmente.<br><br>O estudo dos polígonos e de suas propriedades remonta a civilizações antigas, incluindo matemáticos gregos que contribuíram significativamente para a geometria. A formalização desses conceitos está fortemente associada aos trabalhos de Euclides, cujos estudos ajudaram a estabelecer muitos dos princípios utilizados até hoje, especialmente por volta do século III a.C.<br><br>Devido à sua simplicidade e importância, a fórmula da soma dos ângulos internos é uma ferramenta essencial na geometria, sendo amplamente utilizada para resolver problemas, compreender a estrutura dos polígonos e analisar formas tanto em estudos matemáticos quanto em aplicações do mundo real.",
+
+    "recommendedVideoH1": "Vídeo Recomendado",
+
+    "contactEmailP": "Email de Contato: gustavosilveiraguedes@gmail.com",
+    "contactNumberP": "Número de Contato: +99 (99) 99999-9999"
+}

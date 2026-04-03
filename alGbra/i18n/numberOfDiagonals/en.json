@@ -1,0 +1,15 @@
+{
+    "homeA": "Home",
+    "mathA": "Math",
+    "physA": "Phys",
+    "aboutA": "About",
+
+    "numberOfDiagonalsH1": "Number Of Diagonals",
+
+    "aboutP": "The Number of Diagonals of a Polygon is a fundamental concept in geometry used to determine how many line segments can be drawn connecting non-adjacent vertices of a polygon. It is commonly expressed by the formula D = n(n − 3) / 2 and is typically introduced to students during middle school, when they begin studying polygons and their geometric properties.<br><br>This formula involves two main variables: D and n. The variable D represents the total number of diagonals, while n indicates the number of sides (or vertices) of the polygon. By substituting the number of sides into the formula, it is possible to calculate the number of diagonals quickly without drawing each one individually.<br><br>The study of polygons and their structural properties dates back to ancient civilizations, especially Greek mathematicians who contributed significantly to the development of geometry. The understanding of relationships between vertices, sides, and diagonals is connected to classical geometric studies, particularly those influenced by Euclid around the 3rd century BC.<br><br>Because of its practicality and importance, the formula for the number of diagonals is an essential tool in geometry, widely used to analyze polygon structures, solve problems, and better understand the relationships within geometric shapes in both mathematical studies and real-world applications.",
+
+    "recommendedVideoH1": "Recommended Video",
+
+    "contactEmailP": "Contact Email: gustavosilveiraguedes@gmail.com",
+    "contactNumberP": "Contact Number: +99 (99) 99999-9999"
+}

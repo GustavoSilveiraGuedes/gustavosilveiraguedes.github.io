@@ -1,0 +1,15 @@
+{
+    "homeA": "Início",
+    "mathA": "Mat",
+    "physA": "Fís",
+    "aboutA": "Sobre",
+
+    "exteriorAnglesSumH1": "Soma dos Ângulos Externos",
+
+    "aboutP": "A Soma dos Ângulos Externos de um Polígono é um conceito fundamental da geometria utilizado para determinar a medida total de todos os ângulos externos de um polígono, independentemente do número de lados. Ela é comumente expressa pela fórmula Se = 360° e geralmente é apresentada aos alunos durante o ensino fundamental, quando começam a estudar polígonos e suas propriedades geométricas.<br><br>Esse conceito envolve uma variável principal: Se, que representa a soma dos ângulos externos do polígono. Diferentemente da soma dos ângulos internos, esse valor não depende do número de lados, pois os ângulos externos de qualquer polígono sempre somam 360°. Isso torna o conceito simples e muito útil na resolução de problemas geométricos.<br><br>O estudo dos polígonos e de suas propriedades angulares remonta a civilizações antigas, especialmente aos matemáticos gregos que contribuíram significativamente para o desenvolvimento da geometria. A compreensão dessas relações está ligada aos estudos clássicos, particularmente aos trabalhos de Euclides por volta do século III a.C.<br><br>Devido à sua simplicidade e aplicação universal, o conceito da soma dos ângulos externos é uma ferramenta essencial na geometria, sendo amplamente utilizado para analisar formas, resolver problemas e compreender melhor a estrutura dos polígonos tanto em contextos matemáticos quanto em situações do mundo real.",
+
+    "recommendedVideoH1": "Vídeo Recomendado",
+
+    "contactEmailP": "Email de Contato: gustavosilveiraguedes@gmail.com",
+    "contactNumberP": "Número de Contato: +99 (99) 99999-9999"
+}

@@ -1,0 +1,15 @@
+{
+    "homeA": "Home",
+    "mathA": "Math",
+    "physA": "Phys",
+    "aboutA": "About",
+
+    "internalAnglesSumH1": "Internal Angles Sum",
+
+    "aboutP": "The Sum of Interior Angles of a Polygon is a fundamental concept in geometry used to calculate the total measure of all internal angles in a polygon based on the number of its sides. It is commonly expressed by the formula Si = 180° × (n − 2) and is typically introduced to students during middle school, when they begin studying polygons and basic geometric properties.<br><br>This formula involves two main variables: Si and n. The variable Si represents the sum of the interior angles of the polygon, while n indicates the number of sides. By substituting the number of sides into the formula, it is possible to quickly determine the total measure of all interior angles without needing to calculate each one individually.<br><br>The study of polygons and their properties dates back to ancient civilizations, including Greek mathematicians who made significant contributions to geometry. The formalization of these concepts is strongly associated with the work of Euclid, whose studies in geometry helped establish many of the principles still used today, particularly around the 3rd century BC.<br><br>Because of its simplicity and importance, the formula for the sum of interior angles is an essential tool in geometry, widely used to solve problems, understand polygon structures, and analyze shapes in both mathematical studies and real-world applications.",
+
+    "recommendedVideoH1": "Recommended Video",
+
+    "contactEmailP": "Contact Email: gustavosilveiraguedes@gmail.com",
+    "contactNumberP": "Contact Number: +99 (99) 99999-9999"
+}

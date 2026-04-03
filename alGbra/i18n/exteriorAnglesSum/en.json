@@ -1,0 +1,15 @@
+{
+    "homeA": "Home",
+    "mathA": "Math",
+    "physA": "Phys",
+    "aboutA": "About",
+
+    "exteriorAnglesSumH1": "Exterior Angles Sum",
+
+    "aboutP": "The Sum of Exterior Angles of a Polygon is a fundamental concept in geometry used to determine the total measure of all external angles of a polygon, regardless of the number of its sides. It is commonly expressed by the formula Se = 360° and is typically introduced to students during middle school, when they begin studying polygons and their geometric properties.<br><br>This concept involves one main variable: Se, which represents the sum of the exterior angles of the polygon. Unlike the sum of interior angles, this value does not depend on the number of sides, since the exterior angles of any polygon always add up to 360°. This makes the concept simple and very useful for solving geometric problems.<br><br>The study of polygons and their angle properties dates back to ancient civilizations, especially Greek mathematicians who contributed greatly to the development of geometry. The understanding of these angle relationships is connected to classical geometric studies, particularly those influenced by Euclid around the 3rd century BC.<br><br>Because of its simplicity and universal application, the concept of the sum of exterior angles is an essential tool in geometry, widely used to analyze shapes, solve problems, and better understand the structure of polygons in both mathematical contexts and real-world applications.",
+
+    "recommendedVideoH1": "Recommended Video",
+
+    "contactEmailP": "Contact Email: gustavosilveiraguedes@gmail.com",
+    "contactNumberP": "Contact Number: +99 (99) 99999-9999"
+}
