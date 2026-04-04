@@ -1,0 +1,14 @@
+{
+    "homeA": "Home",
+    "mathA": "Math",
+    "physA": "Phys",
+    "aboutA": "About",
+
+    "areaOfCircleH1": "Area Of Circle",
+    "aboutP": "The Area of a Circle is a fundamental concept in geometry used to calculate the total space enclosed within a circular shape. It is commonly expressed by the formula A = π × r² and is typically introduced to students during middle school, when they begin studying plane geometry and geometric measurements.<br><br>This formula involves two main variables: A and r. The variable A represents the area of the circle, while r represents the radius, which is the distance from the center of the circle to any point on its edge. The symbol π (pi) is a mathematical constant approximately equal to 3.14. By substituting the value of the radius into the formula, it is possible to determine the total area of the circle.<br><br>The study of circles and their properties dates back to ancient civilizations, including Egyptian and Greek mathematicians. One of the most important contributions came from Archimedes, who in the 3rd century BC developed methods to approximate the value of π and calculate areas related to circles.<br><br>Because of its wide range of applications, the formula for the area of a circle is an essential tool in geometry, widely used to solve problems, understand spatial relationships, and model real-world situations involving circular shapes.",
+    
+    "recommendedVideoH1": "Recommended Video",
+
+    "contactEmailP": "Contact Email: gustavosilveiraguedes@gmail.com",
+    "contactNumberP": "Contact Number: +99 (99) 99999-9999"
+}

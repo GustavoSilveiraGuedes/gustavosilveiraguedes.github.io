@@ -1,0 +1,14 @@
+{
+    "homeA": "Início",
+    "mathA": "Mat",
+    "physA": "Fís",
+    "aboutA": "Sobre",
+
+    "areaOfSegmentH1": "Área do Segmento",
+    "aboutP": "A Área do Segmento é um conceito fundamental da geometria utilizado para calcular a região de um círculo limitada por uma corda e o arco correspondente. Ela é comumente expressa como a diferença entre a área de um setor e a área de um triângulo, sendo geralmente introduzida aos alunos durante o ensino médio, quando começam a estudar propriedades mais avançadas dos círculos e relações geométricas.<br><br>Esse conceito envolve três variáveis principais: A, r e θ. A variável A representa a área do segmento, r representa o raio do círculo e θ representa o ângulo central em graus. A fórmula pode ser entendida como: área do segmento é igual à área do setor menos a área do triângulo formado pelos raios e pela corda. Ao calcular essas duas áreas e realizar a subtração, é possível determinar a área exata do segmento.<br><br>O estudo das regiões circulares e suas subdivisões remonta a civilizações antigas, especialmente matemáticos gregos que contribuíram significativamente para a geometria. Esses conceitos foram posteriormente refinados com o desenvolvimento da trigonometria e da álgebra simbólica, especialmente por volta do século XVII.<br><br>Devido à sua importância em análises geométricas mais complexas, o conceito de área do segmento é amplamente utilizado na matemática, na engenharia e na física, especialmente em problemas que envolvem formas curvas, arcos e regiões circulares parciais.",
+
+    "recommendedVideoH1": "Vídeo Recomendado",
+
+    "contactEmailP": "Email de Contato: gustavosilveiraguedes@gmail.com",
+    "contactNumberP": "Número de Contato: +99 (99) 99999-9999"
+}

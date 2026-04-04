@@ -1,0 +1,14 @@
+{
+    "homeA": "Home",
+    "mathA": "Math",
+    "physA": "Phys",
+    "aboutA": "About",
+
+    "areaOfAnnulusH1": "Area Of Annulus",
+    "aboutP": "The Area of a Circular Ring, also known as a crown, is a fundamental concept in geometry used to calculate the area between two concentric circles, meaning circles that share the same center. It is commonly expressed by the formula A = π × (R² − r²) and is typically introduced to students during middle school, when they begin studying more advanced geometric shapes and relationships.<br><br>This formula involves three main variables: A, R, and r. The variable A represents the area of the circular ring, R represents the radius of the larger circle, and r represents the radius of the smaller circle. The formula can be understood as the difference between the area of the larger circle and the area of the smaller one. By substituting the values of the radii into the formula, it is possible to calculate the area of the region between them.<br><br>The study of circles and their related shapes dates back to ancient civilizations, including Greek mathematicians who made significant contributions to geometry. The understanding of areas formed by subtracting geometric regions evolved over time and became more formalized with the development of symbolic algebra in the 17th century.<br><br>Because of its practical applications, the formula for the area of a circular ring is an important tool in geometry, widely used to solve problems involving layered circular shapes, engineering designs, and real-world situations that involve hollow or ring-shaped objects.",
+
+    "recommendedVideoH1": "Recommended Video",
+
+    "contactEmailP": "Contact Email: gustavosilveiraguedes@gmail.com",
+    "contactNumberP": "Contact Number: +99 (99) 99999-9999"
+}

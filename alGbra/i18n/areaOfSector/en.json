@@ -1,0 +1,14 @@
+{
+    "homeA": "Home",
+    "mathA": "Math",
+    "physA": "Phys",
+    "aboutA": "About",
+
+    "areaOfSectorH1": "Area Of Sector",
+    "aboutP": "The Area of a Sector is a fundamental concept in geometry used to calculate the portion of a circle defined by a central angle. It is commonly expressed by the formula A = (θ / 360°) × π × r² and is typically introduced to students during middle school, when they begin studying circles and angle relationships in more depth.<br><br>This formula involves three main variables: A, θ, and r. The variable A represents the area of the sector, θ represents the central angle in degrees, and r represents the radius of the circle. The formula can be understood as a fraction of the total area of the circle, proportional to the measure of the angle. By substituting the values into the formula, it is possible to calculate the area of just that specific portion of the circle.<br><br>The study of circles and angular measurements dates back to ancient civilizations, including Babylonian and Greek mathematicians, who developed early concepts of angles and circular geometry. These ideas were later refined and formalized with the development of symbolic mathematics in the 17th century.<br><br>Because of its practical applications, the formula for the area of a sector is an important tool in geometry, widely used to solve problems involving circular divisions, engineering designs, and real-world situations that require calculating partial circular regions.",
+
+    "recommendedVideoH1": "Recommended Video",
+
+    "contactEmailP": "Contact Email: gustavosilveiraguedes@gmail.com",
+    "contactNumberP": "Contact Number: +99 (99) 99999-9999"
+}

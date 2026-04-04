@@ -1,0 +1,14 @@
+{
+    "homeA": "Início",
+    "mathA": "Mat",
+    "physA": "Fís",
+    "aboutA": "Sobre",
+
+    "areaOfAnnulusH1": "Área da Coroa Circular",
+    "aboutP": "A Área da Coroa Circular é um conceito fundamental da geometria utilizado para calcular a área entre dois círculos concêntricos, ou seja, círculos que possuem o mesmo centro. Ela é comumente expressa pela fórmula A = π × (R² − r²) e geralmente é introduzida aos alunos durante o ensino fundamental, quando começam a estudar formas geométricas mais avançadas e suas relações.<br><br>Essa fórmula envolve três variáveis principais: A, R e r. A variável A representa a área da coroa circular, R representa o raio do círculo maior e r representa o raio do círculo menor. A fórmula pode ser entendida como a diferença entre a área do círculo maior e a área do círculo menor. Ao substituir os valores dos raios na fórmula, é possível calcular a área da região entre eles.<br><br>O estudo dos círculos e de suas formas relacionadas remonta a civilizações antigas, incluindo matemáticos gregos que contribuíram significativamente para a geometria. A compreensão de áreas formadas pela subtração de regiões geométricas evoluiu ao longo do tempo e foi consolidada com o desenvolvimento da álgebra simbólica no século XVII.<br><br>Devido às suas aplicações práticas, a fórmula da área da coroa circular é uma ferramenta importante na geometria, sendo amplamente utilizada para resolver problemas envolvendo formas circulares em camadas, projetos de engenharia e situações do mundo real que envolvem objetos em formato de anel.",
+
+    "recommendedVideoH1": "Vídeo Recomendado",
+
+    "contactEmailP": "Email de Contato: gustavosilveiraguedes@gmail.com",
+    "contactNumberP": "Número de Contato: +99 (99) 99999-9999"
+}
