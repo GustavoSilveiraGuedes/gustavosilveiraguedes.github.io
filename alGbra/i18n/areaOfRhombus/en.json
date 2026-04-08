@@ -1,0 +1,13 @@
+{
+    "homeA": "Home",
+    "mathA": "Math",
+    "physA": "Phys",
+    "aboutA": "About",
+
+    "areaOfRhombusH1": "Area Of Rhombus",
+    "aboutP": "The Area of a Rhombus is a fundamental concept in geometry used to calculate the space contained within a quadrilateral with all sides of equal length. It is commonly expressed by the formula A = (D × d) / 2 and is typically introduced to students during middle school, when they begin studying geometric shapes and their properties in more depth.<br><br>This formula involves three main variables: A, D, and d. The variable A represents the area of the rhombus, while D represents the length of the major diagonal and d represents the length of the minor diagonal. By multiplying the diagonals and dividing the result by two, it is possible to determine the total area of the shape.<br><br>The study of rhombuses and geometric figures dates back to ancient civilizations, including Greek mathematicians, who explored the properties of quadrilaterals and their measurements. These concepts were later formalized within Euclidean geometry around the 3rd century BC.<br><br>Because of its practicality and importance in geometry, the Area of a Rhombus formula is an essential tool, widely used to solve problems, understand geometric relationships, and apply mathematical reasoning in real-world situations.",
+    "recommendedVideoH1": "Recommended Video",
+
+    "contactEmailP": "Contact Email: gustavosilveiraguedes@gmail.com",
+    "contactNumberP": "Contact Number: +99 (99) 99999-9999"
+}

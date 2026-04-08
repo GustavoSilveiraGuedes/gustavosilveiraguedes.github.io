@@ -1,0 +1,13 @@
+{
+    "homeA": "Home",
+    "mathA": "Math",
+    "physA": "Phys",
+    "aboutA": "About",
+
+    "areaOfRectangleH1": "Area Of Rectangle",
+    "aboutP": "The Area of a Rectangle is a fundamental concept in geometry used to calculate the space contained within a rectangular shape. It is commonly expressed by the formula A = b × h and is typically introduced to students during middle school, when they begin studying basic geometric shapes and their properties.<br><br>This formula involves three main variables: A, b, and h. The variable A represents the area of the rectangle, while b represents the base (length) and h represents the height. By multiplying the base by the height, it is possible to determine the total area of the rectangle.<br><br>The study of rectangles and geometric shapes dates back to ancient civilizations, including Egyptian and Greek mathematicians, who used geometry in land measurement, construction, and architecture. These concepts were later formalized within Euclidean geometry around the 3rd century BC.<br><br>Because of its simplicity and wide range of applications, the Area of a Rectangle formula is an essential tool in geometry, widely used to solve problems, understand spatial relationships, and apply mathematical reasoning in real-world situations.",
+    "recommendedVideoH1": "Recommended Video",
+
+    "contactEmailP": "Contact Email: gustavosilveiraguedes@gmail.com",
+    "contactNumberP": "Contact Number: +99 (99) 99999-9999"
+}

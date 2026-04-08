@@ -1,0 +1,13 @@
+{
+    "homeA": "Início",
+    "mathA": "Mat",
+    "physA": "Fís",
+    "aboutA": "Sobre",
+
+    "areaOfRectangleH1": "Área do Retângulo",
+    "aboutP": "A Área de um Retângulo é um conceito fundamental da geometria utilizado para calcular o espaço contido dentro de uma figura retangular. Ela é comumente expressa pela fórmula A = b × h e geralmente é introduzida aos estudantes durante o ensino fundamental, quando começam a estudar formas geométricas básicas e suas propriedades.<br><br>Essa fórmula envolve três variáveis principais: A, b e h. A variável A representa a área do retângulo, enquanto b representa a base (comprimento) e h representa a altura. Ao multiplicar a base pela altura, é possível determinar a área total da figura.<br><br>O estudo dos retângulos e das formas geométricas remonta a civilizações antigas, incluindo matemáticos egípcios e gregos, que utilizavam a geometria em medições de terras, construções e arquitetura. Esses conceitos foram posteriormente formalizados dentro da geometria euclidiana por volta do século III a.C.<br><br>Devido à sua simplicidade e ampla aplicação, a fórmula da Área do Retângulo é uma ferramenta essencial na geometria, sendo amplamente utilizada para resolver problemas, compreender relações espaciais e aplicar o raciocínio matemático em situações do cotidiano.",
+    "recommendedVideoH1": "Vídeo Recomendado",
+
+    "contactEmailP": "Email de Contato: gustavosilveiraguedes@gmail.com",
+    "contactNumberP": "Número de Contato: +99 (99) 99999-9999"
+}

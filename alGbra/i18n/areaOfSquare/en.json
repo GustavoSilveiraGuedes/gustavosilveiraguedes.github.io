@@ -1,0 +1,13 @@
+{
+    "homeA": "Home",
+    "mathA": "Math",
+    "physA": "Phys",
+    "aboutA": "About",
+
+    "areaOfSquareH1": "Area Of Square",
+    "aboutP": "The Area of a Square is a fundamental concept in geometry used to calculate the space contained within a square. It is commonly expressed by the formula A = l² and is typically introduced to students during middle school, when they begin studying basic geometric shapes and their properties.<br><br>This formula involves two main variables: A and l. The variable A represents the area of the square, while l represents the length of one of its sides. Since all sides of a square are equal, multiplying the side by itself (squaring it) gives the total area of the shape.<br><br>The study of squares and geometric shapes dates back to ancient civilizations, including Egyptian and Greek mathematicians, who used geometry in construction, land measurement, and architecture. These concepts were later formalized within Euclidean geometry around the 3rd century BC.<br><br>Because of its simplicity and wide range of applications, the Area of a Square formula is an essential tool in geometry, widely used to solve problems, understand spatial relationships, and apply mathematical reasoning in everyday situations.",
+    "recommendedVideoH1": "Recommended Video",
+
+    "contactEmailP": "Contact Email: gustavosilveiraguedes@gmail.com",
+    "contactNumberP": "Contact Number: +99 (99) 99999-9999"
+}

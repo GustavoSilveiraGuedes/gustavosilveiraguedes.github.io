@@ -1,0 +1,13 @@
+{
+    "homeA": "Home",
+    "mathA": "Math",
+    "physA": "Phys",
+    "aboutA": "About",
+
+    "diagonalOfSquareH1": "Diagonal Of Square",
+    "aboutP": "The Diagonal of a Square is a fundamental concept in geometry used to determine the distance between two opposite vertices of a square. It is commonly expressed by the formula d = l√2 and is typically introduced to students during middle school, when they begin studying geometric properties and the Pythagorean Theorem.<br><br>This formula involves two main variables: d and l. The variable d represents the diagonal of the square, while l represents the length of one of its sides. Since a square has right angles, the diagonal can be found by applying the Pythagorean Theorem to the right triangle formed by two sides and the diagonal.<br><br>The study of diagonals and right triangles dates back to ancient civilizations, especially Greek mathematicians such as Pythagoras, who developed the theorem that relates the sides of a right triangle. These concepts became fundamental in geometry and were later formalized within Euclidean geometry around the 3rd century BC.<br><br>Because of its importance in geometric calculations, the Diagonal of a Square formula is an essential tool, widely used to determine distances, solve problems involving squares, and understand spatial relationships in both mathematics and real-world applications.",
+    "recommendedVideoH1": "Recommended Video",
+
+    "contactEmailP": "Contact Email: gustavosilveiraguedes@gmail.com",
+    "contactNumberP": "Contact Number: +99 (99) 99999-9999"
+}

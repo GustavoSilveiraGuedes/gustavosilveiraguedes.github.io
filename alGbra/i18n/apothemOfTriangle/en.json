@@ -1,0 +1,13 @@
+{
+    "homeA": "Home",
+    "mathA": "Math",
+    "physA": "Phys",
+    "aboutA": "About",
+
+    "apothemOfTriangleH1": "Apothem Of Triangle",
+    "aboutP": "The Apothem of a Triangle is a geometric concept used to determine the distance from the center of an equilateral triangle to the midpoint of one of its sides. It is commonly expressed by the formula a₃ = h / 3 and is typically introduced to students during middle school, when they begin studying properties of regular polygons and triangle geometry.<br><br>This formula involves two main variables: a₃ and h. The variable a₃ represents the apothem of the triangle, while h represents the height of the triangle. By dividing the height by three, it is possible to determine the apothem in an equilateral triangle, since all its internal segments follow proportional relationships.<br><br>The study of geometric proportions in triangles dates back to ancient civilizations, especially Greek mathematicians, who explored relationships between sides, heights, and internal segments. These ideas were later formalized within Euclidean geometry around the 3rd century BC.<br><br>Because of its usefulness in understanding geometric relationships, the apothem of a triangle is an important concept in geometry, particularly in the study of regular polygons, allowing for deeper analysis of symmetry, proportions, and area calculations.",
+    "recommendedVideoH1": "Recommended Video",
+
+    "contactEmailP": "Contact Email: gustavosilveiraguedes@gmail.com",
+    "contactNumberP": "Contact Number: +99 (99) 99999-9999"
+}

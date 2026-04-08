@@ -1,0 +1,13 @@
+{
+    "homeA": "Home",
+    "mathA": "Math",
+    "physA": "Phys",
+    "aboutA": "About",
+
+    "areaOfHexagonH1": "Area Of Hexagon",
+    "aboutP": "The Area of a Regular Hexagon is a fundamental concept in geometry used to calculate the space contained within a six-sided polygon with equal sides and angles. It is commonly expressed by the formula A = (3l²√3) / 2 and is typically introduced to students during middle school, when they begin studying polygons and their properties in more depth.<br><br>This formula involves two main variables: A and l. The variable A represents the area of the hexagon, while l represents the length of one of its sides. Since a regular hexagon can be divided into six equilateral triangles, the formula is derived from the area of these triangles combined.<br><br>The study of hexagons and geometric figures dates back to ancient civilizations, including Greek mathematicians, who explored the properties of polygons and symmetry. These concepts were later formalized within Euclidean geometry around the 3rd century BC.<br><br>Because of its structure and efficiency, the Area of a Regular Hexagon formula is an essential tool in geometry, widely used to solve problems, understand symmetrical patterns, and apply mathematical reasoning in real-world contexts such as tiling, architecture, and nature.",
+    "recommendedVideoH1": "Recommended Video",
+
+    "contactEmailP": "Contact Email: gustavosilveiraguedes@gmail.com",
+    "contactNumberP": "Contact Number: +99 (99) 99999-9999"
+}

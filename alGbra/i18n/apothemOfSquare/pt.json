@@ -1,0 +1,13 @@
+{
+    "homeA": "Início",
+    "mathA": "Mat",
+    "physA": "Fís",
+    "aboutA": "Sobre",
+
+    "apothemOfSquareH1": "Apótema do Quadrado",
+    "aboutP": "O Apótema de um Quadrado é um conceito fundamental da geometria utilizado para determinar a distância do centro do quadrado até o ponto médio de um de seus lados. Ele é comumente expresso pela fórmula a = l / 2 e geralmente é introduzido aos estudantes durante o ensino fundamental, quando começam a estudar polígonos regulares e suas propriedades.<br><br>Essa fórmula envolve duas variáveis principais: a e l. A variável a representa o apótema do quadrado, enquanto l representa o comprimento de um de seus lados. Como o quadrado é um polígono regular, o apótema corresponde à metade do comprimento do lado, formando um ângulo reto entre o centro e o ponto médio do lado.<br><br>O estudo dos apótemas e dos polígonos regulares remonta a civilizações antigas, especialmente aos matemáticos gregos, que exploraram profundamente as formas geométricas e suas propriedades. Esses conceitos foram posteriormente formalizados dentro da geometria euclidiana por volta do século III a.C.<br><br>Devido à sua importância em construções e cálculos geométricos, o Apótema do Quadrado é um conceito essencial, amplamente utilizado para compreender polígonos regulares, calcular áreas e analisar relações espaciais tanto na matemática quanto em aplicações práticas.",
+    "recommendedVideoH1": "Vídeo Recomendado",
+
+    "contactEmailP": "Email de Contato: gustavosilveiraguedes@gmail.com",
+    "contactNumberP": "Número de Contato: +99 (99) 99999-9999"
+}

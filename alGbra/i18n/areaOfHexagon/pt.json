@@ -1,0 +1,13 @@
+{
+    "homeA": "Início",
+    "mathA": "Mat",
+    "physA": "Fís",
+    "aboutA": "Sobre",
+
+    "areaOfHexagonH1": "Área do Hexágono",
+    "aboutP": "A Área de um Hexágono Regular é um conceito fundamental da geometria utilizado para calcular o espaço contido dentro de um polígono de seis lados com lados e ângulos iguais. Ela é comumente expressa pela fórmula A = (3l²√3) / 2 e geralmente é introduzida aos estudantes durante o ensino fundamental, quando começam a estudar polígonos e suas propriedades com mais profundidade.<br><br>Essa fórmula envolve duas variáveis principais: A e l. A variável A representa a área do hexágono, enquanto l representa o comprimento de um de seus lados. Como um hexágono regular pode ser dividido em seis triângulos equiláteros, a fórmula é derivada da soma das áreas desses triângulos.<br><br>O estudo dos hexágonos e das figuras geométricas remonta a civilizações antigas, incluindo matemáticos gregos, que exploraram as propriedades dos polígonos e a simetria. Esses conceitos foram posteriormente formalizados dentro da geometria euclidiana por volta do século III a.C.<br><br>Devido à sua estrutura e eficiência, a fórmula da Área do Hexágono Regular é uma ferramenta essencial na geometria, sendo amplamente utilizada para resolver problemas, compreender padrões simétricos e aplicar o raciocínio matemático em contextos do mundo real como revestimentos, arquitetura e padrões naturais.",
+    "recommendedVideoH1": "Vídeo Recomendado",
+
+    "contactEmailP": "Email de Contato: gustavosilveiraguedes@gmail.com",
+    "contactNumberP": "Número de Contato: +99 (99) 99999-9999"
+}

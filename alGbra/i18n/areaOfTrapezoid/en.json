@@ -1,0 +1,13 @@
+{
+    "homeA": "Home",
+    "mathA": "Math",
+    "physA": "Phys",
+    "aboutA": "About",
+
+    "areaOfTrapezoidH1": "Area Of Trapezoid",
+    "aboutP": "The Area of a Trapezoid is a fundamental concept in geometry used to calculate the space contained within a quadrilateral that has one pair of parallel sides. It is commonly expressed by the formula A = (B + b) × h / 2 and is typically introduced to students during middle school, when they begin studying more complex geometric shapes and their properties.<br><br>This formula involves four main variables: A, B, b, and h. The variable A represents the area of the trapezoid, B represents the length of the larger base, b represents the length of the smaller base, and h represents the height, which is the perpendicular distance between the two bases. By adding the bases, multiplying by the height, and dividing by two, it is possible to determine the total area of the shape.<br><br>The study of trapezoids and geometric shapes dates back to ancient civilizations, including Egyptian and Greek mathematicians, who applied geometry in land measurement, construction, and architecture. These concepts were later formalized within Euclidean geometry around the 3rd century BC.<br><br>Because of its practical applications and importance in geometry, the Area of a Trapezoid formula is an essential tool, widely used to solve problems, understand geometric relationships, and apply mathematical reasoning in real-world situations.",
+    "recommendedVideoH1": "Recommended Video",
+
+    "contactEmailP": "Contact Email: gustavosilveiraguedes@gmail.com",
+    "contactNumberP": "Contact Number: +99 (99) 99999-9999"
+}

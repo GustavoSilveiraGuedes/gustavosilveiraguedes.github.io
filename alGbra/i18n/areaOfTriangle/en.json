@@ -1,0 +1,13 @@
+{
+    "homeA": "Home",
+    "mathA": "Math",
+    "physA": "Phys",
+    "aboutA": "About",
+
+    "areaOfTriangleH1": "Area Of Triangle",
+    "aboutP": "The Area of a Triangle is a fundamental concept in geometry used to calculate the space contained within a triangle. It is commonly expressed by the formula A = (b × h) / 2 and is typically introduced to students during middle school, when they begin studying basic geometric shapes and measurements.<br><br>This formula involves three main variables: A, b, and h. The variable A represents the area of the triangle, b is the base, and h is the height, which is the perpendicular distance from the base to the opposite vertex. By substituting these values into the formula, it is possible to determine the area efficiently.<br><br>The study of triangles and their properties dates back to ancient civilizations, including Egyptian and Greek mathematicians, who used geometric principles in construction and land measurement. The formalization of these concepts is strongly associated with Euclidean geometry, developed around the 3rd century BC.<br><br>Because of its simplicity and practical applications, the Area of a Triangle formula is an essential tool in geometry, widely used to solve problems, understand shapes, and apply mathematical reasoning in real-world situations.",
+    "recommendedVideoH1": "Recommended Video",
+
+    "contactEmailP": "Contact Email: gustavosilveiraguedes@gmail.com",
+    "contactNumberP": "Contact Number: +99 (99) 99999-9999"
+}

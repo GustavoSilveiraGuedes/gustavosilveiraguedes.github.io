@@ -1,0 +1,13 @@
+{
+    "homeA": "Início",
+    "mathA": "Mat",
+    "physA": "Fís",
+    "aboutA": "Sobre",
+
+    "diagonalOfSquareH1": "Diagonal do Quadrado",
+    "aboutP": "A Diagonal de um Quadrado é um conceito fundamental da geometria utilizado para determinar a distância entre dois vértices opostos de um quadrado. Ela é comumente expressa pela fórmula d = l√2 e geralmente é introduzida aos estudantes durante o ensino fundamental, quando começam a estudar propriedades geométricas e o Teorema de Pitágoras.<br><br>Essa fórmula envolve duas variáveis principais: d e l. A variável d representa a diagonal do quadrado, enquanto l representa o comprimento de um de seus lados. Como o quadrado possui ângulos retos, a diagonal pode ser encontrada aplicando o Teorema de Pitágoras ao triângulo retângulo formado por dois lados e a diagonal.<br><br>O estudo das diagonais e dos triângulos retângulos remonta a civilizações antigas, especialmente matemáticos gregos como Pitágoras, que desenvolveu o teorema que relaciona os lados de um triângulo retângulo. Esses conceitos se tornaram fundamentais na geometria e foram posteriormente formalizados dentro da geometria euclidiana por volta do século III a.C.<br><br>Devido à sua importância em cálculos geométricos, a fórmula da Diagonal do Quadrado é uma ferramenta essencial, amplamente utilizada para determinar distâncias, resolver problemas envolvendo quadrados e compreender relações espaciais tanto na matemática quanto em aplicações do mundo real.",
+    "recommendedVideoH1": "Vídeo Recomendado",
+
+    "contactEmailP": "Email de Contato: gustavosilveiraguedes@gmail.com",
+    "contactNumberP": "Número de Contato: +99 (99) 99999-9999"
+}

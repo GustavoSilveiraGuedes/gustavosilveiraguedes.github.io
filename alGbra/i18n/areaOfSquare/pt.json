@@ -1,0 +1,13 @@
+{
+    "homeA": "Início",
+    "mathA": "Mat",
+    "physA": "Fís",
+    "aboutA": "Sobre",
+
+    "areaOfSquareH1": "Área do Quadrado",
+    "aboutP": "A Área de um Quadrado é um conceito fundamental da geometria utilizado para calcular o espaço contido dentro de um quadrado. Ela é comumente expressa pela fórmula A = l² e geralmente é introduzida aos estudantes durante o ensino fundamental, quando começam a estudar formas geométricas básicas e suas propriedades.<br><br>Essa fórmula envolve duas variáveis principais: A e l. A variável A representa a área do quadrado, enquanto l representa o comprimento de um de seus lados. Como todos os lados de um quadrado são iguais, multiplicar o lado por ele mesmo (elevá-lo ao quadrado) fornece a área total da figura.<br><br>O estudo dos quadrados e das formas geométricas remonta a civilizações antigas, incluindo matemáticos egípcios e gregos, que utilizavam a geometria em construções, medições de terras e arquitetura. Esses conceitos foram posteriormente formalizados dentro da geometria euclidiana por volta do século III a.C.<br><br>Devido à sua simplicidade e ampla aplicação, a fórmula da Área do Quadrado é uma ferramenta essencial na geometria, sendo amplamente utilizada para resolver problemas, compreender relações espaciais e aplicar o raciocínio matemático em situações do cotidiano.",
+    "recommendedVideoH1": "Vídeo Recomendado",
+
+    "contactEmailP": "Email de Contato: gustavosilveiraguedes@gmail.com",
+    "contactNumberP": "Número de Contato: +99 (99) 99999-9999"
+}

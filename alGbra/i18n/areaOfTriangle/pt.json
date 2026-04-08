@@ -1,0 +1,13 @@
+{
+    "homeA": "Início",
+    "mathA": "Mat",
+    "physA": "Fís",
+    "aboutA": "Sobre",
+
+    "areaOfTriangleH1": "Área do Triângulo",
+    "aboutP": "A Área de um Triângulo é um conceito fundamental da geometria utilizado para calcular o espaço contido dentro de um triângulo. Ela é comumente expressa pela fórmula A = (b × h) / 2 e geralmente é introduzida aos estudantes durante o ensino fundamental, quando começam a estudar formas geométricas básicas e medidas.<br><br>Essa fórmula envolve três variáveis principais: A, b e h. A variável A representa a área do triângulo, b é a base e h é a altura, que corresponde à distância perpendicular da base até o vértice oposto. Ao substituir esses valores na fórmula, é possível determinar a área de forma eficiente.<br><br>O estudo dos triângulos e de suas propriedades remonta a civilizações antigas, incluindo matemáticos egípcios e gregos, que utilizavam princípios geométricos em construções e medições de terras. A formalização desses conceitos está fortemente associada à geometria euclidiana, desenvolvida por volta do século III a.C.<br><br>Devido à sua simplicidade e aplicações práticas, a fórmula da Área do Triângulo é uma ferramenta essencial na geometria, sendo amplamente utilizada para resolver problemas, compreender formas e aplicar o raciocínio matemático em situações do mundo real.",
+    "recommendedVideoH1": "Vídeo Recomendado",
+
+    "contactEmailP": "Email de Contato: gustavosilveiraguedes@gmail.com",
+    "contactNumberP": "Número de Contato: +99 (99) 99999-9999"
+}

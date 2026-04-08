@@ -1,0 +1,13 @@
+{
+    "homeA": "Início",
+    "mathA": "Mat",
+    "physA": "Fís",
+    "aboutA": "Sobre",
+
+    "areaOfRhombusH1": "Área do Losango",
+    "aboutP": "A Área de um Losango é um conceito fundamental da geometria utilizado para calcular o espaço contido dentro de um quadrilátero com todos os lados de mesmo comprimento. Ela é comumente expressa pela fórmula A = (D × d) / 2 e geralmente é introduzida aos estudantes durante o ensino fundamental, quando começam a estudar formas geométricas e suas propriedades com mais profundidade.<br><br>Essa fórmula envolve três variáveis principais: A, D e d. A variável A representa a área do losango, enquanto D representa o comprimento da diagonal maior e d representa o comprimento da diagonal menor. Ao multiplicar as diagonais e dividir o resultado por dois, é possível determinar a área total da figura.<br><br>O estudo dos losangos e das figuras geométricas remonta a civilizações antigas, incluindo matemáticos gregos, que exploraram as propriedades dos quadriláteros e suas medidas. Esses conceitos foram posteriormente formalizados dentro da geometria euclidiana por volta do século III a.C.<br><br>Devido à sua praticidade e importância na geometria, a fórmula da Área do Losango é uma ferramenta essencial, amplamente utilizada para resolver problemas, compreender relações geométricas e aplicar o raciocínio matemático em situações do cotidiano.",
+    "recommendedVideoH1": "Vídeo Recomendado",
+
+    "contactEmailP": "Email de Contato: gustavosilveiraguedes@gmail.com",
+    "contactNumberP": "Número de Contato: +99 (99) 99999-9999"
+}

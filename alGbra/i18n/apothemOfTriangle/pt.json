@@ -1,0 +1,13 @@
+{
+    "homeA": "Início",
+    "mathA": "Mat",
+    "physA": "Fís",
+    "aboutA": "Sobre",
+
+    "apothemOfTriangleH1": "Apótema do Triângulo",
+    "aboutP": "O Apótema de um Triângulo é um conceito geométrico utilizado para determinar a distância do centro de um triângulo equilátero até o ponto médio de um de seus lados. Ele é comumente expresso pela fórmula a₃ = h / 3 e geralmente é introduzido aos estudantes durante o ensino fundamental, quando começam a estudar propriedades de polígonos regulares e geometria dos triângulos.<br><br>Essa fórmula envolve duas variáveis principais: a₃ e h. A variável a₃ representa o apótema do triângulo, enquanto h representa a altura do triângulo. Ao dividir a altura por três, é possível determinar o apótema em um triângulo equilátero, já que seus segmentos internos seguem relações proporcionais.<br><br>O estudo das proporções geométricas em triângulos remonta a civilizações antigas, especialmente matemáticos gregos, que exploraram relações entre lados, alturas e segmentos internos. Essas ideias foram posteriormente formalizadas dentro da geometria euclidiana por volta do século III a.C.<br><br>Devido à sua utilidade na compreensão de relações geométricas, o apótema do triângulo é um conceito importante na geometria, especialmente no estudo de polígonos regulares, permitindo uma análise mais profunda de simetria, proporções e cálculos de área.",
+    "recommendedVideoH1": "Vídeo Recomendado",
+
+    "contactEmailP": "Email de Contato: gustavosilveiraguedes@gmail.com",
+    "contactNumberP": "Número de Contato: +99 (99) 99999-9999"
+}
