@@ -1,0 +1,13 @@
+{
+    "homeA": "Início",
+    "mathA": "Mat",
+    "physA": "Fís",
+    "aboutA": "Sobre",
+
+    "totalAreaH1": "Área Total",
+    "aboutP": "A Área Total de um Cilindro é um conceito fundamental da geometria utilizado para calcular toda a superfície do sólido, incluindo as duas bases circulares e a superfície lateral curva. Ela pode ser expressa como: Área Total = 2 × Área da Base + Área Lateral, ou diretamente como A = 2 × π × r² + 2 × π × r × h. Esse conceito é geralmente introduzido aos estudantes durante o ensino fundamental, quando começam a estudar sólidos com superfícies curvas com mais profundidade.<br><br>Essa fórmula envolve três elementos principais: o raio da base, a altura do cilindro e a constante π. A área da base é calculada por A = π × r², e como o cilindro possui duas bases iguais, esse valor é multiplicado por dois. A área lateral é calculada por A = 2 × π × r × h. Ao somar esses componentes, é possível determinar a área total do cilindro.<br><br>O estudo dos cilindros e das áreas de superfície remonta a civilizações antigas, especialmente matemáticos gregos, que exploraram sólidos geométricos e suas propriedades. O desenvolvimento de fórmulas envolvendo π foi essencial para compreender formas circulares e curvas, sendo posteriormente formalizado dentro da geometria euclidiana por volta do século III a.C.<br><br>Devido à sua importância para compreender toda a superfície de um sólido, a Área Total de um Cilindro é um conceito essencial na geometria, sendo amplamente utilizada para resolver problemas, calcular materiais e aplicar o raciocínio matemático em contextos reais como engenharia, fabricação e arquitetura.",
+    "recommendedVideoH1": "Vídeo Recomendado",
+
+    "contactEmailP": "Email de Contato: gustavosilveiraguedes@gmail.com",
+    "contactNumberP": "Número de Contato: +99 (99) 99999-9999"
+}

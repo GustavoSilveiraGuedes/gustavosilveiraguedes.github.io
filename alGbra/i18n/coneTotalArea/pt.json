@@ -1,0 +1,13 @@
+{
+    "homeA": "Início",
+    "mathA": "Mat",
+    "physA": "Fís",
+    "aboutA": "Sobre",
+
+    "totalAreaH1": "Área Total",
+    "aboutP": "A Área Total de um Cone é um conceito fundamental da geometria utilizado para calcular toda a superfície do sólido, incluindo a base circular e a superfície lateral curva. Ela é expressa pela fórmula A = Área da Base + Área Lateral, ou diretamente como A = π × r² + π × r × g, onde r representa o raio da base e g representa a geratriz do cone. Esse conceito é geralmente introduzido aos estudantes durante o ensino fundamental, quando começam a estudar sólidos geométricos com mais profundidade.<br><br>Essa fórmula envolve três elementos principais: o raio, a geratriz e a constante π. A área da base é calculada por A = π × r², enquanto a área lateral é calculada por A = π × r × g. Ao somar esses dois componentes, é possível determinar a área total do cone.<br><br>O estudo dos cones e das áreas de superfície remonta a civilizações antigas, especialmente matemáticos gregos, que exploraram sólidos geométricos e suas propriedades. O entendimento do π e das relações espaciais foi essencial para o desenvolvimento dessas fórmulas, que posteriormente foram formalizadas dentro da geometria euclidiana por volta do século III a.C.<br><br>Devido à sua importância para compreender toda a superfície de um sólido, a Área Total de um Cone é um conceito essencial na geometria, sendo amplamente utilizada para resolver problemas, calcular materiais e aplicar o raciocínio matemático em contextos reais como engenharia, design e arquitetura.",
+    "recommendedVideoH1": "Vídeo Recomendado",
+
+    "contactEmailP": "Email de Contato: gustavosilveiraguedes@gmail.com",
+    "contactNumberP": "Número de Contato: +99 (99) 99999-9999"
+}

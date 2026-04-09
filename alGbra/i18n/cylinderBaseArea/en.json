@@ -1,0 +1,13 @@
+{
+    "homeA": "Home",
+    "mathA": "Math",
+    "physA": "Phys",
+    "aboutA": "About",
+
+    "baseAreaH1": "Base Area",
+    "aboutP": "The Base Area of a Cylinder is a fundamental concept in geometry used to calculate the area of the circular base that forms the foundation of the solid. It is expressed by the formula A = π × r², where π (pi) is a constant and r represents the radius of the circle. Unlike prisms and pyramids with polygonal bases, the cylinder has a circular base. This concept is typically introduced to students during middle school, when they begin studying curved geometric solids and their properties in more depth.<br><br>This formula involves two main elements: A and r. The variable A represents the area of the base, while r represents the radius of the circular base. By squaring the radius and multiplying it by π, it is possible to determine the total area of the base of the cylinder.<br><br>The study of circles and curved solids dates back to ancient civilizations, especially Greek mathematicians, who made significant contributions to geometry. The constant π has been studied for thousands of years and plays a crucial role in calculations involving circular shapes. These concepts were later formalized within Euclidean geometry around the 3rd century BC.<br><br>Because of its importance in calculating volume and other properties of solids, the Base Area of a Cylinder is an essential concept in geometry, widely used to solve problems, understand spatial structures, and apply mathematical reasoning in real-world situations.",
+    "recommendedVideoH1": "Recommended Video",
+
+    "contactEmailP": "Contact Email: gustavosilveiraguedes@gmail.com",
+    "contactNumberP": "Contact Number: +99 (99) 99999-9999"
+}

@@ -1,0 +1,13 @@
+{
+    "homeA": "Home",
+    "mathA": "Math",
+    "physA": "Phys",
+    "aboutA": "About",
+
+    "baseAreaH1": "Base Area",
+    "aboutP": "The Base Area of a Prism is a fundamental concept in geometry used to calculate the area of the shape that forms the base of the solid. In this case, the base is a square, so the area is calculated using the square area formula A = l². This concept is typically introduced to students during middle school, when they begin studying geometric solids and their properties in more depth.<br><br>This formula involves two main variables: A and l. The variable A represents the area of the base, while l represents the length of one side of the square. By multiplying the side by itself, it is possible to determine the total area of the base of the prism.<br><br>The study of geometric solids and their properties dates back to ancient civilizations, including Greek mathematicians, who explored three-dimensional shapes and their measurements. These concepts were later formalized within Euclidean geometry around the 3rd century BC.<br><br>Because of its importance in calculating volumes and other properties of solids, the Base Area formula is an essential tool in geometry, widely used to solve problems, understand spatial structures, and apply mathematical reasoning in real-world situations.",
+    "recommendedVideoH1": "Recommended Video",
+
+    "contactEmailP": "Contact Email: gustavosilveiraguedes@gmail.com",
+    "contactNumberP": "Contact Number: +99 (99) 99999-9999"
+}

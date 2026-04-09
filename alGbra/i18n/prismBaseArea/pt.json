@@ -1,0 +1,13 @@
+{
+    "homeA": "Início",
+    "mathA": "Mat",
+    "physA": "Fís",
+    "aboutA": "Sobre",
+
+    "baseAreaH1": "Área da Base",
+    "aboutP": "A Área da Base de um Prisma é um conceito fundamental da geometria utilizado para calcular a área da figura que forma a base do sólido. Neste caso, a base é um quadrado, então a área é calculada utilizando a fórmula da área do quadrado A = l². Esse conceito é geralmente introduzido aos estudantes durante o ensino fundamental, quando começam a estudar sólidos geométricos e suas propriedades com mais profundidade.<br><br>Essa fórmula envolve duas variáveis principais: A e l. A variável A representa a área da base, enquanto l representa o comprimento de um dos lados do quadrado. Ao multiplicar o lado por ele mesmo, é possível determinar a área total da base do prisma.<br><br>O estudo dos sólidos geométricos e suas propriedades remonta a civilizações antigas, incluindo matemáticos gregos, que exploraram formas tridimensionais e suas medidas. Esses conceitos foram posteriormente formalizados dentro da geometria euclidiana por volta do século III a.C.<br><br>Devido à sua importância no cálculo de volumes e outras propriedades dos sólidos, a fórmula da Área da Base é uma ferramenta essencial na geometria, sendo amplamente utilizada para resolver problemas, compreender estruturas espaciais e aplicar o raciocínio matemático em situações do cotidiano.",
+    "recommendedVideoH1": "Vídeo Recomendado",
+
+    "contactEmailP": "Email de Contato: gustavosilveiraguedes@gmail.com",
+    "contactNumberP": "Número de Contato: +99 (99) 99999-9999"
+}

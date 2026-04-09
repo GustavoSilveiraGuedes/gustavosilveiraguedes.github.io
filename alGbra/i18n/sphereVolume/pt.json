@@ -1,0 +1,13 @@
+{
+    "homeA": "Início",
+    "mathA": "Mat",
+    "physA": "Fís",
+    "aboutA": "Sobre",
+
+    "volumeH1": "Volume",
+    "aboutP": "O Volume de uma Esfera é um conceito fundamental da geometria utilizado para calcular o espaço ocupado por um sólido esférico. Ele é expresso pela fórmula V = (4/3) × π × r³, onde r representa o raio da esfera. Esse conceito é geralmente introduzido aos estudantes durante o ensino fundamental, quando começam a estudar sólidos geométricos tridimensionais com mais profundidade.<br><br>Essa fórmula envolve dois elementos principais: o raio e a constante π. Ao elevar o raio ao cubo e multiplicar por 4/3π, é possível determinar o volume total da esfera. Diferente de outros sólidos, a esfera é perfeitamente simétrica em todas as direções, fazendo com que seu volume dependa apenas do raio.<br><br>O estudo das esferas e de seus volumes remonta a civilizações antigas, especialmente matemáticos gregos como Arquimedes, que fez contribuições importantes para o entendimento da relação entre volume e área em formas esféricas. Suas descobertas foram posteriormente formalizadas na geometria clássica e continuam sendo essenciais até hoje.<br><br>Devido à sua importância para compreender o espaço tridimensional, o Volume de uma Esfera é um conceito essencial na geometria, sendo amplamente utilizado para resolver problemas, medir capacidades e aplicar o raciocínio matemático em contextos reais como física, engenharia e astronomia.",
+    "recommendedVideoH1": "Vídeo Recomendado",
+
+    "contactEmailP": "Email de Contato: gustavosilveiraguedes@gmail.com",
+    "contactNumberP": "Número de Contato: +99 (99) 99999-9999"
+}

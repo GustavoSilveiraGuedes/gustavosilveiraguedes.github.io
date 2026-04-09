@@ -1,0 +1,13 @@
+{
+    "homeA": "Home",
+    "mathA": "Math",
+    "physA": "Phys",
+    "aboutA": "About",
+
+    "lateralAreaH1": "Lateral Area",
+    "aboutP": "The Lateral Area of a Cone is a fundamental concept in geometry used to calculate the area of the curved surface that connects the base to the vertex of the solid. It is expressed by the formula A = π × r × g, where r represents the radius of the base and g represents the slant height of the cone. This concept is typically introduced to students during middle school, when they begin studying geometric solids and their properties in more depth.<br><br>This formula involves three main elements: the radius, the slant height, and the constant π. The slant height (g) is the distance from the vertex of the cone to any point on the edge of the base, forming a straight line along the surface. By multiplying π, the radius, and the slant height, it is possible to determine the total lateral area of the cone.<br><br>The study of cones and curved surfaces dates back to ancient civilizations, especially Greek mathematicians, who explored geometric solids and their properties. The understanding of π and spatial relationships played a crucial role in developing these formulas, which were later formalized within Euclidean geometry around the 3rd century BC.<br><br>Because of its importance in understanding curved surfaces and spatial structures, the Lateral Area of a Cone is an essential concept in geometry, widely used to solve problems, calculate surface coverage, and apply mathematical reasoning in real-world contexts such as engineering, design, and architecture.",
+    "recommendedVideoH1": "Recommended Video",
+
+    "contactEmailP": "Contact Email: gustavosilveiraguedes@gmail.com",
+    "contactNumberP": "Contact Number: +99 (99) 99999-9999"
+}

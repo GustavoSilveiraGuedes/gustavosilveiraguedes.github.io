@@ -1,0 +1,13 @@
+{
+    "homeA": "Início",
+    "mathA": "Mat",
+    "physA": "Fís",
+    "aboutA": "Sobre",
+
+    "volumeH1": "Volume",
+    "aboutP": "O Volume de uma Pirâmide é um conceito fundamental da geometria utilizado para calcular o espaço ocupado por esse sólido tridimensional. Ele é expresso pela fórmula Volume = (Área da Base × Altura) / 3. Esse conceito é geralmente introduzido aos estudantes durante o ensino fundamental, quando começam a estudar sólidos geométricos com mais profundidade.<br><br>Essa fórmula envolve dois elementos principais: a área da base e a altura. A área da base depende do formato do polígono da base e deve ser calculada utilizando a fórmula adequada. A altura representa a distância perpendicular da base até o vértice da pirâmide. Ao multiplicar a área da base pela altura e dividir o resultado por três, é possível determinar o volume total da pirâmide.<br><br>O estudo das pirâmides e dos volumes remonta a civilizações antigas, especialmente matemáticos egípcios e gregos, que exploraram formas tridimensionais e suas medidas. Esses conceitos foram posteriormente formalizados dentro da geometria euclidiana por volta do século III a.C.<br><br>Devido à sua importância para compreender o espaço tridimensional, o Volume de uma Pirâmide é um conceito essencial na geometria, sendo amplamente utilizado para resolver problemas, medir capacidades e aplicar o raciocínio matemático em contextos reais como construção, engenharia e arquitetura.",
+    "recommendedVideoH1": "Vídeo Recomendado",
+
+    "contactEmailP": "Email de Contato: gustavosilveiraguedes@gmail.com",
+    "contactNumberP": "Número de Contato: +99 (99) 99999-9999"
+}

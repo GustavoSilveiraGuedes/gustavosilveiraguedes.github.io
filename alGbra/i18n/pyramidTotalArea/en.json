@@ -1,0 +1,13 @@
+{
+    "homeA": "Home",
+    "mathA": "Math",
+    "physA": "Phys",
+    "aboutA": "About",
+
+    "totalAreaH1": "Total Area",
+    "aboutP": "The Total Area of a Pyramid is a fundamental concept in geometry used to calculate the entire surface area of the solid, including both the base and all its lateral triangular faces. It can be expressed as: Total Area = Base Area + Lateral Area. This concept is typically introduced to students during middle school, when they begin studying geometric solids and their properties in more depth.<br><br>This formula involves two main components: the base area and the lateral area. The base area depends on the shape of the base polygon and is calculated using the appropriate formula, while the lateral area is obtained by summing the areas of all the triangular faces or by calculating one and multiplying by the number of sides. By adding these two values together, it is possible to determine the total surface area of the pyramid.<br><br>The study of pyramids and their surface areas dates back to ancient civilizations, especially Egyptian and Greek mathematicians, who explored three-dimensional shapes and their measurements. These concepts were later formalized within Euclidean geometry around the 3rd century BC.<br><br>Because of its importance in understanding the full structure of solids, the Total Area of a Pyramid is an essential concept in geometry, widely used to solve problems, calculate surface coverage, and apply mathematical reasoning in real-world contexts such as construction, architecture, and engineering.",
+    "recommendedVideoH1": "Recommended Video",
+
+    "contactEmailP": "Contact Email: gustavosilveiraguedes@gmail.com",
+    "contactNumberP": "Contact Number: +99 (99) 99999-9999"
+}

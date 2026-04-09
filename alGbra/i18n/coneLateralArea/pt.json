@@ -1,0 +1,13 @@
+{
+    "homeA": "Início",
+    "mathA": "Mat",
+    "physA": "Fís",
+    "aboutA": "Sobre",
+
+    "lateralAreaH1": "Área Lateral",
+    "aboutP": "A Área Lateral de um Cone é um conceito fundamental da geometria utilizado para calcular a área da superfície curva que liga a base ao vértice do sólido. Ela é expressa pela fórmula A = π × r × g, onde r representa o raio da base e g representa a geratriz do cone. Esse conceito é geralmente introduzido aos estudantes durante o ensino fundamental, quando começam a estudar sólidos geométricos com mais profundidade.<br><br>Essa fórmula envolve três elementos principais: o raio, a geratriz e a constante π. A geratriz (g) é a distância do vértice do cone até qualquer ponto da borda da base, formando uma linha reta ao longo da superfície. Ao multiplicar π, o raio e a geratriz, é possível determinar a área lateral total do cone.<br><br>O estudo dos cones e das superfícies curvas remonta a civilizações antigas, especialmente matemáticos gregos, que exploraram sólidos geométricos e suas propriedades. O entendimento do π e das relações espaciais foi essencial para o desenvolvimento dessas fórmulas, que posteriormente foram formalizadas dentro da geometria euclidiana por volta do século III a.C.<br><br>Devido à sua importância para compreender superfícies curvas e estruturas espaciais, a Área Lateral de um Cone é um conceito essencial na geometria, sendo amplamente utilizada para resolver problemas, calcular superfícies e aplicar o raciocínio matemático em contextos reais como engenharia, design e arquitetura.",
+    "recommendedVideoH1": "Vídeo Recomendado",
+
+    "contactEmailP": "Email de Contato: gustavosilveiraguedes@gmail.com",
+    "contactNumberP": "Número de Contato: +99 (99) 99999-9999"
+}

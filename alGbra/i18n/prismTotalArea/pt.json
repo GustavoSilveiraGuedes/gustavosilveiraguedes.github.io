@@ -1,0 +1,13 @@
+{
+    "homeA": "Início",
+    "mathA": "Mat",
+    "physA": "Fís",
+    "aboutA": "Sobre",
+
+    "totalAreaH1": "Área Total",
+    "aboutP": "A Área Total de um Prisma é um conceito fundamental da geometria utilizado para calcular toda a superfície de um sólido, incluindo suas bases e faces laterais. Em qualquer prisma, a área total é sempre dada pela soma de duas vezes a área da base com a área lateral, podendo ser expressa como: Área Total = 2 × Área da Base + Área Lateral. Esse conceito é geralmente introduzido aos estudantes durante o ensino fundamental, quando começam a estudar sólidos geométricos com mais profundidade.<br><br>A área lateral do prisma é formada pelas faces laterais, que normalmente são retângulos. Essa área depende da quantidade de lados da base, já que cada lado corresponde a uma face lateral. Portanto, a área lateral total é obtida calculando a área de um retângulo e multiplicando pela quantidade de lados do prisma. Já a área da base depende do formato do polígono da base e deve ser calculada separadamente.<br><br>O estudo dos sólidos geométricos e suas áreas remonta a civilizações antigas, especialmente matemáticos gregos, que exploraram formas tridimensionais e suas medidas. Esses conceitos foram posteriormente formalizados dentro da geometria euclidiana por volta do século III a.C.<br><br>Devido à sua importância para compreender toda a superfície de um sólido, a Área Total é um conceito essencial na geometria, sendo amplamente utilizada para resolver problemas, calcular materiais e aplicar o raciocínio matemático em contextos reais como engenharia, arquitetura e design.",
+    "recommendedVideoH1": "Vídeo Recomendado",
+
+    "contactEmailP": "Email de Contato: gustavosilveiraguedes@gmail.com",
+    "contactNumberP": "Número de Contato: +99 (99) 99999-9999"
+}

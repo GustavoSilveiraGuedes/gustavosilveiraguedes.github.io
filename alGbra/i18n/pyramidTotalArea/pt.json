@@ -1,0 +1,13 @@
+{
+    "homeA": "Início",
+    "mathA": "Mat",
+    "physA": "Fís",
+    "aboutA": "Sobre",
+
+    "totalAreaH1": "Área Total",
+    "aboutP": "A Área Total de uma Pirâmide é um conceito fundamental da geometria utilizado para calcular toda a superfície do sólido, incluindo tanto a base quanto todas as faces laterais triangulares. Ela pode ser expressa como: Área Total = Área da Base + Área Lateral. Esse conceito é geralmente introduzido aos estudantes durante o ensino fundamental, quando começam a estudar sólidos geométricos com mais profundidade.<br><br>Essa fórmula envolve dois componentes principais: a área da base e a área lateral. A área da base depende do formato do polígono da base e é calculada utilizando a fórmula adequada, enquanto a área lateral é obtida somando as áreas de todas as faces triangulares ou calculando uma e multiplicando pela quantidade de lados. Ao somar esses dois valores, é possível determinar a área total da pirâmide.<br><br>O estudo das pirâmides e de suas áreas remonta a civilizações antigas, especialmente matemáticos egípcios e gregos, que exploraram formas tridimensionais e suas medidas. Esses conceitos foram posteriormente formalizados dentro da geometria euclidiana por volta do século III a.C.<br><br>Devido à sua importância para compreender completamente a estrutura dos sólidos, a Área Total de uma Pirâmide é um conceito essencial na geometria, sendo amplamente utilizada para resolver problemas, calcular superfícies e aplicar o raciocínio matemático em contextos reais como construção, arquitetura e engenharia.",
+    "recommendedVideoH1": "Vídeo Recomendado",
+
+    "contactEmailP": "Email de Contato: gustavosilveiraguedes@gmail.com",
+    "contactNumberP": "Número de Contato: +99 (99) 99999-9999"
+}

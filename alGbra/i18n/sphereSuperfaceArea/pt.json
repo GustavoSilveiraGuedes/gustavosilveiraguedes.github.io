@@ -1,0 +1,13 @@
+{
+    "homeA": "Início",
+    "mathA": "Mat",
+    "physA": "Fís",
+    "aboutA": "Sobre",
+
+    "sphereSuperfaceAreaH1": "Área da Superfície",
+    "aboutP": "A Área da Superfície de uma Esfera é um conceito fundamental da geometria utilizado para calcular toda a área que cobre a parte externa de um sólido esférico. Ela é expressa pela fórmula A = 4 × π × r², onde r representa o raio da esfera. Esse conceito é geralmente introduzido aos estudantes durante o ensino fundamental, quando começam a estudar sólidos geométricos com superfícies curvas.<br><br>Essa fórmula envolve dois elementos principais: o raio e a constante π. Ao elevar o raio ao quadrado e multiplicar por 4π, é possível determinar a área total da superfície da esfera. Diferente de outros sólidos, a esfera não possui arestas nem faces planas, sendo totalmente curva e contínua.<br><br>O estudo das esferas e de suas propriedades remonta a civilizações antigas, especialmente matemáticos gregos como Arquimedes, que fez contribuições importantes para o entendimento das esferas e suas medidas. A relação entre a área da superfície e o volume da esfera foi uma de suas descobertas mais relevantes, posteriormente formalizada na geometria clássica.<br><br>Devido à sua importância para compreender superfícies curvas e estruturas espaciais, a Área da Superfície de uma Esfera é um conceito essencial na geometria, sendo amplamente utilizada para resolver problemas, analisar formas tridimensionais e aplicar o raciocínio matemático em contextos reais como física, engenharia e astronomia.",
+    "recommendedVideoH1": "Vídeo Recomendado",
+
+    "contactEmailP": "Email de Contato: gustavosilveiraguedes@gmail.com",
+    "contactNumberP": "Número de Contato: +99 (99) 99999-9999"
+}

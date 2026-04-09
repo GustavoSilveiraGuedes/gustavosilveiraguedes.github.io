@@ -1,0 +1,13 @@
+{
+    "homeA": "Home",
+    "mathA": "Math",
+    "physA": "Phys",
+    "aboutA": "About",
+
+    "volumeH1": "Volume",
+    "aboutP": "The Volume of a Cylinder is a fundamental concept in geometry used to calculate the amount of space occupied by this three-dimensional solid. It is expressed by the formula Volume = π × r² × h, where r represents the radius of the circular base and h represents the height of the cylinder. This concept is typically introduced to students during middle school, when they begin studying geometric solids and their properties in more depth.<br><br>This formula involves three main elements: the radius, the height, and the constant π. The base area is calculated using A = π × r², and by multiplying this area by the height of the cylinder, it is possible to determine the total volume. In this sense, the cylinder can be understood as a stack of identical circular layers placed one on top of the other along its height.<br><br>The study of cylinders and volumes dates back to ancient civilizations, especially Greek mathematicians, who explored three-dimensional shapes and their measurements. The understanding of π and circular geometry played a crucial role in the development of these formulas, which were later formalized within Euclidean geometry around the 3rd century BC.<br><br>Because of its importance in understanding three-dimensional space, the Volume of a Cylinder is an essential concept in geometry, widely used to solve problems, measure capacities, and apply mathematical reasoning in real-world contexts such as engineering, manufacturing, and physics.",
+    "recommendedVideoH1": "Recommended Video",
+
+    "contactEmailP": "Contact Email: gustavosilveiraguedes@gmail.com",
+    "contactNumberP": "Contact Number: +99 (99) 99999-9999"
+}

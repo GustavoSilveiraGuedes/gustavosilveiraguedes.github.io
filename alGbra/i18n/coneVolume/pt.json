@@ -1,0 +1,13 @@
+{
+    "homeA": "Início",
+    "mathA": "Mat",
+    "physA": "Fís",
+    "aboutA": "Sobre",
+
+    "volumeH1": "Volume",
+    "aboutP": "O Volume de um Cone é um conceito fundamental da geometria utilizado para calcular o espaço ocupado por esse sólido tridimensional. Ele é expresso pela fórmula V = (1/3) × π × r² × h, onde r representa o raio da base e h representa a altura do cone. Esse conceito é geralmente introduzido aos estudantes durante o ensino fundamental, quando começam a estudar sólidos geométricos com mais profundidade.<br><br>Essa fórmula envolve três elementos principais: o raio, a altura e a constante π. A área da base é calculada por A = π × r², e o volume é obtido multiplicando essa área pela altura e dividindo o resultado por 3. Essa divisão ocorre porque o cone ocupa exatamente um terço do volume de um cilindro com a mesma base e altura.<br><br>O estudo dos cones e dos volumes remonta a civilizações antigas, especialmente matemáticos gregos, que exploraram formas tridimensionais e suas medidas. O entendimento do π e das relações espaciais foi essencial para o desenvolvimento dessas fórmulas, que posteriormente foram formalizadas dentro da geometria euclidiana por volta do século III a.C.<br><br>Devido à sua importância para compreender o espaço tridimensional, o Volume de um Cone é um conceito essencial na geometria, sendo amplamente utilizado para resolver problemas, medir capacidades e aplicar o raciocínio matemático em contextos reais como engenharia, arquitetura e física.",
+    "recommendedVideoH1": "Vídeo Recomendado",
+
+    "contactEmailP": "Email de Contato: gustavosilveiraguedes@gmail.com",
+    "contactNumberP": "Número de Contato: +99 (99) 99999-9999"
+}

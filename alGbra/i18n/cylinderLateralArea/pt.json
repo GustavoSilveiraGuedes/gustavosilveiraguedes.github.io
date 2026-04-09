@@ -1,0 +1,13 @@
+{
+    "homeA": "Início",
+    "mathA": "Mat",
+    "physA": "Fís",
+    "aboutA": "Sobre",
+
+    "lateralAreaH1": "Área Lateral",
+    "aboutP": "A Área Lateral de um Cilindro é um conceito fundamental da geometria utilizado para calcular a área da superfície curva que envolve o sólido. Ela pode ser entendida como um retângulo que foi “enrolado” ao redor da base circular. A fórmula é expressa como: Área Lateral = 2 × π × r × h, onde r é o raio da base e h é a altura do cilindro. Esse conceito é geralmente introduzido aos estudantes durante o ensino fundamental, quando começam a estudar sólidos com superfícies curvas.<br><br>Essa fórmula envolve dois elementos principais: a circunferência da base e a altura do cilindro. A circunferência da base é dada por 2 × π × r, e ao multiplicá-la pela altura, obtém-se a área lateral total. Em outras palavras, se a superfície curva fosse “desenrolada”, ela formaria um retângulo cuja largura é a circunferência da base e cuja altura é a altura do cilindro.<br><br>O estudo dos cilindros e das superfícies curvas remonta a civilizações antigas, especialmente matemáticos gregos, que exploraram sólidos geométricos e suas propriedades. O entendimento do π e das medidas circulares foi essencial para o desenvolvimento dessas fórmulas, que posteriormente foram formalizadas dentro da geometria euclidiana por volta do século III a.C.<br><br>Devido à sua importância para compreender superfícies curvas, a Área Lateral de um Cilindro é um conceito essencial na geometria, sendo amplamente utilizada para resolver problemas, calcular superfícies e aplicar o raciocínio matemático em contextos reais como engenharia, fabricação e arquitetura.",
+    "recommendedVideoH1": "Vídeo Recomendado",
+
+    "contactEmailP": "Email de Contato: gustavosilveiraguedes@gmail.com",
+    "contactNumberP": "Número de Contato: +99 (99) 99999-9999"
+}

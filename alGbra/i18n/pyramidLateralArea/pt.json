@@ -1,0 +1,13 @@
+{
+    "homeA": "Início",
+    "mathA": "Mat",
+    "physA": "Fís",
+    "aboutA": "Sobre",
+
+    "lateralAreaH1": "Área Lateral",
+    "aboutP": "A Área Lateral de uma Pirâmide é um conceito fundamental da geometria utilizado para calcular a área total de todas as faces triangulares que envolvem o sólido. Diferente dos prismas, cujas faces laterais são retângulos, as pirâmides possuem faces laterais em forma de triângulos. A área de cada um desses triângulos é calculada utilizando a fórmula da área do triângulo A = base × altura / 2. Esse conceito é geralmente introduzido aos estudantes durante o ensino fundamental, quando começam a estudar sólidos geométricos com mais profundidade.<br><br>Esse conceito envolve três elementos principais: a base de cada face triangular, a altura inclinada da pirâmide e a quantidade de lados da base. Cada lado da base corresponde a uma face triangular. Ao calcular a área de um triângulo e multiplicar pela quantidade total de lados, é possível determinar a área lateral completa da pirâmide.<br><br>O estudo das pirâmides e suas superfícies remonta a civilizações antigas, especialmente matemáticos egípcios e gregos, que exploraram formas tridimensionais e suas medidas. Esses conceitos foram posteriormente formalizados dentro da geometria euclidiana por volta do século III a.C.<br><br>Devido à sua importância na compreensão da estrutura dos sólidos, a Área Lateral de uma Pirâmide é um conceito essencial na geometria, sendo amplamente utilizada para resolver problemas, calcular áreas de superfícies e aplicar o raciocínio matemático em contextos reais como construção e arquitetura.",
+    "recommendedVideoH1": "Vídeo Recomendado",
+
+    "contactEmailP": "Email de Contato: gustavosilveiraguedes@gmail.com",
+    "contactNumberP": "Número de Contato: +99 (99) 99999-9999"
+}

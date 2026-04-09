@@ -1,0 +1,13 @@
+{
+    "homeA": "Home",
+    "mathA": "Math",
+    "physA": "Phys",
+    "aboutA": "About",
+
+    "lateralAreaH1": "Lateral Area",
+    "aboutP": "The Lateral Area of a Pyramid is a fundamental concept in geometry used to calculate the total area of all the triangular faces that surround the solid. Unlike prisms, whose lateral faces are rectangles, pyramids have lateral faces in the shape of triangles. The area of each of these triangles is calculated using the triangle area formula A = base × height / 2. This concept is typically introduced to students during middle school, when they begin studying geometric solids and their properties in more depth.<br><br>This concept involves three main elements: the base of each triangular face, the slant height of the pyramid, and the number of sides of the base. Each side of the base corresponds to one triangular face. By calculating the area of one triangle and multiplying it by the total number of sides, it is possible to determine the complete lateral area of the pyramid.<br><br>The study of pyramids and their surfaces dates back to ancient civilizations, especially Egyptian and Greek mathematicians, who explored three-dimensional shapes and their measurements. These concepts were later formalized within Euclidean geometry around the 3rd century BC.<br><br>Because of its importance in understanding the structure of solids, the Lateral Area of a Pyramid is an essential concept in geometry, widely used to solve problems, calculate surface areas, and apply mathematical reasoning in real-world contexts such as construction and architecture.",
+    "recommendedVideoH1": "Recommended Video",
+
+    "contactEmailP": "Contact Email: gustavosilveiraguedes@gmail.com",
+    "contactNumberP": "Contact Number: +99 (99) 99999-9999"
+}

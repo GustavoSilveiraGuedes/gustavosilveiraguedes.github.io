@@ -1,0 +1,13 @@
+{
+    "homeA": "Início",
+    "mathA": "Mat",
+    "physA": "Fís",
+    "aboutA": "Sobre",
+
+    "volumeH1": "Volume",
+    "aboutP": "O Volume de um Prisma é um conceito fundamental da geometria utilizado para calcular o espaço ocupado por um sólido tridimensional. No caso dos prismas retos regulares, o volume é determinado multiplicando a área da base pela altura do prisma, podendo ser expresso como: Volume = Área da Base × Altura. Esse conceito é geralmente introduzido aos estudantes durante o ensino fundamental, quando começam a estudar sólidos geométricos com mais profundidade.<br><br>Essa fórmula envolve dois elementos principais: a área da base e a altura. A área da base depende do formato do polígono da base e deve ser calculada utilizando a fórmula adequada. A altura, nos prismas retos, corresponde ao comprimento da aresta lateral, que é perpendicular à base. Ao multiplicar esses dois valores, é possível determinar o volume total do sólido.<br><br>O estudo dos volumes e das formas tridimensionais remonta a civilizações antigas, especialmente matemáticos gregos, que exploraram sólidos geométricos e suas medidas. Esses conceitos foram posteriormente formalizados dentro da geometria euclidiana por volta do século III a.C.<br><br>Devido à sua importância para compreender o espaço tridimensional, o Volume de um Prisma é um conceito essencial na geometria, sendo amplamente utilizado para resolver problemas, medir capacidades e aplicar o raciocínio matemático em contextos reais como construção, engenharia e física.",
+    "recommendedVideoH1": "Vídeo Recomendado",
+
+    "contactEmailP": "Email de Contato: gustavosilveiraguedes@gmail.com",
+    "contactNumberP": "Número de Contato: +99 (99) 99999-9999"
+}

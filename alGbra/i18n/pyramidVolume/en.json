@@ -1,0 +1,13 @@
+{
+    "homeA": "Home",
+    "mathA": "Math",
+    "physA": "Phys",
+    "aboutA": "About",
+
+    "volumeH1": "Volume",
+    "aboutP": "The Volume of a Pyramid is a fundamental concept in geometry used to calculate the amount of space occupied by this three-dimensional solid. It is expressed by the formula Volume = (Base Area × Height) / 3. This concept is typically introduced to students during middle school, when they begin studying geometric solids and their properties in more depth.<br><br>This formula involves two main elements: the base area and the height. The base area depends on the shape of the base polygon and must be calculated using the appropriate formula. The height represents the perpendicular distance from the base to the vertex of the pyramid. By multiplying the base area by the height and dividing the result by three, it is possible to determine the total volume of the pyramid.<br><br>The study of pyramids and volumes dates back to ancient civilizations, especially Egyptian and Greek mathematicians, who explored three-dimensional shapes and their measurements. These concepts were later formalized within Euclidean geometry around the 3rd century BC.<br><br>Because of its importance in understanding three-dimensional space, the Volume of a Pyramid is an essential concept in geometry, widely used to solve problems, measure capacities, and apply mathematical reasoning in real-world contexts such as construction, engineering, and architecture.",
+    "recommendedVideoH1": "Recommended Video",
+
+    "contactEmailP": "Contact Email: gustavosilveiraguedes@gmail.com",
+    "contactNumberP": "Contact Number: +99 (99) 99999-9999"
+}

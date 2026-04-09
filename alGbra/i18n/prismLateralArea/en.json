@@ -1,0 +1,13 @@
+{
+    "homeA": "Home",
+    "mathA": "Math",
+    "physA": "Phys",
+    "aboutA": "About",
+
+    "lateralAreaH1": "Lateral Area",
+    "aboutP": "The Lateral Area of a Prism is a fundamental concept in geometry used to calculate the total area of all the side faces of the solid. These lateral faces are typically rectangles, so their area is calculated using the rectangle area formula A = base × height. To obtain the complete lateral area of the prism, this value must be multiplied by the number of sides of the base. This concept is usually introduced to students during middle school, when they begin studying geometric solids and their properties in more depth.<br><br>This concept involves three main elements: the base of each rectangular face, the height of the prism, and the number of sides of the base. Each lateral face has the same height (the height of the prism), and its base corresponds to one side of the base polygon. By calculating the area of one rectangle and multiplying it by the total number of sides, it is possible to determine the full lateral area of the prism.<br><br>The study of geometric solids and their surfaces dates back to ancient civilizations, including Greek mathematicians, who explored three-dimensional shapes and their measurements. These concepts were later formalized within Euclidean geometry around the 3rd century BC.<br><br>Because of its importance in understanding the structure of solids, the Lateral Area is an essential concept in geometry, widely used to solve problems, calculate surface areas, and apply mathematical reasoning in real-world contexts such as construction and design.",
+    "recommendedVideoH1": "Recommended Video",
+
+    "contactEmailP": "Contact Email: gustavosilveiraguedes@gmail.com",
+    "contactNumberP": "Contact Number: +99 (99) 99999-9999"
+}

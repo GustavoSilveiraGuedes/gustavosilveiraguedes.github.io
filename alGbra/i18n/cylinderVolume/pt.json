@@ -1,0 +1,13 @@
+{
+    "homeA": "Início",
+    "mathA": "Mat",
+    "physA": "Fís",
+    "aboutA": "Sobre",
+
+    "volumeH1": "Volume",
+    "aboutP": "O Volume de um Cilindro é um conceito fundamental da geometria utilizado para calcular o espaço ocupado por esse sólido tridimensional. Ele é expresso pela fórmula Volume = π × r² × h, onde r representa o raio da base circular e h representa a altura do cilindro. Esse conceito é geralmente introduzido aos estudantes durante o ensino fundamental, quando começam a estudar sólidos geométricos com mais profundidade.<br><br>Essa fórmula envolve três elementos principais: o raio, a altura e a constante π. A área da base é calculada por A = π × r², e ao multiplicar essa área pela altura do cilindro, é possível determinar o volume total. Nesse sentido, o cilindro pode ser entendido como uma pilha de camadas circulares idênticas empilhadas ao longo de sua altura.<br><br>O estudo dos cilindros e dos volumes remonta a civilizações antigas, especialmente matemáticos gregos, que exploraram formas tridimensionais e suas medidas. O entendimento do π e da geometria circular foi essencial para o desenvolvimento dessas fórmulas, que posteriormente foram formalizadas dentro da geometria euclidiana por volta do século III a.C.<br><br>Devido à sua importância para compreender o espaço tridimensional, o Volume de um Cilindro é um conceito essencial na geometria, sendo amplamente utilizado para resolver problemas, medir capacidades e aplicar o raciocínio matemático em contextos reais como engenharia, fabricação e física.",
+    "recommendedVideoH1": "Vídeo Recomendado",
+
+    "contactEmailP": "Email de Contato: gustavosilveiraguedes@gmail.com",
+    "contactNumberP": "Número de Contato: +99 (99) 99999-9999"
+}
