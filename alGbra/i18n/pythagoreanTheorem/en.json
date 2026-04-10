@@ -1,0 +1,13 @@
+{
+    "homeA": "Home",
+    "mathA": "Math",
+    "physA": "Phys",
+    "aboutA": "About",
+
+    "pythagoreanTheoremH1": "Pythagorean Theorem",
+    "aboutP": "The Pythagorean Theorem is a fundamental concept in geometry used to relate the sides of a right triangle. It is expressed by the formula a² + b² = c², where a and b represent the lengths of the two legs, and c represents the length of the hypotenuse, which is the longest side of the triangle. This concept is typically introduced to students during middle school, when they begin studying triangles and basic geometric relationships in more depth.<br><br>This theorem applies only to right triangles, which are triangles that contain a 90-degree angle. By squaring the lengths of the two legs and adding them together, it is possible to determine the square of the hypotenuse. Likewise, if the hypotenuse and one leg are known, the theorem can be rearranged to find the missing side.<br><br>The study of this relationship dates back to ancient civilizations, including Babylonian mathematicians, but it is most commonly associated with the Greek mathematician Pythagoras, who lived around the 6th century BC. The theorem became one of the most important principles in geometry and remains widely used today.<br><br>Because of its simplicity and wide range of applications, the Pythagorean Theorem is an essential tool in mathematics, widely used to solve geometric problems, calculate distances, and analyze spatial relationships in fields such as physics, engineering, and computer science.",
+    "recommendedVideoH1": "Recommended Video",
+
+    "contactEmailP": "Contact Email: gustavosilveiraguedes@gmail.com",
+    "contactNumberP": "Contact Number: +99 (99) 99999-9999"
+}

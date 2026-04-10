@@ -1,0 +1,13 @@
+{
+    "homeA": "Início",
+    "mathA": "Mat",
+    "physA": "Fís",
+    "aboutA": "Sobre",
+
+    "pythagoreanTheoremH1": "Teorema de Pitágoras",
+    "aboutP": "O Teorema de Pitágoras é um conceito fundamental da geometria utilizado para relacionar os lados de um triângulo retângulo. Ele é expresso pela fórmula a² + b² = c², onde a e b representam os comprimentos dos catetos e c representa o comprimento da hipotenusa, que é o maior lado do triângulo. Esse conceito é geralmente introduzido aos estudantes durante o ensino fundamental, quando começam a estudar triângulos e relações geométricas básicas com mais profundidade.<br><br>Esse teorema se aplica apenas a triângulos retângulos, que são aqueles que possuem um ângulo de 90 graus. Ao elevar ao quadrado os comprimentos dos catetos e somá-los, é possível determinar o quadrado da hipotenusa. Da mesma forma, se a hipotenusa e um dos catetos forem conhecidos, o teorema pode ser reorganizado para encontrar o lado faltante.<br><br>O estudo dessa relação remonta a civilizações antigas, incluindo matemáticos babilônicos, mas é mais comumente associado ao matemático grego Pitágoras, que viveu por volta do século VI a.C. O teorema se tornou um dos princípios mais importantes da geometria e continua sendo amplamente utilizado até hoje.<br><br>Devido à sua simplicidade e ampla aplicação, o Teorema de Pitágoras é uma ferramenta essencial na matemática, sendo amplamente utilizado para resolver problemas geométricos, calcular distâncias e analisar relações espaciais em áreas como física, engenharia e ciência da computação.",
+    "recommendedVideoH1": "Vídeo Recomendado",
+
+    "contactEmailP": "Email de Contato: gustavosilveiraguedes@gmail.com",
+    "contactNumberP": "Número de Contato: +99 (99) 99999-9999"
+}
