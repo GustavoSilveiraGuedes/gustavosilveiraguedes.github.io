@@ -1,0 +1,13 @@
+{
+    "homeA": "Home",
+    "mathA": "Math",
+    "physA": "Phys",
+    "aboutA": "About",
+
+    "lineEquationH1": "Line Equation",
+    "aboutP": "The Equation of a Line is a fundamental concept in analytic geometry used to represent a straight line in the coordinate plane through an algebraic expression. One of its most general forms is given by the equation ax + by + c = 0, where a, b, and c are real constants, and x and y represent the coordinates of any point on the line. This concept is typically introduced to students during high school, when they begin studying coordinate geometry and linear relationships in more depth.<br><br>This equation involves three main constants: a, b, and c. These values determine the position and orientation of the line in the plane. By assigning values to x, it is possible to calculate corresponding values of y that satisfy the equation, forming a straight line when plotted on a graph. Depending on the values of a and b, the line can be vertical, horizontal, or inclined.<br><br>The study of line equations is closely related to the development of analytic geometry by mathematicians such as René Descartes in the 17th century. His work allowed geometric figures to be expressed algebraically, making it possible to analyze shapes and relationships using equations.<br><br>Because of its importance in representing linear relationships, the Equation of a Line is an essential concept in mathematics, widely used to solve problems, model real-world situations, and analyze data in fields such as physics, engineering, and computer science.",
+    "recommendedVideoH1": "Recommended Video",
+
+    "contactEmailP": "Contact Email: gustavosilveiraguedes@gmail.com",
+    "contactNumberP": "Contact Number: +99 (99) 99999-9999"
+}

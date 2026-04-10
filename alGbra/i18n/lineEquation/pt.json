@@ -1,0 +1,13 @@
+{
+    "homeA": "Início",
+    "mathA": "Mat",
+    "physA": "Fís",
+    "aboutA": "Sobre",
+
+    "lineEquationH1": "Equação da Reta",
+    "aboutP": "A Equação da Reta é um conceito fundamental da geometria analítica utilizado para representar uma linha reta no plano cartesiano por meio de uma expressão algébrica. Uma de suas formas mais gerais é dada pela equação ax + by + c = 0, onde a, b e c são constantes reais, e x e y representam as coordenadas de qualquer ponto pertencente à reta. Esse conceito é geralmente introduzido aos estudantes durante o ensino médio, quando começam a estudar geometria analítica e relações lineares com mais profundidade.<br><br>Essa equação envolve três constantes principais: a, b e c. Esses valores determinam a posição e a inclinação da reta no plano. Ao atribuir valores a x, é possível calcular os valores correspondentes de y que satisfazem a equação, formando uma linha reta quando representada graficamente. Dependendo dos valores de a e b, a reta pode ser vertical, horizontal ou inclinada.<br><br>O estudo das equações de reta está diretamente relacionado ao desenvolvimento da geometria analítica por matemáticos como René Descartes no século XVII. Seu trabalho permitiu representar figuras geométricas de forma algébrica, possibilitando analisar formas e relações por meio de equações.<br><br>Devido à sua importância na representação de relações lineares, a Equação da Reta é um conceito essencial na matemática, sendo amplamente utilizada para resolver problemas, modelar situações reais e analisar dados em áreas como física, engenharia e ciência da computação.",
+    "recommendedVideoH1": "Vídeo Recomendado",
+
+    "contactEmailP": "Email de Contato: gustavosilveiraguedes@gmail.com",
+    "contactNumberP": "Número de Contato: +99 (99) 99999-9999"
+}

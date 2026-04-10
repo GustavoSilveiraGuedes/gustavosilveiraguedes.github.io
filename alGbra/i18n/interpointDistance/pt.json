@@ -1,0 +1,13 @@
+{
+    "homeA": "Início",
+    "mathA": "Mat",
+    "physA": "Fís",
+    "aboutA": "Sobre",
+
+    "interpointDistanceH1": "Distância Entre Dois Pontos",
+    "aboutP": "A Distância Entre Dois Pontos é um conceito fundamental da geometria analítica utilizado para calcular a distância em linha reta entre dois pontos no plano cartesiano. Ela é expressa pela fórmula d = √[(x₂ − x₁)² + (y₂ − y₁)²], onde (x₁, y₁) e (x₂, y₂) representam as coordenadas dos dois pontos. Esse conceito é geralmente introduzido aos estudantes durante o ensino médio, quando começam a estudar geometria analítica e relações espaciais com mais profundidade.<br><br>Essa fórmula envolve quatro elementos principais: as coordenadas do primeiro ponto e as coordenadas do segundo ponto. Ao subtrair separadamente as coordenadas de x e de y, elevar os resultados ao quadrado e extrair a raiz quadrada da soma, é possível determinar a distância exata entre os dois pontos. Esse método é diretamente derivado do Teorema de Pitágoras, aplicado a um triângulo retângulo formado entre os pontos.<br><br>O estudo da geometria analítica foi desenvolvido por matemáticos como René Descartes, que introduziu o sistema de coordenadas cartesianas no século XVII. Essa inovação permitiu representar figuras geométricas de forma algébrica, possibilitando o cálculo de distâncias, inclinações e outras propriedades por meio de fórmulas.<br><br>Devido à sua importância para compreender relações espaciais, a Distância Entre Dois Pontos é um conceito essencial na matemática, sendo amplamente utilizada para resolver problemas geométricos, analisar gráficos e aplicar o raciocínio matemático em áreas como física, engenharia e ciência da computação.",
+    "recommendedVideoH1": "Vídeo Recomendado",
+
+    "contactEmailP": "Email de Contato: gustavosilveiraguedes@gmail.com",
+    "contactNumberP": "Número de Contato: +99 (99) 99999-9999"
+}

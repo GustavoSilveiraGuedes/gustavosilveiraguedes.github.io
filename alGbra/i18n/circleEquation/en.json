@@ -1,0 +1,13 @@
+{
+    "homeA": "Home",
+    "mathA": "Math",
+    "physA": "Phys",
+    "aboutA": "About",
+
+    "circleEquationH1": "Circle Equation",
+    "aboutP": "The Equation of a Circle is a fundamental concept in analytic geometry used to represent all the points that are at a constant distance from a central point in the coordinate plane. It is expressed by the formula (x − a)² + (y − b)² = r², where (a, b) represents the coordinates of the center and r represents the radius of the circle. This concept is typically introduced to students during high school, when they begin studying coordinate geometry and conic sections in more depth.<br><br>This equation involves three main elements: the center coordinates and the radius. The values a and b determine the position of the circle in the plane, while r defines its size. Any point (x, y) that satisfies this equation lies exactly at a distance r from the center, forming a perfectly round shape.<br><br>The study of circles and their properties dates back to ancient civilizations, especially Greek mathematicians, who made significant contributions to geometry. The integration of algebra and geometry through coordinate systems allowed these shapes to be represented by equations, a development strongly associated with the work of René Descartes in the 17th century.<br><br>Because of its importance in describing circular shapes and spatial relationships, the Equation of a Circle is an essential concept in mathematics, widely used to solve geometric problems, analyze graphs, and apply mathematical reasoning in fields such as physics, engineering, and computer graphics.",
+    "recommendedVideoH1": "Recommended Video",
+
+    "contactEmailP": "Contact Email: gustavosilveiraguedes@gmail.com",
+    "contactNumberP": "Contact Number: +99 (99) 99999-9999"
+}
