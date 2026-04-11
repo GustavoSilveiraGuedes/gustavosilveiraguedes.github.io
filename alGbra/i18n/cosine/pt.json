@@ -1,0 +1,13 @@
+{
+    "homeA": "Início",
+    "mathA": "Mat",
+    "physA": "Fís",
+    "aboutA": "Sobre",
+
+    "cosineH1": "Cosseno",
+    "aboutP": "A Função Cosseno é um conceito fundamental da trigonometria utilizado para descrever a relação entre um ângulo e a componente horizontal de um ponto no Círculo Unitário. Ela é representada como cos(θ) e corresponde à coordenada x de um ponto na circunferência associada a um determinado ângulo. Esse conceito é geralmente introduzido aos estudantes durante o ensino médio, quando começam a estudar funções trigonométricas e comportamentos periódicos com mais profundidade.<br><br>A função cosseno possui valores que variam entre −1 e 1 e é conhecida por seu comportamento suave em forma de onda quando representada graficamente. Assim como o seno, ela é uma função periódica, ou seja, repete seus valores em intervalos regulares. No entanto, o cosseno começa em seu valor máximo quando o ângulo é zero, o que diferencia seu comportamento em relação ao seno.<br><br>Uma característica interessante da função cosseno é que ela inicia em 1 quando o ângulo é zero e diminui gradualmente até zero em 90 graus. Em seguida, continua para valores negativos antes de retornar ao valor máximo, formando um ciclo contínuo e repetitivo. Esse comportamento reflete o movimento horizontal de um ponto ao longo do círculo unitário.<br><br>O estudo da função cosseno, assim como o seno, remonta a civilizações antigas, incluindo matemáticos indianos e gregos, que desenvolveram os primeiros conceitos de trigonometria. Com o tempo, ela se tornou uma ferramenta essencial para analisar padrões periódicos e relações envolvendo ângulos.<br><br>Devido à sua ampla aplicação, a Função Cosseno é um conceito essencial na matemática, sendo amplamente utilizada para resolver problemas, analisar ondas e modelar fenômenos do mundo real em áreas como física, engenharia e ciência da computação.",
+    "recommendedVideoH1": "Vídeo Recomendado",
+
+    "contactEmailP": "Email de Contato: gustavosilveiraguedes@gmail.com",
+    "contactNumberP": "Número de Contato: +99 (99) 99999-9999"
+}

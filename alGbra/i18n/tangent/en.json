@@ -1,0 +1,13 @@
+{
+    "homeA": "Home",
+    "mathA": "Math",
+    "physA": "Phys",
+    "aboutA": "About",
+
+    "tangentH1": "Tangent",
+    "aboutP": "The Tangent Function is a fundamental concept in trigonometry used to describe the relationship between an angle and the ratio between the vertical and horizontal components of a point on the Unit Circle. It is commonly represented as tan(θ) and can be understood as the ratio between sine and cosine, or tan(θ) = sin(θ) / cos(θ). This concept is typically introduced to students during high school, when they begin studying trigonometric functions and their properties in more depth.<br><br>The tangent function has a unique behavior compared to sine and cosine. While sine and cosine are limited between −1 and 1, the tangent function can take any real value. It is also periodic, but it has discontinuities, meaning there are angles where the function is undefined, specifically where the cosine is equal to zero.<br><br>One interesting characteristic of the tangent function is that it increases rapidly and approaches infinity near certain angles, creating vertical asymptotes in its graph. It passes through zero when the angle is zero and repeats its pattern in regular intervals, forming a continuous but interrupted curve. This behavior reflects the ratio between the y and x coordinates on the unit circle.<br><br>The study of the tangent function, like other trigonometric functions, dates back to ancient civilizations, including Indian and Greek mathematicians, who developed early trigonometric concepts. Over time, it became an essential tool for understanding angles, slopes, and rates of change.<br><br>Because of its importance in relating ratios and angles, the Tangent Function is an essential concept in mathematics, widely used to solve problems, analyze slopes, and model real-world phenomena in fields such as physics, engineering, and computer science.",
+    "recommendedVideoH1": "Recommended Video",
+
+    "contactEmailP": "Contact Email: gustavosilveiraguedes@gmail.com",
+    "contactNumberP": "Contact Number: +99 (99) 99999-9999"
+}

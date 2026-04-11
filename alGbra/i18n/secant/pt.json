@@ -1,0 +1,13 @@
+{
+    "homeA": "Início",
+    "mathA": "Mat",
+    "physA": "Fís",
+    "aboutA": "Sobre",
+
+    "secantH1": "Secante",
+    "aboutP": "A Função Secante é um conceito fundamental da trigonometria definido como o recíproco da função cosseno. Ela é representada como sec(θ) e pode ser expressa como sec(θ) = 1 / cos(θ). Esse conceito é geralmente introduzido aos estudantes durante o ensino médio, quando ampliam o entendimento das funções trigonométricas e suas relações.<br><br>A função secante possui valores que vão além do intervalo entre −1 e 1, já que é o recíproco do cosseno. Ela não está definida quando o cosseno do ângulo é igual a zero, o que gera descontinuidades em seu gráfico. Como resultado, a função forma uma série de curvas separadas por assíntotas verticais.<br><br>Uma característica interessante da função secante é que ela reflete o comportamento do cosseno de forma inversa. Quando os valores do cosseno estão próximos de zero, os valores da secante crescem muito, tendendo ao infinito. Por outro lado, quando o cosseno atinge seus valores máximo ou mínimo, a secante se aproxima de 1 ou −1, respectivamente.<br><br>O estudo da secante, assim como das demais funções trigonométricas, remonta a civilizações antigas, incluindo matemáticos indianos e gregos, que desenvolveram as bases da trigonometria. Com o tempo, essas funções se tornaram essenciais para compreender ângulos, razões e comportamentos periódicos.<br><br>Devido à sua relação com a função cosseno, a Função Secante é um conceito importante na matemática, sendo amplamente utilizada para analisar expressões trigonométricas, resolver equações e modelar fenômenos periódicos em áreas como física, engenharia e ciência da computação.",
+    "recommendedVideoH1": "Vídeo Recomendado",
+
+    "contactEmailP": "Email de Contato: gustavosilveiraguedes@gmail.com",
+    "contactNumberP": "Número de Contato: +99 (99) 99999-9999"
+}

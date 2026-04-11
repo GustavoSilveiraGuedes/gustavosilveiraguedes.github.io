@@ -1,0 +1,13 @@
+{
+    "homeA": "Home",
+    "mathA": "Math",
+    "physA": "Phys",
+    "aboutA": "About",
+
+    "unitCircleH1": "Unit Circle",
+    "aboutP": "The Unit Circle is a fundamental concept in trigonometry used to define and understand all trigonometric functions. It is a circle with radius 1 centered at the origin of the coordinate plane. Through this simple structure, it is possible to derive and visualize the behavior of sine, cosine, tangent, and their related functions. This concept is typically introduced to students during high school, when they begin studying trigonometry in more depth.<br><br>The Unit Circle allows each angle to be associated with a specific point (x, y) on the circle. In this context, the cosine of the angle corresponds to the x-coordinate, while the sine corresponds to the y-coordinate. From these two values, other trigonometric functions such as tangent, secant, cosecant, and cotangent can be derived, making the unit circle the foundation of all trigonometric relationships.<br><br>Each trigonometric function has unique characteristics. The sine and cosine functions are periodic and oscillate between −1 and 1, representing smooth wave-like behavior. The tangent function, on the other hand, has discontinuities and grows infinitely near certain angles. Secant and cosecant are reciprocals of cosine and sine, respectively, while cotangent is the reciprocal of tangent. These relationships highlight how all trigonometric functions are interconnected through the unit circle.<br><br>The study of the unit circle and trigonometry dates back to ancient civilizations, especially Greek mathematicians, who explored angles and circular motion. Over time, these concepts were expanded and formalized, becoming essential tools in mathematics and science.<br><br>Because it serves as the origin of all trigonometric functions, the Unit Circle is one of the most important concepts in mathematics, widely used to analyze periodic phenomena, model waves, and solve problems in fields such as physics, engineering, and computer science.",
+    "recommendedVideoH1": "Recommended Video",
+
+    "contactEmailP": "Contact Email: gustavosilveiraguedes@gmail.com",
+    "contactNumberP": "Contact Number: +99 (99) 99999-9999"
+}

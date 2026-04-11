@@ -1,0 +1,13 @@
+{
+    "homeA": "Home",
+    "mathA": "Math",
+    "physA": "Phys",
+    "aboutA": "About",
+
+    "secantH1": "Secant",
+    "aboutP": "The Secant Function is a fundamental concept in trigonometry defined as the reciprocal of the cosine function. It is commonly represented as sec(θ) and can be expressed as sec(θ) = 1 / cos(θ). This concept is typically introduced to students during high school, when they expand their understanding of trigonometric functions and their relationships.<br><br>The secant function has values that extend beyond the interval between −1 and 1, since it is the reciprocal of cosine. It is undefined whenever the cosine of the angle is equal to zero, which creates discontinuities in its graph. As a result, the function forms a series of curves separated by vertical asymptotes.<br><br>One interesting characteristic of the secant function is that it reflects the behavior of the cosine function inversely. When the cosine values are close to zero, the secant values grow very large, approaching infinity. On the other hand, when the cosine reaches its maximum or minimum values, the secant approaches 1 or −1, respectively.<br><br>The study of secant, along with other trigonometric functions, dates back to ancient civilizations such as Indian and Greek mathematicians, who developed the foundational ideas of trigonometry. Over time, these functions became essential for understanding angles, ratios, and periodic behavior.<br><br>Because of its relationship with the cosine function, the Secant Function is an important concept in mathematics, widely used to analyze trigonometric expressions, solve equations, and model periodic phenomena in fields such as physics, engineering, and computer science.",
+    "recommendedVideoH1": "Recommended Video",
+
+    "contactEmailP": "Contact Email: gustavosilveiraguedes@gmail.com",
+    "contactNumberP": "Contact Number: +99 (99) 99999-9999"
+}

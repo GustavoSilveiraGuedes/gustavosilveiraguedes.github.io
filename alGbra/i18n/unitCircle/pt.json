@@ -1,0 +1,13 @@
+{
+    "homeA": "Início",
+    "mathA": "Mat",
+    "physA": "Fís",
+    "aboutA": "Sobre",
+
+    "unitCircleH1": "Círculo Unitário",
+    "aboutP": "O Círculo Unitário é um conceito fundamental da trigonometria utilizado para definir e compreender todas as funções trigonométricas. Ele é um círculo de raio 1 centrado na origem do plano cartesiano. A partir dessa estrutura simples, é possível derivar e visualizar o comportamento do seno, cosseno, tangente e suas funções relacionadas. Esse conceito é geralmente introduzido aos estudantes durante o ensino médio, quando começam a estudar trigonometria com mais profundidade.<br><br>O Círculo Unitário permite associar cada ângulo a um ponto específico (x, y) na circunferência. Nesse contexto, o cosseno do ângulo corresponde à coordenada x, enquanto o seno corresponde à coordenada y. A partir desses valores, outras funções trigonométricas como tangente, secante, cossecante e cotangente podem ser derivadas, tornando o círculo unitário a base de todas as relações trigonométricas.<br><br>Cada função trigonométrica possui características próprias. As funções seno e cosseno são periódicas e variam entre −1 e 1, apresentando um comportamento suave em forma de onda. Já a função tangente possui descontinuidades e cresce indefinidamente em certos ângulos. A secante e a cossecante são os recíprocos do cosseno e do seno, respectivamente, enquanto a cotangente é o recíproco da tangente. Essas relações mostram como todas as funções trigonométricas estão interligadas pelo círculo unitário.<br><br>O estudo do círculo unitário e da trigonometria remonta a civilizações antigas, especialmente matemáticos gregos, que exploraram ângulos e movimentos circulares. Com o tempo, esses conceitos foram ampliados e formalizados, tornando-se ferramentas essenciais na matemática e na ciência.<br><br>Devido ao fato de dar origem a todas as funções trigonométricas, o Círculo Unitário é um dos conceitos mais importantes da matemática, sendo amplamente utilizado para analisar fenômenos periódicos, modelar ondas e resolver problemas em áreas como física, engenharia e ciência da computação.",
+    "recommendedVideoH1": "Vídeo Recomendado",
+
+    "contactEmailP": "Email de Contato: gustavosilveiraguedes@gmail.com",
+    "contactNumberP": "Número de Contato: +99 (99) 99999-9999"
+}

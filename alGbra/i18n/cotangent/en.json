@@ -1,0 +1,13 @@
+{
+    "homeA": "Home",
+    "mathA": "Math",
+    "physA": "Phys",
+    "aboutA": "About",
+
+    "cotangentH1": "Cotangent",
+    "aboutP": "The Cotangent Function is a fundamental concept in trigonometry defined as the reciprocal of the tangent function. It is commonly represented as cot(θ) and can be expressed as cot(θ) = cos(θ) / sin(θ) or cot(θ) = 1 / tan(θ). This concept is typically introduced to students during high school, when they expand their understanding of trigonometric functions and their relationships.<br><br>The cotangent function can take any real value and, like tangent, it is periodic. However, it has discontinuities at angles where the sine of the angle is equal to zero, since division by zero is undefined. This results in a graph with vertical asymptotes and repeating patterns.<br><br>One interesting characteristic of the cotangent function is that it decreases as the angle increases within each interval, which is the opposite behavior of the tangent function. It approaches infinity near certain angles and crosses zero at regular intervals, forming a continuous but interrupted curve. This behavior reflects the ratio between the horizontal and vertical components of a point on the unit circle.<br><br>The study of cotangent, along with other trigonometric functions, dates back to ancient civilizations such as Indian and Greek mathematicians, who developed the foundational ideas of trigonometry. Over time, these functions became essential for understanding angles, ratios, and periodic behavior.<br><br>Because of its relationship with the tangent and sine functions, the Cotangent Function is an important concept in mathematics, widely used to analyze trigonometric expressions, solve equations, and model periodic phenomena in fields such as physics, engineering, and computer science.",
+    "recommendedVideoH1": "Recommended Video",
+
+    "contactEmailP": "Contact Email: gustavosilveiraguedes@gmail.com",
+    "contactNumberP": "Contact Number: +99 (99) 99999-9999"
+}

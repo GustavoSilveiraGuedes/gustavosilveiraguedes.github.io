@@ -1,0 +1,13 @@
+{
+    "homeA": "Home",
+    "mathA": "Math",
+    "physA": "Phys",
+    "aboutA": "About",
+
+    "sineH1": "Sine",
+    "aboutP": "The Sine Function is a fundamental concept in trigonometry used to describe the relationship between an angle and the vertical component of a point on the Unit Circle. It is commonly represented as sin(θ) and corresponds to the y-coordinate of a point on the unit circle associated with a given angle. This concept is typically introduced to students during high school, when they begin studying trigonometric functions and periodic behavior in more depth.<br><br>The sine function has values that range between −1 and 1, and it is known for its smooth, wave-like pattern when graphed. It is a periodic function, meaning it repeats its values in regular intervals. This behavior makes it especially useful for modeling oscillating phenomena such as waves, sound, and motion.<br><br>One interesting characteristic of the sine function is that it starts at zero when the angle is zero and reaches its maximum value at 90 degrees. It then decreases back to zero and continues into negative values, forming a continuous cycle. This pattern reflects the circular motion represented by the unit circle.<br><br>The study of the sine function dates back to ancient civilizations, including Indian and Greek mathematicians, who developed early concepts of trigonometry. Over time, it became one of the most important mathematical tools for analyzing periodic behavior and relationships involving angles.<br><br>Because of its wide range of applications, the Sine Function is an essential concept in mathematics, widely used to solve problems, analyze waves, and model real-world phenomena in fields such as physics, engineering, and computer science.",
+    "recommendedVideoH1": "Recommended Video",
+
+    "contactEmailP": "Contact Email: gustavosilveiraguedes@gmail.com",
+    "contactNumberP": "Contact Number: +99 (99) 99999-9999"
+}
