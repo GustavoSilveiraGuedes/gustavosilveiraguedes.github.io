@@ -1,0 +1,13 @@
+{
+    "homeA": "Home",
+    "mathA": "Math",
+    "physA": "Phys",
+    "aboutA": "About",
+
+    "circularPermutationH1": "Circular Permutation",
+    "aboutP": "Circular Permutation is a fundamental concept in combinatorics used to calculate the number of distinct arrangements of elements organized in a circle. Unlike linear permutations, in circular arrangements the starting position does not matter, since rotations of the same arrangement are considered identical. It is expressed by the formula PC = (n − 1)!, where n represents the number of elements. This concept is typically introduced to students during high school, when they begin studying more advanced counting techniques in combinatorial analysis.<br><br>The key idea behind circular permutation is that rotating all elements does not create a new distinct arrangement. For example, arranging people around a table will result in the same configuration if everyone shifts one position, since the relative order remains unchanged. To account for this, one element is fixed as a reference, and the remaining elements are permuted normally.<br><br>This concept is widely applied in real-world situations where arrangements are cyclic, such as seating people around a round table, organizing objects in a loop, or analyzing rotational patterns.<br><br>The study of circular permutations is part of combinatorics, a branch of mathematics that developed alongside probability theory, especially from the 17th century onward.<br><br>Because of its importance in counting cyclic arrangements, Circular Permutation is an essential concept in mathematics, widely used to solve problems, analyze possibilities, and model real-world situations in fields such as mathematics, computer science, and statistics.",
+    "recommendedVideoH1": "Recommended Video",
+
+    "contactEmailP": "Contact Email: gustavosilveiraguedes@gmail.com",
+    "contactNumberP": "Contact Number: +99 (99) 99999-9999"
+}

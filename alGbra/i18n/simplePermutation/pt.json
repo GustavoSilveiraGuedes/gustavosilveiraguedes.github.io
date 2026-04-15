@@ -1,0 +1,13 @@
+{
+    "homeA": "Início",
+    "mathA": "Mat",
+    "physA": "Fís",
+    "aboutA": "Sobre",
+
+    "simplePermutationH1": "Permutação Simples",
+    "aboutP": "A Permutação Simples é um conceito fundamental da análise combinatória utilizado para calcular o número de possíveis arranjos de um conjunto de elementos distintos. Ela é expressa pela fórmula P(n) = n!, onde n representa a quantidade total de elementos e “!” indica a operação fatorial. Esse conceito é geralmente introduzido aos estudantes durante o ensino médio, quando começam a estudar princípios de contagem e análise combinatória com mais profundidade.<br><br>O fatorial de um número é o produto de todos os números inteiros positivos de 1 até esse número. Por exemplo, 5! = 5 × 4 × 3 × 2 × 1. A partir dessa operação, é possível determinar quantas maneiras diferentes um conjunto de elementos pode ser organizado, considerando que a ordem dos elementos é importante.<br><br>Uma característica importante da permutação simples é que todos os elementos devem ser distintos. Caso existam elementos repetidos, deve-se utilizar outro tipo de permutação. Esse conceito é amplamente aplicado em situações onde a ordem importa, como na organização de objetos, formação de sequências e distribuição de posições.<br><br>O estudo das permutações faz parte da análise combinatória, um ramo da matemática que se desenvolveu ao longo do tempo com contribuições de diversos matemáticos, especialmente durante o avanço da teoria das probabilidades no século XVII.<br><br>Devido à sua importância na contagem e organização, a Permutação Simples é um conceito essencial na matemática, sendo amplamente utilizada para resolver problemas, analisar possibilidades e modelar situações reais em áreas como ciência da computação, estatística e criptografia.",
+    "recommendedVideoH1": "Vídeo Recomendado",
+
+    "contactEmailP": "Email de Contato: gustavosilveiraguedes@gmail.com",
+    "contactNumberP": "Número de Contato: +99 (99) 99999-9999"
+}

@@ -1,0 +1,13 @@
+{
+    "homeA": "Home",
+    "mathA": "Math",
+    "physA": "Phys",
+    "aboutA": "About",
+
+    "simpleArrangementH1": "Simple Arrangement",
+    "aboutP": "Simple Arrangement is a fundamental concept in combinatorics used to calculate the number of ordered selections of elements from a larger set. It is expressed by the formula A(n, p) = n! / (n − p)!, where n represents the total number of elements and p represents the number of elements chosen. This concept is typically introduced to students during high school, when they begin studying counting techniques and combinatorial analysis in more depth.<br><br>The key characteristic of simple arrangement is that the order of the selected elements matters. This means that selecting the same elements in a different order results in a different arrangement. Because of this, arrangements are commonly used in situations where position or sequence is important.<br><br>For example, choosing positions for a podium (first, second, and third place) is an arrangement, since the order of the winners changes the outcome. This distinguishes arrangements from combinations, where order does not matter.<br><br>The study of arrangements is part of combinatorics, a branch of mathematics that developed significantly alongside probability theory, especially from the 17th century onward.<br><br>Because of its importance in ordered selections, Simple Arrangement is an essential concept in mathematics, widely used to solve problems, analyze possibilities, and model real-world situations in fields such as statistics, computer science, and decision-making processes.",
+    "recommendedVideoH1": "Recommended Video",
+
+    "contactEmailP": "Contact Email: gustavosilveiraguedes@gmail.com",
+    "contactNumberP": "Contact Number: +99 (99) 99999-9999"
+}

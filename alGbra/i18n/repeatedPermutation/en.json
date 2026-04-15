@@ -1,0 +1,13 @@
+{
+    "homeA": "Home",
+    "mathA": "Math",
+    "physA": "Phys",
+    "aboutA": "About",
+
+    "repeatedPermutationH1": "Repeated Permutation",
+    "aboutP": "Repeated Permutation is a fundamental concept in combinatorics used to calculate the number of distinct arrangements of elements in a set where some elements are repeated. It is expressed by the formula P = n! / (n₁! × n₂! × ... × nₖ!), where n represents the total number of elements, and n₁, n₂, ..., nₖ represent the quantities of each group of repeated elements. This concept is typically introduced to students during high school, when they begin studying more advanced counting techniques in combinatorial analysis.<br><br>The key idea behind repeated permutation is that when elements are identical, some arrangements become indistinguishable. To correct this, the total number of permutations is divided by the factorials of the repeated elements, eliminating overcounting and ensuring only unique arrangements are considered.<br><br>For example, in a word with repeated letters, swapping identical letters does not create a new distinct arrangement. The formula accounts for this by reducing the total number of permutations accordingly.<br><br>The study of permutations with repetition is part of combinatorics, a branch of mathematics that developed significantly alongside probability theory, especially from the 17th century onward.<br><br>Because of its importance in counting situations involving repeated elements, Repeated Permutation is an essential concept in mathematics, widely used to solve problems involving arrangements, analyze possibilities, and model real-world scenarios in fields such as statistics, computer science, and cryptography.",
+    "recommendedVideoH1": "Recommended Video",
+
+    "contactEmailP": "Contact Email: gustavosilveiraguedes@gmail.com",
+    "contactNumberP": "Contact Number: +99 (99) 99999-9999"
+}

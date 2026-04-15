@@ -1,0 +1,13 @@
+{
+    "homeA": "Home",
+    "mathA": "Math",
+    "physA": "Phys",
+    "aboutA": "About",
+
+    "simplePermutationH1": "Simple Permutation",
+    "aboutP": "Simple Permutation is a fundamental concept in combinatorics used to calculate the number of possible arrangements of a set of distinct elements. It is expressed by the formula P(n) = n!, where n represents the total number of elements and “!” denotes the factorial operation. This concept is typically introduced to students during high school, when they begin studying counting principles and combinatorial analysis in more depth.<br><br>The factorial of a number is the product of all positive integers from 1 up to that number. For example, 5! = 5 × 4 × 3 × 2 × 1. Using this operation, it is possible to determine how many different ways a set of elements can be arranged, considering that the order of the elements matters.<br><br>One important characteristic of simple permutation is that all elements must be distinct. If there are repeated elements, a different type of permutation must be used. The concept is widely applied in situations where ordering is relevant, such as arranging objects, forming sequences, or organizing positions.<br><br>The study of permutations is part of combinatorics, a branch of mathematics that developed over time with contributions from various mathematicians, especially during the development of probability theory in the 17th century.<br><br>Because of its importance in counting and organization, Simple Permutation is an essential concept in mathematics, widely used to solve problems, analyze possibilities, and model real-world situations in fields such as computer science, statistics, and cryptography.",
+    "recommendedVideoH1": "Recommended Video",
+
+    "contactEmailP": "Contact Email: gustavosilveiraguedes@gmail.com",
+    "contactNumberP": "Contact Number: +99 (99) 99999-9999"
+}

@@ -1,0 +1,13 @@
+{
+    "homeA": "Início",
+    "mathA": "Mat",
+    "physA": "Fís",
+    "aboutA": "Sobre",
+
+    "repeatedPermutationH1": "Permutação com Repetição",
+    "aboutP": "A Permutação com Repetição é um conceito fundamental da análise combinatória utilizado para calcular o número de arranjos distintos de elementos em um conjunto onde alguns elementos se repetem. Ela é expressa pela fórmula P = n! / (n₁! × n₂! × ... × nₖ!), onde n representa o número total de elementos, e n₁, n₂, ..., nₖ representam as quantidades de cada grupo de elementos repetidos. Esse conceito é geralmente introduzido aos estudantes durante o ensino médio, quando passam a estudar técnicas mais avançadas de contagem na análise combinatória.<br><br>A ideia principal da permutação com repetição é que, quando existem elementos iguais, algumas organizações tornam-se indistinguíveis. Para corrigir isso, o total de permutações é dividido pelos fatoriais das quantidades repetidas, eliminando contagens duplicadas e garantindo que apenas arranjos distintos sejam considerados.<br><br>Por exemplo, em uma palavra com letras repetidas, trocar letras iguais não gera uma nova organização distinta. A fórmula leva isso em consideração ao reduzir o total de permutações possíveis.<br><br>O estudo das permutações com repetição faz parte da análise combinatória, um ramo da matemática que se desenvolveu significativamente junto com a teoria das probabilidades, especialmente a partir do século XVII.<br><br>Devido à sua importância em situações que envolvem elementos repetidos, a Permutação com Repetição é um conceito essencial na matemática, sendo amplamente utilizada para resolver problemas de contagem, analisar possibilidades e modelar situações reais em áreas como estatística, ciência da computação e criptografia.",
+    "recommendedVideoH1": "Vídeo Recomendado",
+
+    "contactEmailP": "Email de Contato: gustavosilveiraguedes@gmail.com",
+    "contactNumberP": "Número de Contato: +99 (99) 99999-9999"
+}

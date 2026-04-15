@@ -1,0 +1,13 @@
+{
+    "homeA": "Home",
+    "mathA": "Math",
+    "physA": "Phys",
+    "aboutA": "About",
+
+    "simpleCombinationH1": "Simple Combination",
+    "aboutP": "Simple Combination is a fundamental concept in combinatorics used to calculate the number of ways to select elements from a larger set without considering the order. It is expressed by the formula C(n, p) = n! / [p! × (n − p)!], where n represents the total number of elements and p represents the number of elements chosen. This concept is typically introduced to students during high school, when they begin studying counting techniques and combinatorial analysis in more depth.<br><br>The key characteristic of simple combination is that the order of the selected elements does not matter. This means that choosing the same elements in a different order is considered the same combination. Because of this, combinations are used in situations where only the selection matters, not the arrangement.<br><br>For example, selecting members for a group or forming a team are situations that involve combinations, since the order in which the elements are chosen does not change the result. This distinguishes combinations from arrangements, where order plays a crucial role.<br><br>The study of combinations is part of combinatorics, a branch of mathematics that developed significantly alongside probability theory, especially from the 17th century onward.<br><br>Because of its importance in unordered selections, Simple Combination is an essential concept in mathematics, widely used to solve problems, analyze possibilities, and model real-world situations in fields such as statistics, probability, and computer science.",
+    "recommendedVideoH1": "Recommended Video",
+
+    "contactEmailP": "Contact Email: gustavosilveiraguedes@gmail.com",
+    "contactNumberP": "Contact Number: +99 (99) 99999-9999"
+}

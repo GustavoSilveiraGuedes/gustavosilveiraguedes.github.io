@@ -1,0 +1,13 @@
+{
+    "homeA": "Início",
+    "mathA": "Mat",
+    "physA": "Fís",
+    "aboutA": "Sobre",
+
+    "circularPermutationH1": "Permutação Circular",
+    "aboutP": "A Permutação Circular é um conceito fundamental da análise combinatória utilizado para calcular o número de arranjos distintos de elementos organizados em forma circular. Diferente das permutações lineares, em arranjos circulares a posição inicial não importa, pois rotações de uma mesma organização são consideradas iguais. Ela é expressa pela fórmula P = (n − 1)!, onde n representa a quantidade de elementos. Esse conceito é geralmente introduzido aos estudantes durante o ensino médio, quando começam a estudar técnicas mais avançadas de contagem na análise combinatória.<br><br>A ideia principal da permutação circular é que rotacionar todos os elementos não gera uma nova organização distinta. Por exemplo, ao organizar pessoas ao redor de uma mesa redonda, a configuração continua sendo a mesma se todos mudarem uma posição, pois a ordem relativa permanece igual. Para resolver isso, fixa-se um elemento como referência e permutam-se os demais normalmente.<br><br>Esse conceito é amplamente aplicado em situações reais que envolvem arranjos cíclicos, como a organização de pessoas em mesas redondas, objetos em formato circular ou padrões que se repetem em ciclos.<br><br>O estudo das permutações circulares faz parte da análise combinatória, um ramo da matemática que se desenvolveu junto com a teoria das probabilidades, especialmente a partir do século XVII.<br><br>Devido à sua importância na contagem de arranjos cíclicos, a Permutação Circular é um conceito essencial na matemática, sendo amplamente utilizada para resolver problemas, analisar possibilidades e modelar situações reais em áreas como matemática, ciência da computação e estatística.",
+    "recommendedVideoH1": "Vídeo Recomendado",
+
+    "contactEmailP": "Email de Contato: gustavosilveiraguedes@gmail.com",
+    "contactNumberP": "Número de Contato: +99 (99) 99999-9999"
+}

@@ -1,0 +1,13 @@
+{
+    "homeA": "Início",
+    "mathA": "Mat",
+    "physA": "Fís",
+    "aboutA": "Sobre",
+
+    "simpleArrangementH1": "Arranjo Simples",
+    "aboutP": "O Arranjo Simples é um conceito fundamental da análise combinatória utilizado para calcular o número de seleções ordenadas de elementos a partir de um conjunto maior. Ele é expresso pela fórmula A(n, p) = n! / (n − p)!, onde n representa o número total de elementos e p representa a quantidade de elementos escolhidos. Esse conceito é geralmente introduzido aos estudantes durante o ensino médio, quando começam a estudar técnicas de contagem e análise combinatória com mais profundidade.<br><br>A principal característica do arranjo simples é que a ordem dos elementos escolhidos importa. Isso significa que selecionar os mesmos elementos em ordens diferentes resulta em arranjos distintos. Por esse motivo, os arranjos são utilizados em situações onde a posição ou a sequência é relevante.<br><br>Por exemplo, a definição das posições de um pódio (primeiro, segundo e terceiro lugar) é um caso de arranjo, pois a ordem dos vencedores altera o resultado. Isso diferencia os arranjos das combinações, nas quais a ordem não importa.<br><br>O estudo dos arranjos faz parte da análise combinatória, um ramo da matemática que se desenvolveu significativamente junto com a teoria das probabilidades, especialmente a partir do século XVII.<br><br>Devido à sua importância em seleções ordenadas, o Arranjo Simples é um conceito essencial na matemática, sendo amplamente utilizado para resolver problemas, analisar possibilidades e modelar situações reais em áreas como estatística, ciência da computação e processos de tomada de decisão.",
+    "recommendedVideoH1": "Vídeo Recomendado",
+
+    "contactEmailP": "Email de Contato: gustavosilveiraguedes@gmail.com",
+    "contactNumberP": "Número de Contato: +99 (99) 99999-9999"
+}
