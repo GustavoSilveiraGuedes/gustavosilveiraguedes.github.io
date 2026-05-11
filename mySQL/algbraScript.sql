@@ -11,7 +11,12 @@ CREATE TABLE usuario(
 
 CREATE TABLE formula(
 	id INT AUTO_INCREMENT,
-	nome VARCHAR(100) NOT NULL UNIQUE,
+	nomePrimarioPT VARCHAR(100) NOT NULL,
+    nomeSecundarioPT VARCHAR(100),
+    nomeTercearioPT VARCHAR(100),
+    nomePrimarioEN VARCHAR(100) NOT NULL,
+    nomeSecundarioEN VARCHAR(100),
+    nomeTercearioEN VARCHAR(100),
 	materia VARCHAR(100) NOT NULL,
 	conteudo VARCHAR(100) NOT NULL,
 	numeroVariaveis INT,
