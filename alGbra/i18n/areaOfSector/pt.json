@@ -4,7 +4,7 @@
     "physA": "Fís",
     "aboutA": "Sobre",
 
-    "areaOfSectorH1": "Área do Setor",
+    "areaOfSectorH1": "Área do Setor Circular",
     "aboutP": "A Área do Setor é um conceito fundamental da geometria utilizado para calcular a parte de um círculo definida por um ângulo central. Ela é comumente expressa pela fórmula A = (θ / 360°) × π × r² e geralmente é introduzida aos alunos durante o ensino fundamental, quando começam a estudar circunferências e relações entre ângulos com mais profundidade.<br><br>Essa fórmula envolve três variáveis principais: A, θ e r. A variável A representa a área do setor, θ representa o ângulo central em graus, e r representa o raio do círculo. A fórmula pode ser entendida como uma fração da área total do círculo, proporcional à medida do ângulo. Ao substituir os valores na fórmula, é possível calcular a área apenas daquela parte específica do círculo.<br><br>O estudo dos círculos e das medidas angulares remonta a civilizações antigas, incluindo matemáticos babilônios e gregos, que desenvolveram os primeiros conceitos de ângulos e geometria circular. Essas ideias foram posteriormente refinadas e formalizadas com o desenvolvimento da matemática simbólica no século XVII.<br><br>Devido às suas aplicações práticas, a fórmula da área do setor é uma ferramenta importante na geometria, sendo amplamente utilizada para resolver problemas envolvendo divisões circulares, projetos de engenharia e situações do mundo real que exigem o cálculo de partes de regiões circulares.",
 
     "recommendedVideoH1": "Vídeo Recomendado",
