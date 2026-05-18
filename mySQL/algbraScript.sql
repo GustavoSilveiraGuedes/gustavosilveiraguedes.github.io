@@ -70,4 +70,21 @@ INSERT INTO formula(nomePT, aliasPT1, aliasPT2, nomeEN, aliasEN1, aliasEN2, mate
 
 			('Área Círculo', '', '', 'Area Circle', '', '', 'Matemática', 'Geometria Plana', 2, '7EF', 'III a.C', 'Arquimedes'),
 			('Área Coroa Circular', '', '', 'Area Annulus', '', '', 'Matemática', 'Geometria Plana', 3, '7EF', 'III a.C', 'Arquimedes'),
-			('Área Segmento Circular', '', '', 'Area Sector', '', '', 'Matemática', 'Geometria Plana', 3, '7EF', 'III a.C', '');
+			('Área Setor Circular', '', '', 'Area Sector', '', '', 'Matemática', 'Geometria Plana', 3, '7EF', 'III a.C', ''),
+			('Área Segmento Circular', '', '', 'Area Segment', '', '', 'Matemática', 'Geometria Plana', 3, '7EF', 'III a.C', ''),
+
+			('Área Triângulo', '', '', 'Area Triangle', '', '', 'Matemática', 'Geometria Plana', 3, '7EF', 'III a.C', 'Euclides'),
+			('Apótema Triangulo', '', '', 'Apothem Triangle', '', '', 'Matemática', 'Geometria Plana', 2, '7EF', 'III a.C', 'Euclides'),
+			('Teorema Pitágoras', '', '', 'Pythagorean Theorem', '', '', 'Matemática', 'Geometria Plana', 3, '7EF', 'VI a.C', 'Pitágoras'),
+
+			('Área Quadrado', '', '', 'Area Square', '', '', 'Matemática', 'Geometria Plana', 2, '7EF', 'III a.C', 'Euclides'),
+			('Diagonal Quadrado', '', '', 'Diagonal Square', '', '', 'Matemática', 'Geometria Plana', 2, '7EF', 'III a.C', 'Euclides'),
+			('Apótema Quadrado', '', '', 'Apothem Square', '', '', 'Matemática', 'Geometria Plana', 2, '7EF', 'III a.C', 'Euclides'),
+
+			('Área Retângulo', '', '', 'Area Rectangle', '', '', 'Matemática', 'Geometria Plana', 3, '7EF', 'III a.C', 'Euclides'),
+
+			('Área Trapézio', '', '', 'Area Trapezoid', '', '', 'Matemática', 'Geometria Plana', 4, '7EF', 'III a.C', ''),
+
+			('Área Losango', '', '', 'Area Rhombus', '', '', 'Matemática', 'Geometria Plana', 3, '7EF', 'III a.C', 'Euclides'),
+
+			('Área Hexágono', '', '', 'Area Hexagon', '', '', 'Matemática', 'Geometria Plana', 2, '1EM', 'III a.C', 'Euclides'),
