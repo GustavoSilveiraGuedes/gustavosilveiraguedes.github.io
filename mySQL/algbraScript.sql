@@ -7,7 +7,7 @@ CREATE TABLE usuario(
 	nome VARCHAR(100) NOT NULL,
 	email VARCHAR(255) NOT NULL UNIQUE,
 	senha VARCHAR(255), -- SENHA PODE SER NULA DEVIDO A ASI DO GOOGLE
-	PRIMARY KEY (id)
+		PRIMARY KEY (id)
 );
 
 CREATE TABLE formula(
@@ -24,27 +24,29 @@ CREATE TABLE formula(
 	periodoEnsinado VARCHAR(3) NOT NULL,
 	seculo VARCHAR(10) NOT NULL,
 	autor VARCHAR(100),
-	PRIMARY KEY (id)
+		PRIMARY KEY (id)
 );
 
 CREATE TABLE desafioDiario(
 	id INT AUTO_INCREMENT,
 	formula_id INT NOT NULL,
 	dataDesafio DATE NOT NULL UNIQUE,
-	PRIMARY KEY (id),
-	FOREIGN KEY (formula_id) REFERENCES formula(id)
+		PRIMARY KEY (id),
+		FOREIGN KEY (formula_id) REFERENCES formula(id)
 );
 
 CREATE TABLE participacao(
 	usuario_id INT,
 	desafioDiario_id INT,
 	acertou TINYINT NOT NULL,
-	PRIMARY KEY (usuario_id, desafioDiario_id),
-	FOREIGN KEY (usuario_id) REFERENCES usuario(id),
-	FOREIGN KEY (desafioDiario_id) REFERENCES desafioDiario(id)
+		PRIMARY KEY (usuario_id, desafioDiario_id),
+		FOREIGN KEY (usuario_id) REFERENCES usuario(id),
+		FOREIGN KEY (desafioDiario_id) REFERENCES desafioDiario(id)
 );
 
 INSERT INTO formula(nomePT, aliasPT1, aliasPT2, nomeEN, aliasEN1, aliasEN2, materia, conteudo, numeroVariaveis, periodoEnsinado, seculo, autor)
+
+
 													-- FUNÇÕES --
 	VALUES	('Função Primeiro Grau', '', '', 'First Degree Function', '', '', 'Matemática', 'Funções', 4, '9EF', 'XVII', ''),
     
@@ -62,6 +64,7 @@ INSERT INTO formula(nomePT, aliasPT1, aliasPT2, nomeEN, aliasEN1, aliasEN2, mate
 			('Progressão Geométrica Razão', 'PG Razão', '', 'Geometric Sequence Common Difference', 'AS Common Difference', '', 'Matemática', 'Progressões', 3, '1EM', 'XVII', ''),
 			('Progressão Geométrica Soma Termos', 'PG Soma Termos', '', 'Geometric Sequence Sum Terms', 'AS Sum Terms', '', 'Matemática', 'Progressões', 4, '1EM', 'XVII', ''),
 			('Progressão Geométrica Número Termos', 'PG Número Termos', '', 'Geometric Sequence Number Terms', 'AS Number Terms', '', 'Matemática', 'Progressões', 4, '1EM', 'XVII', ''),
+
 
 													-- GEOMETRIA PLANA --
 			('Soma Ângulos Internos', '', '', 'Internal Angles Sum', '', '', 'Matemática', 'Geometria Plana', 2, '7EF', 'III a.C', 'Euclides'),
@@ -88,3 +91,21 @@ INSERT INTO formula(nomePT, aliasPT1, aliasPT2, nomeEN, aliasEN1, aliasEN2, mate
 			('Área Losango', '', '', 'Area Rhombus', '', '', 'Matemática', 'Geometria Plana', 3, '7EF', 'III a.C', 'Euclides'),
 
 			('Área Hexágono', '', '', 'Area Hexagon', '', '', 'Matemática', 'Geometria Plana', 2, '1EM', 'III a.C', 'Euclides'),
+
+
+													-- GEOMETRIA ESPACIAL --
+			('Prisma Área Total', '', '', 'Prism Total Area', '', '', 'Matemática', 'Geometria Espacial', 3, '9EF', 'III a.C', 'Euclides'),
+			('Prisma Volume', '', '', 'Prism Volume', '', '', 'Matemática', 'Geometria Espacial', 3, '9EF', 'III a.C', 'Euclides'),
+
+			('Pirâmide Área Total', '', '', 'Pyramid Total Area', '', '', 'Matemática', 'Geometria Espacial', 3, '9EF', 'III a.C', 'Euclides'),
+			('Pirâmide Volume', '', '', 'Pyramid Volume', '', '', 'Matemática', 'Geometria Espacial', 3, '9EF', 'III a.C', 'Euclides'),
+
+			('Cilindro Área Total', '', '', 'Cylinder Total Area', '', '', 'Matemática', 'Geometria Espacial', 3, '9EF', 'III a.C', 'Euclides'),
+			('Cilindro Volume', '', '', 'Cylinder Volume', '', '', 'Matemática', 'Geometria Espacial', 3, '9EF', 'III a.C', 'Euclides'),
+
+			('Cone Área Lateral', '', '', 'Cone Lateral Area', '', '', 'Matemática', 'Geometria Espacial', 3, '9EF', 'III a.C', 'Euclides'),
+			('Cone Área Total', '', '', 'Cone Total Area', '', '', 'Matemática', 'Geometria Espacial', 3, '9EF', 'III a.C', 'Euclides'),
+			('Cone Volume', '', '', 'Cone Volume', '', '', 'Matemática', 'Geometria Espacial', 3, '9EF', 'III a.C', 'Euclides'),
+
+			('Esfera Área Superficie', 'Sphere Área Lateral', '', 'Sphere Superface Area', 'Sphere Lateral Area', '', 'Matemática', 'Geometria Espacial', 2, '9EF', 'III a.C', 'Arquimedes'),
+			('Esfera Volume', '', '', 'Sphere Volume', '', '', 'Matemática', 'Geometria Espacial', 2, '9EF', 'III a.C', 'Arquimedes');
