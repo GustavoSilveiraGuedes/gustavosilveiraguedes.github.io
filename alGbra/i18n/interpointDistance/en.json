@@ -4,7 +4,7 @@
     "physA": "Phys",
     "aboutA": "About",
 
-    "interpointDistanceH1": "Distance Between Two Points",
+    "interpointDistanceH1": "Interpoint Distance",
     "aboutP": "The Distance Between Two Points is a fundamental concept in analytic geometry used to calculate the straight-line distance between two points in a coordinate plane. It is expressed by the formula d = √[(x₂ − x₁)² + (y₂ − y₁)²], where (x₁, y₁) and (x₂, y₂) represent the coordinates of the two points. This concept is typically introduced to students during high school, when they begin studying coordinate geometry and spatial relationships in more depth.<br><br>This formula involves four main elements: the coordinates of the first point and the coordinates of the second point. By subtracting the x-coordinates and the y-coordinates separately, squaring the results, and then taking the square root of their sum, it is possible to determine the exact distance between the two points. This method is directly derived from the Pythagorean Theorem, applied to a right triangle formed between the points.<br><br>The study of coordinate geometry was developed by mathematicians such as René Descartes, who introduced the Cartesian coordinate system in the 17th century. This innovation allowed geometric shapes to be represented algebraically, making it possible to calculate distances, slopes, and other properties using formulas.<br><br>Because of its importance in understanding spatial relationships, the Distance Between Two Points is an essential concept in mathematics, widely used to solve geometric problems, analyze graphs, and apply mathematical reasoning in fields such as physics, engineering, and computer science.",
     "recommendedVideoH1": "Recommended Video",
 
