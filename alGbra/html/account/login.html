@@ -39,15 +39,16 @@
 
         <section id="login" class="hiddenScroll" data-animation="intro1">
             <h1 class="hiddenScroll" data-animation="intro2" data-i18n="welcomeH1">Welcome</h1>
+
             <form action="../../index.html" method="get">
-                <input type="text" name="name" id="iname" placeholder="Username" data-i18n="usernameInput"
-                    data-i18n-attr="placeholder" class="hiddenScroll" data-animation="intro1" required>
+                
+
 
                 <input type="email" name="email" id="iemal" placeholder="Email" data-i18n="emalInput"
                     data-i18n-attr="placeholder" class="hiddenScroll" data-animation="intro1" required>
 
                 <input type="password" name="password" id="ipassword" placeholder="Password" data-i18n="passwordInput"
-                    data-i18n-attr="placeholder" class="hiddenScroll" data-animation="intro1" required>
+                    data-i18n-attr="placeholder" class="hiddenScroll" data-animation="intro1" minlength="8" required>
                 
                 <div id="rememberMe">
                     <input type="checkbox" name="rememberMe" id="irememberMe" class="hiddenScroll"
@@ -60,6 +61,7 @@
                     data-animation="intro1">
 
             </form>
+
             <div>
                 <button id="googleCadastro" type="button" class="hiddenScroll" data-animation="intro1">
                     <svg xmlns="http://www.w3.org/2000/svg" fill="currentColor" class="bi bi-google"
@@ -92,6 +94,7 @@
                     src="../../img/visual/instagram.svg"></a>
         </div>
     </footer>
+
 
     <script src="../../js/global.js"></script>
     <script src="../../js/loginRegister.js"></script>

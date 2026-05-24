@@ -4,7 +4,7 @@ USE algbra;
 
 CREATE TABLE usuario(
 	id INT AUTO_INCREMENT,
-	nome VARCHAR(100) NOT NULL,
+	nome VARCHAR(100) NOT NULL ,
 	email VARCHAR(255) NOT NULL UNIQUE,
 	senha VARCHAR(255), -- SENHA PODE SER NULA DEVIDO A API DO GOOGLE
 		PRIMARY KEY (id)
@@ -134,4 +134,11 @@ INSERT INTO formula(nomePT, aliasPT1, aliasPT2, nomeEN, aliasEN1, aliasEN2, mate
 			('Combinação Simples', '', '', 'Simple Combination', '', '', 'Matemática', 'Análise Combinatória', 3, '3EM', 'XVII', '');
 
 
+INSERT INTO usuario(nome, email, senha)
+
+	VALUES 	('Carlos Piloto', 'carlospiloto10k@gmail.com', ''),
+			('Namo do Batata', 'giovanapirath@gmail.com', ''),
+			('Namo da Gigica', 'gustavosilveiraguedes@gmail.com', '');
+
+SELECT * FROM usuario;
 SELECT * FROM formula;

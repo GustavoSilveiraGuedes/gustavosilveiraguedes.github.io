@@ -21,7 +21,7 @@
 
 
 body {
-    background: var(--color4) url("../img/visual/BackgroundImg.jpg") repeat top center;
+    background: var(--color4) url("../img/visual/backgroundImg.jpg") repeat top center;
     background-size: contain;
     color: var(--color5);
     font-family: "Inter", sans-serif;
