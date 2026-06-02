@@ -140,5 +140,14 @@ INSERT INTO usuario(nome, email, senha)
 			('Namo do Batata', 'giovanapirath@gmail.com', ''),
 			('Namo da Gigica', 'gustavosilveiraguedes@gmail.com', '');
 
+
+INSERT INTO desafioDiario(formula_id, dataDesafio)
+
+	VALUES 	(1, '2026-05-31'),
+			(2, '2026-06-01'),
+			(3, '2026-06-02'),
+			(4, '2026-06-03');
+
+
 SELECT * FROM usuario;
 SELECT * FROM formula;
