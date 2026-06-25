@@ -1,51 +1,30 @@
 const express = require("express");
-const mysql = require("mysql2");
-const cors = require("cors");
-require("dotenv").config();
 
 const app = express();
 
-app.use(cors());
-app.use(express.json());
+app.get("/", (req, res) => {
 
-const connection = mysql.createConnection({
-    host: process.env.DB_HOST,
-    user: process.env.DB_USER,
-    password: process.env.DB_PASSWORD,
-    database: process.env.DB_NAME,
-    port: process.env.DB_PORT
-});
-
-connection.connect((err) => {
-
-    if (err) {
-        console.error("Erro ao conectar no MySQL:", err);
-        return;
-    }
-
-    console.log("Conectado ao MySQL!");
+    res.send("Algbra funcionando");
 
 });
 
-app.get("/formula", (req, res) => {
+app.get("/formulas", (req, res) => {
 
-    connection.query(
-        "SELECT * FROM formula",
-        (err, results) => {
-
-            if (err) {
-                return res.status(500).json(err);
-            }
-
-            res.json(results);
-
+    res.json([
+        {
+            id: 1,
+            nome: "Função Primeiro Grau"
+        },
+        {
+            id: 2,
+            nome: "Função Segundo Grau"
         }
-    );
+    ]);
 
 });
 
 app.listen(3000, () => {
 
-    console.log("Servidor rodando em http://localhost:3000");
+    console.log("Servidor rodando na porta 3000");
 
 });
