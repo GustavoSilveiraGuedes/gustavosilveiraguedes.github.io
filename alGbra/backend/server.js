@@ -27,7 +27,7 @@ connection.connect((err) => {
 
 });
 
-app.get("/formulas", (req, res) => {
+app.get("/formula", (req, res) => {
 
     connection.query(
         "SELECT * FROM formula",
